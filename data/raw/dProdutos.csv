@@ -1,0 +1,121 @@
+﻿ProdutoID,Produto,Categoria,Subcategoria,Marca,PrecoBase,CustoBase
+1,Smartphone 01,Eletrônicos,Smartphone,SmartOne,5524.22,4457.18
+2,Smartphone 02,Eletrônicos,Smartphone,NovaTech,382.17,312.06
+3,Tablet 03,Eletrônicos,Tablet,SmartOne,4225.6,3316.55
+4,Tablet 04,Eletrônicos,Tablet,NovaTech,5389.51,4055.38
+5,Smart TV 05,Eletrônicos,Smart TV,VisionX,600.93,488.6
+6,Smart TV 06,Eletrônicos,Smart TV,Lumina,2213.31,1742.52
+7,Câmera 07,Eletrônicos,Câmera,PixelPro,803.16,628.89
+8,Console 08,Eletrônicos,Console,GameBox,3852.88,2852.78
+9,Smartwatch 09,Eletrônicos,Smartwatch,Pulse,1412.99,1053.95
+10,Caixa de Som 10,Eletrônicos,Caixa de Som,Sonic,1698.2,1304.63
+11,Fone Bluetooth 11,Eletrônicos,Fone Bluetooth,Sonic,3074.87,2481.96
+12,Projetor 12,Eletrônicos,Projetor,VisionX,3241.92,2588.67
+13,E-reader 13,Eletrônicos,E-reader,Readly,849.79,668.74
+14,Drone 14,Eletrônicos,Drone,SkyCam,1148.7,914.43
+15,Soundbar 15,Eletrônicos,Soundbar,Sonic,745.4,591.72
+16,Monitor Gamer 16,Eletrônicos,Monitor Gamer,PixelPro,3662.43,2726.36
+17,TV OLED 17,Eletrônicos,TV OLED,Lumina,665.68,516.54
+18,Câmera de Ação 18,Eletrônicos,Câmera de Ação,SkyCam,1371.97,1080.12
+19,Home Theater 19,Eletrônicos,Home Theater,Sonic,4692.98,3544.56
+20,Roteador Mesh 20,Eletrônicos,Roteador Mesh,NetWave,428.57,319.07
+21,Notebook 01,INFORMÁTICA,Notebook,TechPlus,293.38,222.47
+22,Notebook Gamer 02,Informática,Notebook Gamer,TechPlus,745.79,538.61
+23,Desktop 03,Informática,Desktop,ByteWorks,105.2,77.94
+24,Monitor 04,Informática,Monitor,PixelPro,208.55,156.19
+25,Teclado 05,Informática,Teclado,KeyLab,332.32,235.79
+26,Mouse 06,Informática,Mouse,KeyLab,771.77,563.65
+27,SSD 07,Informática,SSD,ByteWorks,613.98,457.48
+28,HD Externo 08,Informática,HD Externo,ByteWorks,109.63,78.34
+29,Memória RAM 09,Informática,Memória RAM,ByteWorks,1313.1,1002.89
+30,Webcam 10,Informática,Webcam,VisionX,5486.56,3938.81
+31,Headset 11,Informática,Headset,Sonic,160.42,120.16
+32,Impressora 12, Informática,Impressora,PrintGo,1918.49,1425.01
+33,Roteador 13,Informática,Roteador,NetWave,316.95,230.22
+34,Switch de Rede 14,Informática,Switch de Rede,NetWave,103.51,79.86
+35,Dock Station 15,Informática,Dock Station,TechPlus,561.86,405.57
+36,Hub USB 16,Informática,Hub USB,TechPlus,1502.13,1058.59
+37,Placa de Vídeo 17,Informática,Placa de Vídeo,ByteWorks,91.71,65.25
+38,Placa-mãe 18,Informática,Placa-mãe,ByteWorks,162.42,120.88
+39,Fonte ATX 19,Informática,Fonte ATX,ByteWorks,4984.7,3836.61
+40,Cadeira Gamer 20,Informática,Cadeira Gamer,ErgoOffice,161.98,123.74
+41,Cafeteira 01,Casa,Cafeteira,HomeJoy,162.01,108.49
+42,Aspirador 02,Casa,Aspirador,HomeJoy,525.87,376.65
+43,Luminária 03,Casa,Luminária,CasaLuz,61.98,42.71
+44,Panela Elétrica 04,Casa,Panela Elétrica,ChefPro,867.38,601.54
+45,Purificador 05,Casa,Purificador,AquaHome,143.24,98.15
+46,Ventilador 06,Casa,Ventilador,Breeze,112.08,76.59
+47,Umidificador 07,Casa,Umidificador,Breeze,604.3,409.4
+48,Ferro de Passar 08,Casa,Ferro de Passar,HomeJoy,1093.98,700.61
+49,Balança Digital 09,Casa,Balança Digital,HomeJoy,1088.6,711.66
+50,Kit Organizadores 10,Casa,Kit Organizadores,Organiza,816.03,554.34
+51,Jogo de Panelas 11,Casa,Jogo de Panelas,ChefPro,254.98,165.12
+52,Liquidificador 12,Casa,Liquidificador,ChefPro,1420.6,912.93
+53,Mixer 13,Casa,Mixer,ChefPro,54.89,38.62
+54,Torradeira 14,Casa,Torradeira,ChefPro,333.26,233.47
+55,Chaleira Elétrica 15,Casa,Chaleira Elétrica,ChefPro,110.21,77.3
+56,Robô Aspirador 16,CASA,Robô Aspirador,HomeJoy,217.45,150.72
+57,Lâmpada Inteligente 17,Casa,Lâmpada Inteligente,CasaLuz,1245.22,851.1
+58,Fechadura Digital 18,Casa,Fechadura Digital,CasaLuz,40.23,26.4
+59,Câmera Residencial 19,Casa,Câmera Residencial,SafeHome,468.99,317.05
+60,Kit Ferramentas 20,Casa,Kit Ferramentas,FixPro,237.96,167.43
+61,Geladeira 01,Eletrodomésticos,Geladeira,FrostMax,465.42,367.51
+62,Máquina de Lavar 02,Eletrodomésticos,Máquina de Lavar,CleanPro,3014.68,2424.91
+63,Micro-ondas 03,Eletrodomésticos,Micro-ondas,HeatWave,1572.32,1276.61
+64,Air Fryer 04,Eletrodomésticos,Air Fryer,ChefPro,3421.45,2756.35
+65,Ar-condicionado 05,Eletrodomésticos,Ar-condicionado,Breeze,794.12,656.52
+66,Freezer 06,Eletrodomésticos,Freezer,FrostMax,1534.5,1183.68
+67,Fogão 07,Eletrodomésticos,Fogão,ChefPro,2251.95,1799.27
+68,Lava-louças 08,Eletrodomésticos,Lava-louças,CleanPro,1319.83,1098.45
+69,Secadora 09,Eletrodomésticos,Secadora,CleanPro,6598.63,5279.17
+70,Forno Elétrico 10,Eletrodomésticos,Forno Elétrico,HeatWave,1380.43,1120.14
+71,Cooktop 11,Eletrodomésticos,Cooktop,ChefPro,971.4,770.36
+72,Adega 12,Eletrodomésticos,Adega,FrostMax,810.03,658.63
+73,Frigobar 13,Eletrodomésticos,Frigobar,FrostMax,2670.34,2069.54
+74,Coifa 14,Eletrodomésticos,Coifa,ChefPro,2671.67,2156.74
+75,Depurador 15,Eletrodomésticos,Depurador,ChefPro,3586.33,2790.58
+76,Climatizador 16,Eletrodomésticos,Climatizador,Breeze,5248.7,4347.81
+77,Máquina de Café 17,Eletrodomésticos,Máquina de Café,HomeJoy,2769.31,2168.52
+78,Panela de Pressão Elétrica 18,Eletrodomésticos,Panela de Pressão Elétrica,ChefPro,3053.56,2558.14
+79,Purificador de Ar 19,Eletrodomésticos,Purificador de Ar,Breeze,4577.97,3681.7
+80,Cervejeira 20,Eletrodomésticos,Cervejeira,FrostMax,2487.98,2082.93
+81,Cabo USB-C 01,Acessórios,Cabo USB-C,Connect,304.81,173.19
+82,Carregador 02,Acessórios,Carregador,Connect,235.37,129.76
+83,Capa de Smartphone 03,Acessórios,Capa de Smartphone,Shield,89.3,48.68
+84,Película 04,Acessórios,Película,Shield,201.17,109.05
+85,Power Bank 05,Acessórios,Power Bank,Connect,29.09,14.84
+86,Suporte Notebook 06,Acessórios,Suporte Notebook,ErgoOffice,455.26,268.08
+87,Suporte Monitor 07,Acessórios,Suporte Monitor,ErgoOffice,56.85,30.37
+88,Adaptador HDMI 08,Acessórios,Adaptador HDMI,Connect,38.36,19.58
+89,Cabo HDMI 09,Acessórios,Cabo HDMI,Connect,167.37,89.66
+90,Mochila Notebook 10, Acessórios,Mochila Notebook,UrbanPack,80.93,45.98
+91,Case Tablet 11,Acessórios,Case Tablet,Shield,176.76,100.7
+92,Controle Bluetooth 12,Acessórios,Controle Bluetooth,GameBox,59.25,33.02
+93,Mousepad 13,Acessórios,Mousepad,KeyLab,27.12,15.87
+94,Organizador de Cabos 14,Acessórios,Organizador de Cabos,Organiza,200.93,108.28
+95,Filtro de Linha 15,Acessórios,Filtro de Linha,Connect,215.6,124.17
+96,Suporte Celular 16,Acessórios,Suporte Celular,Connect,408.38,231.97
+97,Carregador Veicular 17,Acessórios,Carregador Veicular,Connect,25.75,15.05
+98,Leitor de Cartão 18,Acessórios,Leitor de Cartão,Connect,29.12,15.96
+99,Tripé 19,Acessórios,Tripé,PixelPro,35.16,18.35
+100,Bolsa Câmera 20,Acessórios,Bolsa Câmera,UrbanPack,21.64,11.12
+101,Cadeira Ergonômica 01,Escritório,Cadeira Ergonômica,ErgoOffice,551.44,379.53
+102,Mesa Escritório 02,Escritório,Mesa Escritório,ErgoOffice,58.02,39.28
+103,Gaveteiro 03,Escritório,Gaveteiro,ErgoOffice,1358.27,915.77
+104,Armário 04,Escritório,Armário,ErgoOffice,642.32,456.56
+105,Impressora Laser 05,Escritório,Impressora Laser,PrintGo,799.3,533.33
+106,Scanner 06,Escritório,Scanner,PrintGo,1304.41,941.35
+107,Fragmentadora 07,Escritório,Fragmentadora,PrintGo,172.41,119.5
+108,Calculadora 08,Escritório,Calculadora,OfficeMax,1127.6,747.89
+109,Quadro Branco 09,Escritório,Quadro Branco,OfficeMax,2844.58,1899.21
+110,Luminária Mesa 10,Escritório,Luminária Mesa,CasaLuz,390.23,275.31
+111,Suporte Ergonômico 11,Escritório,Suporte Ergonômico,ErgoOffice,117.0,84.16
+112,Papel A4 Caixa 12,Escritório,Papel A4 Caixa,OfficeMax,46.54,33.45
+113,Etiquetadora 13,Escritório,Etiquetadora,PrintGo,961.38,703.17
+114,Encadernadora 14,Escritório,Encadernadora,OfficeMax,69.53,46.15
+115,Plastificadora 15,Escritório,Plastificadora,OfficeMax,71.77,47.41
+116,Projetor Portátil 16,Escritório,Projetor Portátil,VisionX,169.71,117.0
+117,Webcam Full HD 17,Escritório,Webcam Full HD,VisionX,133.42,91.46
+118,Microfone USB 18,Escritório,Microfone USB,Sonic,109.38,77.19
+119,Headset Corporativo 19,Escritório,Headset Corporativo,Sonic,637.02,462.85
+120,Dock USB-C 20,Escritório,Dock USB-C,TechPlus,1062.98,784.29

@@ -1,0 +1,55 @@
+{
+  "name": "line_receita_ano_mes",
+  "position": {
+    "height": 350,
+    "x": 40,
+    "z": 2000,
+    "width": 900,
+    "y": 250,
+    "tabOrder": 2000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "AnoMes",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dCalendario"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dCalendario.AnoMes",
+              "nativeQueryRef": "AnoMes"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "lineChart"
+  }
+}

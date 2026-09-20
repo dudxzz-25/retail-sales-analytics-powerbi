@@ -1,0 +1,133 @@
+{
+  "name": "matrix_produtos",
+  "position": {
+    "height": 210,
+    "x": 40,
+    "z": 6000,
+    "width": 1840,
+    "y": 830,
+    "tabOrder": 6000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Lucro Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Lucro Total",
+              "nativeQueryRef": "Lucro Total"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Margem %",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Margem %",
+              "nativeQueryRef": "Margem %"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Quantidade Vendida",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Quantidade Vendida",
+              "nativeQueryRef": "Quantidade Vendida"
+            }
+          ]
+        },
+        "Rows": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Produto",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dProdutos"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dProdutos.Produto",
+              "nativeQueryRef": "Produto"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Property": "Categoria",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dProdutos"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dProdutos.Categoria",
+              "nativeQueryRef": "Categoria"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "pivotTable",
+    "objects": {
+      "columnHeaders": [
+        {
+          "properties": {
+            "columnAdjustment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'growToFit'"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "top10_produtos_receita",
+  "position": {
+    "height": 300,
+    "x": 40,
+    "z": 2000,
+    "width": 900,
+    "y": 250,
+    "tabOrder": 2000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Produto",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dProdutos"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dProdutos.Produto",
+              "nativeQueryRef": "Produto"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "barChart",
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12L"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "card_crescimento_yoy__",
+  "position": {
+    "height": 130,
+    "x": 1590,
+    "z": 1000,
+    "width": 290,
+    "y": 20,
+    "tabOrder": 1000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Crescimento YoY %",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Crescimento YoY %",
+              "nativeQueryRef": "Crescimento YoY %"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "cardVisual"
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "Filter9f7d3a1c5b6e8a0d2f4c7b9e",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "dCalendario"
+              }
+            },
+            "Property": "Ano"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "d",
+              "Entity": "dCalendario",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "d"
+                          }
+                        },
+                        "Property": "Ano"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "2025L"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "howCreated": "User"
+      }
+    ]
+  }
+}

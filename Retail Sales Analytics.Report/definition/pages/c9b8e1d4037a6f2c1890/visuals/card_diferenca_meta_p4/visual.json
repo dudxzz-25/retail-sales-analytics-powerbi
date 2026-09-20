@@ -1,0 +1,37 @@
+{
+  "name": "card_diferenca_meta_p4",
+  "position": {
+    "height": 130,
+    "x": 1480,
+    "z": 1003,
+    "width": 400,
+    "y": 20,
+    "tabOrder": 1003
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Diferença Meta",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Diferença Meta",
+              "nativeQueryRef": "Diferença Meta"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "cardVisual"
+  }
+}

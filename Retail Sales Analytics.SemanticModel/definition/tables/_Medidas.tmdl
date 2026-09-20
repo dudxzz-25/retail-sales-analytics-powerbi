@@ -1,0 +1,92 @@
+table _Medidas
+	lineageTag: e0b7b81a-2f98-4ad5-b273-561c427d0022
+
+	measure 'Receita Bruta' = SUMX(fVendas, fVendas[Quantidade] * fVendas[PrecoUnitario])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: d4d58cf2-0447-46f2-bcc1-717d23e046d4
+
+	measure 'Receita Total' = SUMX(fVendas, fVendas[Quantidade] * fVendas[PrecoUnitario] * (1 - fVendas[Desconto]))
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 64bcf02e-b2e9-4628-a28e-7176d9a0f32b
+
+	measure 'Custo Total' = SUMX(fVendas, fVendas[Quantidade] * fVendas[CustoUnitario])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 4be2f85b-610a-41a7-a177-e1c1c5da1de5
+
+	measure 'Lucro Total' = [Receita Total] - [Custo Total]
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: add0a5bd-bc6e-4663-b8cb-e2cda2a6a166
+
+	measure 'Margem %' = DIVIDE([Lucro Total], [Receita Total])
+		formatString: 0.00%
+		lineageTag: 8b27fb47-0b9d-4823-9d56-9672af14b834
+
+	measure 'Quantidade Vendida' = SUM(fVendas[Quantidade])
+		formatString: #,0
+		lineageTag: dad48c98-0ec4-456c-930e-616aca7a5f8f
+
+	measure 'Total Pedidos' = DISTINCTCOUNT(fVendas[PedidoID])
+		formatString: #,0
+		lineageTag: 64022c23-aead-4d7f-a672-a02faff47fad
+
+	measure 'Ticket Médio' = DIVIDE([Receita Total], [Total Pedidos])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: c74b64d7-1e95-4682-9bae-d978e3ec8aba
+
+	measure 'Clientes Ativos' = DISTINCTCOUNT(fVendas[ClienteID])
+		formatString: #,0
+		lineageTag: e247785a-ac46-43a1-9501-ee347530c331
+
+	measure 'Meta Receita' = SUM(fMetas[MetaReceita])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 325111ff-8394-4efe-82e7-4a566df103e1
+
+	measure 'Meta Lucro' = SUM(fMetas[MetaLucro])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: e4380458-230b-46ac-af72-5dc6d09abbd2
+
+	measure 'Atingimento Meta %' = DIVIDE([Receita Total], [Meta Receita])
+		formatString: 0.00%
+		lineageTag: 9be049cd-1bd3-4fc3-b4a2-014a7ede9353
+
+	measure 'Diferença Meta' = [Receita Total] - [Meta Receita]
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 5f53cad5-e30e-45ac-b33a-337526c170bd
+
+	measure 'Receita Mês Anterior' = CALCULATE([Receita Total], DATEADD(dCalendario[Date], -1, MONTH))
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 44fcd937-b25e-46af-a7e0-8c9ba5c1abf8
+
+	measure 'Crescimento MoM %' = DIVIDE([Receita Total] - [Receita Mês Anterior], [Receita Mês Anterior])
+		formatString: 0.00%
+		lineageTag: 5e13ec5f-0118-4858-bcdf-8c9053669067
+
+	measure 'Receita Ano Anterior' = CALCULATE([Receita Total], SAMEPERIODLASTYEAR(dCalendario[Date]))
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: a687dd25-c929-433d-9dc1-1b1bc0f7d070
+
+	measure 'Crescimento YoY %' = DIVIDE([Receita Total] - [Receita Ano Anterior], [Receita Ano Anterior])
+		formatString: 0.00%
+		lineageTag: 1196e288-ebfc-4e90-a599-714640e9cbba
+
+	measure 'Receita YTD' = TOTALYTD([Receita Total], dCalendario[Date])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 13230cf9-04f3-4712-9461-d7eb03dd4d19
+
+	measure 'Lucro YTD' = TOTALYTD([Lucro Total], dCalendario[Date])
+		formatString: \$#,0.00;\(\$#,0.00\);\$#,0.00
+		lineageTag: 77c30e3b-0318-4364-a17c-5114cfaa871c
+
+	column Dummy
+		dataType: int64
+		lineageTag: 727e0e73-a465-4b6d-a64d-93c47e5c4dbd
+		sourceColumn: Dummy
+
+	partition _Medidas = m
+		mode: import
+		source =
+				let
+				    Source = #table({"Dummy"}, {{0}})
+				in
+				    Source
+

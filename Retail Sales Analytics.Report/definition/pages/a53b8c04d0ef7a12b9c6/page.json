@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "a53b8c04d0ef7a12b9c6",
+  "displayName": "Produtos & Categorias",
+  "displayOption": "FitToPage",
+  "height": 1080,
+  "width": 1920
+}

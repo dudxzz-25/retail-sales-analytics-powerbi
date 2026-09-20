@@ -1,0 +1,51 @@
+table dProdutos
+	lineageTag: 033cd8d2-5d63-40a9-8c50-b6ca19c43f48
+
+	column ProdutoID
+		dataType: int64
+		lineageTag: a630a40c-0a52-4f43-9081-91fc75fd1391
+		sourceColumn: ProdutoID
+
+	column Produto
+		dataType: string
+		lineageTag: db65c42d-7f9d-4b2f-90af-1a35429cf39a
+		sourceColumn: Produto
+
+	column Categoria
+		dataType: string
+		lineageTag: e50e1845-0914-4f39-949d-a8f0abf4c0a6
+		sourceColumn: Categoria
+
+	column Subcategoria
+		dataType: string
+		lineageTag: 0658b267-6fa9-45ba-8816-69adea79fd73
+		sourceColumn: Subcategoria
+
+	column Marca
+		dataType: string
+		lineageTag: 023f52f1-5da5-4f59-a50d-3fd7e641ffd5
+		sourceColumn: Marca
+
+	column PrecoBase
+		dataType: double
+		lineageTag: 05f4ec2f-5d21-4572-a0f8-a9bfc9ac4d8d
+		sourceColumn: PrecoBase
+
+	column CustoBase
+		dataType: double
+		lineageTag: a3df1b65-ada2-456b-80e4-818785ebbdb6
+		sourceColumn: CustoBase
+
+	partition dProdutos = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\\Users\\samsung\\Downloads\\Retail Sales Analytics\\data\\raw\\dProdutos.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    TrimmedText = Table.TransformColumns(PromotedHeaders, {{"Produto", Text.Trim, type text}, {"Categoria", Text.Trim, type text}, {"Subcategoria", Text.Trim, type text}, {"Marca", Text.Trim, type text}}),
+				    StandardizedCategory = Table.TransformColumns(TrimmedText, {{"Categoria", each if Text.Lower(_) = "eletronicos" then "Eletrônicos" else if Text.Lower(_) = "eletronico" then "Eletrônicos" else _, type text}}),
+				    ChangedType = Table.TransformColumnTypes(StandardizedCategory, {{"ProdutoID", Int64.Type}, {"PrecoBase", type number}, {"CustoBase", type number}}),
+				    UniqueRows = Table.Distinct(ChangedType, {"ProdutoID"})
+				in
+				    UniqueRows
+

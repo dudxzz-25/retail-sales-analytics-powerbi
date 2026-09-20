@@ -1,0 +1,77 @@
+{
+  "name": "bar_atingimento_loja",
+  "position": {
+    "height": 400,
+    "x": 1180,
+    "z": 3000,
+    "width": 700,
+    "y": 250,
+    "tabOrder": 3000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Loja",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dLojas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dLojas.Loja",
+              "nativeQueryRef": "Loja"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Atingimento Meta %",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Atingimento Meta %",
+              "nativeQueryRef": "Atingimento Meta %"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "barChart",
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12L"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

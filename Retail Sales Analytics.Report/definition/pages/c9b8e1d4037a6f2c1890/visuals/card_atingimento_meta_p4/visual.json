@@ -1,0 +1,37 @@
+{
+  "name": "card_atingimento_meta_p4",
+  "position": {
+    "height": 130,
+    "x": 1000,
+    "z": 1002,
+    "width": 420,
+    "y": 20,
+    "tabOrder": 1002
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Atingimento Meta %",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Atingimento Meta %",
+              "nativeQueryRef": "Atingimento Meta %"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "cardVisual"
+  }
+}

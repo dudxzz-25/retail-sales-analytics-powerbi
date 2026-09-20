@@ -1,0 +1,133 @@
+{
+  "name": "matrix_meta_loja",
+  "position": {
+    "height": 340,
+    "x": 1200,
+    "z": 6000,
+    "width": 680,
+    "y": 700,
+    "tabOrder": 6000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Meta Receita",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Meta Receita",
+              "nativeQueryRef": "Meta Receita"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Atingimento Meta %",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Atingimento Meta %",
+              "nativeQueryRef": "Atingimento Meta %"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Diferença Meta",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Diferença Meta",
+              "nativeQueryRef": "Diferença Meta"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Lucro Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Lucro Total",
+              "nativeQueryRef": "Lucro Total"
+            }
+          ]
+        },
+        "Rows": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Loja",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dLojas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dLojas.Loja",
+              "nativeQueryRef": "Loja"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "pivotTable",
+    "objects": {
+      "columnHeaders": [
+        {
+          "properties": {
+            "columnAdjustment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'growToFit'"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

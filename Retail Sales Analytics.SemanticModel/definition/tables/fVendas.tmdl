@@ -1,0 +1,71 @@
+table fVendas
+	lineageTag: 97cca5a8-166d-42c3-8358-ece577cdab57
+
+	column VendaID
+		dataType: int64
+		lineageTag: 8033ae62-0454-4ff0-aa33-fd6aac946229
+		sourceColumn: VendaID
+
+	column PedidoID
+		dataType: string
+		lineageTag: 7dc77471-324e-4058-9fec-e2c326400f40
+		sourceColumn: PedidoID
+
+	column Data
+		dataType: dateTime
+		lineageTag: f2a9274b-c68f-48ed-8a6b-3ac406ede420
+		sourceColumn: Data
+
+	column ClienteID
+		dataType: int64
+		lineageTag: f8f91fa7-e48f-4a56-ab1b-c33760ba73d4
+		sourceColumn: ClienteID
+
+	column ProdutoID
+		dataType: int64
+		lineageTag: 3d39319b-42f4-4238-b54f-431fc3d88a99
+		sourceColumn: ProdutoID
+
+	column LojaID
+		dataType: int64
+		lineageTag: 6f25b237-0f42-46de-8a13-16e4b132c8b8
+		sourceColumn: LojaID
+
+	column CanalID
+		dataType: int64
+		lineageTag: d56b341a-02bc-4d30-a8b6-63bd71a3f93c
+		sourceColumn: CanalID
+
+	column Quantidade
+		dataType: int64
+		lineageTag: f39a8c1d-a31a-4ba4-b91f-2b5117aed1fc
+		sourceColumn: Quantidade
+
+	column PrecoUnitario
+		dataType: double
+		lineageTag: cdd919ec-36b1-4822-ac6e-ffb813cd9f4b
+		sourceColumn: PrecoUnitario
+
+	column CustoUnitario
+		dataType: double
+		lineageTag: e51b6d2e-2ad9-4e90-99c9-9dd6b56bf260
+		sourceColumn: CustoUnitario
+
+	column Desconto
+		dataType: double
+		lineageTag: 67cb14e8-0b72-4f47-bbc8-fb820a8ea750
+		sourceColumn: Desconto
+
+	partition fVendas = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\\Users\\samsung\\Downloads\\Retail Sales Analytics\\data\\raw\\fVendas.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    ChangedType = Table.TransformColumnTypes(PromotedHeaders, {{"VendaID", Int64.Type}, {"PedidoID", type text}, {"Data", type date}, {"ClienteID", Int64.Type}, {"ProdutoID", Int64.Type}, {"LojaID", Int64.Type}, {"CanalID", Int64.Type}, {"Quantidade", Int64.Type}, {"PrecoUnitario", type number}, {"CustoUnitario", type number}, {"Desconto", type number}}),
+				    DuplicatesRemoved = Table.Distinct(ChangedType, {"VendaID"}),
+				    NullsReplaced = Table.ReplaceValue(DuplicatesRemoved, null, 0, Replacer.ReplaceValue, {"Desconto"}),
+				    ValidRows = Table.SelectRows(NullsReplaced, each [Quantidade] > 0 and [PrecoUnitario] >= 0 and [CustoUnitario] >= 0)
+				in
+				    ValidRows
+

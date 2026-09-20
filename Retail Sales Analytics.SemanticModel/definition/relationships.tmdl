@@ -1,0 +1,28 @@
+relationship Rel_fVendas_Data
+	fromColumn: dCalendario.Date
+	toColumn: fVendas.Data
+
+relationship Rel_dClientes_fVendas
+	fromColumn: dClientes.ClienteID
+	toColumn: fVendas.ClienteID
+
+relationship Rel_dProdutos_fVendas
+	fromColumn: dProdutos.ProdutoID
+	toColumn: fVendas.ProdutoID
+
+relationship Rel_dLojas_fVendas
+	fromColumn: dLojas.LojaID
+	toColumn: fVendas.LojaID
+
+relationship Rel_dCanal_fVendas
+	fromColumn: dCanal.CanalID
+	toColumn: fVendas.CanalID
+
+relationship Rel_fMetas_Data
+	fromColumn: dCalendario.Date
+	toColumn: fMetas.Data
+
+relationship Rel_dLojas_fMetas
+	fromColumn: dLojas.LojaID
+	toColumn: fMetas.LojaID
+

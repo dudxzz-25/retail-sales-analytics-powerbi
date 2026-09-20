@@ -1,0 +1,37 @@
+{
+  "name": "card_ticket_medio_p3",
+  "position": {
+    "height": 130,
+    "x": 520,
+    "z": 1001,
+    "width": 420,
+    "y": 20,
+    "tabOrder": 1001
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Ticket Médio",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Ticket Médio",
+              "nativeQueryRef": "Ticket Médio"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "cardVisual"
+  }
+}

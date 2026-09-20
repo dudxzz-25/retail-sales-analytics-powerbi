@@ -1,0 +1,37 @@
+{
+  "name": "slicer_regiao_p4",
+  "position": {
+    "height": 64,
+    "x": 980,
+    "z": 8002,
+    "width": 430,
+    "y": 160,
+    "tabOrder": 8002
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Regiao",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dClientes"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dClientes.Regiao",
+              "nativeQueryRef": "Regiao"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

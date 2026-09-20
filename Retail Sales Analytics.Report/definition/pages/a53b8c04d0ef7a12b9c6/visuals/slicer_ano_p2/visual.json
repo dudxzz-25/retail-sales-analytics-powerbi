@@ -1,0 +1,37 @@
+{
+  "name": "slicer_ano_p2",
+  "position": {
+    "height": 64,
+    "x": 40,
+    "z": 7000,
+    "width": 420,
+    "y": 160,
+    "tabOrder": 7000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Ano",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dCalendario"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dCalendario.Ano",
+              "nativeQueryRef": "Ano"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

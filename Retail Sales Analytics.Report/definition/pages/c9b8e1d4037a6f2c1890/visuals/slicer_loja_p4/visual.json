@@ -1,0 +1,37 @@
+{
+  "name": "slicer_loja_p4",
+  "position": {
+    "height": 64,
+    "x": 1450,
+    "z": 8003,
+    "width": 430,
+    "y": 160,
+    "tabOrder": 8003
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Loja",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dLojas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dLojas.Loja",
+              "nativeQueryRef": "Loja"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

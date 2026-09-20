@@ -1,0 +1,37 @@
+{
+  "name": "slicer_marca_p2",
+  "position": {
+    "height": 64,
+    "x": 1000,
+    "z": 7002,
+    "width": 420,
+    "y": 160,
+    "tabOrder": 7002
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Marca",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dProdutos"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dProdutos.Marca",
+              "nativeQueryRef": "Marca"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

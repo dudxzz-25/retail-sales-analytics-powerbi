@@ -1,0 +1,40 @@
+table dLojas
+	lineageTag: 7bd03bac-575f-4b31-b744-7d9e4f9264db
+
+	column LojaID
+		dataType: int64
+		lineageTag: 465c9f40-1a21-45ae-9223-f8afdfab5b52
+		sourceColumn: LojaID
+
+	column Loja
+		dataType: string
+		lineageTag: 43986fe2-2769-4f18-b253-1f10c6778dc8
+		sourceColumn: Loja
+
+	column Cidade
+		dataType: string
+		lineageTag: ec21d3eb-41f6-40ca-bf00-9c41dce8af87
+		sourceColumn: Cidade
+
+	column Estado
+		dataType: string
+		lineageTag: 5da560ca-add2-47b2-a4f5-8cbafcf75fc0
+		sourceColumn: Estado
+
+	column Regiao
+		dataType: string
+		lineageTag: 772e52d2-ab13-4f5b-a423-8f6524d35017
+		sourceColumn: Regiao
+
+	partition dLojas = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\\Users\\samsung\\Downloads\\Retail Sales Analytics\\data\\raw\\dLojas.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Cleaned = Table.TransformColumns(PromotedHeaders, {{"Loja", Text.Trim, type text}, {"Cidade", Text.Trim, type text}, {"Estado", Text.Trim, type text}, {"Regiao", Text.Trim, type text}}),
+				    ChangedType = Table.TransformColumnTypes(Cleaned, {{"LojaID", Int64.Type}}),
+				    UniqueRows = Table.Distinct(ChangedType, {"LojaID"})
+				in
+				    UniqueRows
+

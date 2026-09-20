@@ -1,0 +1,77 @@
+{
+  "name": "donut_canal_receita",
+  "position": {
+    "height": 390,
+    "x": 490,
+    "z": 5000,
+    "width": 420,
+    "y": 630,
+    "tabOrder": 5000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Canal",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dCanal"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dCanal.Canal",
+              "nativeQueryRef": "Canal"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "donutChart",
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12L"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

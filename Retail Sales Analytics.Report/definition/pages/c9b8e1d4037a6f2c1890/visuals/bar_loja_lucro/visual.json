@@ -1,0 +1,77 @@
+{
+  "name": "bar_loja_lucro",
+  "position": {
+    "height": 340,
+    "x": 660,
+    "z": 5000,
+    "width": 520,
+    "y": 700,
+    "tabOrder": 5000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Loja",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dLojas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dLojas.Loja",
+              "nativeQueryRef": "Loja"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Lucro Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Lucro Total",
+              "nativeQueryRef": "Lucro Total"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "barChart",
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12L"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

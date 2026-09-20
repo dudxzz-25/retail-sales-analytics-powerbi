@@ -1,0 +1,77 @@
+{
+  "name": "faixa_etaria_p3",
+  "position": {
+    "height": 430,
+    "x": 1320,
+    "z": 6000,
+    "width": 560,
+    "y": 590,
+    "tabOrder": 6000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "FaixaEtaria",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dClientes"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dClientes.FaixaEtaria",
+              "nativeQueryRef": "FaixaEtaria"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Clientes Ativos",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Clientes Ativos",
+              "nativeQueryRef": "Clientes Ativos"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "barChart",
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12L"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

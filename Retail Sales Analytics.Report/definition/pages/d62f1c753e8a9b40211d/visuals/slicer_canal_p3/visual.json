@@ -1,0 +1,37 @@
+{
+  "name": "slicer_canal_p3",
+  "position": {
+    "height": 64,
+    "x": 1560,
+    "z": 8004,
+    "width": 320,
+    "y": 160,
+    "tabOrder": 8004
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Canal",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dCanal"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dCanal.Canal",
+              "nativeQueryRef": "Canal"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

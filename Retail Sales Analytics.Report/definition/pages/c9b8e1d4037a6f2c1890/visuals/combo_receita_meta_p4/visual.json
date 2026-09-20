@@ -1,0 +1,73 @@
+{
+  "name": "combo_receita_meta_p4",
+  "position": {
+    "height": 400,
+    "x": 40,
+    "z": 2000,
+    "width": 1100,
+    "y": 250,
+    "tabOrder": 2000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Y2": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Meta Receita",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Meta Receita",
+              "nativeQueryRef": "Meta Receita"
+            }
+          ]
+        },
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "AnoMes",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dCalendario"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dCalendario.AnoMes",
+              "nativeQueryRef": "AnoMes"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "lineClusteredColumnComboChart"
+  }
+}

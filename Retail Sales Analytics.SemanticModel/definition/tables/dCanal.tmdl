@@ -1,0 +1,25 @@
+table dCanal
+	lineageTag: 03689350-fac0-4c5a-9adf-41fa07838322
+
+	column CanalID
+		dataType: int64
+		lineageTag: b7c4419f-7440-48e1-a417-103fc8f2e046
+		sourceColumn: CanalID
+
+	column Canal
+		dataType: string
+		lineageTag: 00fb4c93-e89d-406e-99f1-5bc606a37b83
+		sourceColumn: Canal
+
+	partition dCanal = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\\Users\\samsung\\Downloads\\Retail Sales Analytics\\data\\raw\\dCanal.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Cleaned = Table.TransformColumns(PromotedHeaders, {{"Canal", Text.Trim, type text}}),
+				    ChangedType = Table.TransformColumnTypes(Cleaned, {{"CanalID", Int64.Type}}),
+				    UniqueRows = Table.Distinct(ChangedType, {"CanalID"})
+				in
+				    UniqueRows
+

@@ -1,0 +1,61 @@
+table dClientes
+	lineageTag: 7306d773-3106-4fcc-b074-aa5bc28c351e
+
+	column ClienteID
+		dataType: int64
+		lineageTag: a952a90b-77ea-4e3b-a2ed-605f0152f78e
+		sourceColumn: ClienteID
+
+	column NomeCliente
+		dataType: string
+		lineageTag: 5200dcac-9b23-4528-aee1-4dafa62ebd1a
+		sourceColumn: NomeCliente
+
+	column Sexo
+		dataType: string
+		lineageTag: 0120a775-a8bb-4357-9543-902e7fd7c06a
+		sourceColumn: Sexo
+
+	column Idade
+		dataType: int64
+		lineageTag: 488904d4-2c90-4092-979e-ef2a5d5706f9
+		sourceColumn: Idade
+
+	column FaixaEtaria
+		dataType: string
+		lineageTag: e634fcd3-9d55-49d7-9793-a88e373c7dae
+		sourceColumn: FaixaEtaria
+
+	column Cidade
+		dataType: string
+		lineageTag: 8214a597-6768-4d64-bf64-009505eb59dc
+		sourceColumn: Cidade
+
+	column Estado
+		dataType: string
+		lineageTag: ca15d5aa-ed93-478c-a45c-d8452a34a560
+		sourceColumn: Estado
+
+	column Regiao
+		dataType: string
+		lineageTag: 5b1be2ef-804b-4afd-8d6c-037b8f8f7130
+		sourceColumn: Regiao
+
+	column DataCadastro
+		dataType: dateTime
+		lineageTag: 30089a3e-89f6-4cf2-84bf-3e1eba841cca
+		sourceColumn: DataCadastro
+
+	partition dClientes = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\\Users\\samsung\\Downloads\\Retail Sales Analytics\\data\\raw\\dClientes.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    TrimmedText = Table.TransformColumns(PromotedHeaders, {{"NomeCliente", Text.Trim, type text}, {"Sexo", Text.Trim, type text}, {"FaixaEtaria", Text.Trim, type text}, {"Cidade", Text.Trim, type text}, {"Estado", Text.Trim, type text}, {"Regiao", Text.Trim, type text}}),
+				    StandardizedRegion = Table.TransformColumns(TrimmedText, {{"Regiao", each if Text.Lower(_) = "sudeste" then "Sudeste" else if Text.Lower(_) = "sul" then "Sul" else if Text.Lower(_) = "nordeste" then "Nordeste" else if Text.Lower(_) = "centro-oeste" then "Centro-Oeste" else if Text.Lower(_) = "norte" then "Norte" else _, type text}}),
+				    ChangedType = Table.TransformColumnTypes(StandardizedRegion, {{"ClienteID", Int64.Type}, {"Idade", Int64.Type}, {"DataCadastro", type date}}),
+				    UniqueRows = Table.Distinct(ChangedType, {"ClienteID"})
+				in
+				    UniqueRows
+

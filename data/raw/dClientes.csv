@@ -1,0 +1,2501 @@
+﻿ClienteID,NomeCliente,Sexo,Idade,FaixaEtaria,Cidade,Estado,Regiao,DataCadastro
+1,Cliente 0001,Masculino,35,35-44,Joinville,SC,Sul,2022-12-11
+2,Cliente 0002,Feminino,50,45-54,Belo Horizonte,MG,Sudeste,2023-08-22
+3,Cliente 0003,Feminino,42,35-44,São Paulo,SP,Sudeste,2023-10-08
+4,Cliente 0004,Masculino,49,45-54,Belo Horizonte,MG,Sudeste,2023-12-08
+5,Cliente 0005,Feminino,35,35-44,Rio de Janeiro,RJ,Sudeste,2024-02-29
+6,Cliente 0006,Feminino,35,35-44,Santos,SP,Sudeste,2022-02-03
+7,Cliente 0007,Feminino,44,35-44,Vitória,ES,Sudeste,2024-12-09
+8,Cliente 0008,Feminino,70,55+,Caxias do Sul,RS,Sul,2023-07-08
+9,Cliente 0009,Feminino,33,25-34,Rio de Janeiro,RJ,Sudeste,2024-12-24
+10,Cliente 0010,Feminino,54,45-54,Recife,PE,Nordeste,2023-10-15
+11,Cliente 0011,Feminino,51,45-54,São Paulo,SP,Sudeste,2024-06-30
+12,Cliente 0012,Feminino,19,18-24,Santos,SP,Sudeste,2021-06-21
+13,Cliente 0013,Masculino,31,25-34,Belém,PA,Norte,2023-01-23
+14,Cliente 0014,Masculino,35,35-44,Rio de Janeiro,RJ,Sudeste,2022-11-05
+15,Cliente 0015,Feminino,34,25-34,Belo Horizonte,MG,Sudeste,2021-06-08
+16,Cliente 0016,Feminino,28,25-34,Niterói,RJ,Sudeste,2022-08-08
+17,Cliente 0017,Masculino,58,55+,Campinas,SP,Sudeste,2024-06-14
+18,Cliente 0018,Feminino,30,25-34,Curitiba,PR,Sul,2024-08-22
+19,Cliente 0019,Masculino,32,25-34,Joinville,SC,Sul,2023-10-03
+20,Cliente 0020,Feminino,53,45-54,Florianópolis,SC,Sul,2022-06-01
+21,Cliente 0021,Masculino,49,45-54,Santos,SP,Sudeste,2021-05-08
+22,Cliente 0022,Feminino,26,25-34,Santos,SP,Sudeste,2021-03-21
+23,Cliente 0023,Feminino,21,18-24,Manaus,AM,Norte,2022-07-10
+24,Cliente 0024,Masculino,36,35-44,Santos,SP,Sudeste,2023-08-23
+25,Cliente 0025,Masculino,44,35-44,João Pessoa,PB,Nordeste,2023-11-15
+26,Cliente 0026,Feminino,28,25-34,Florianópolis,SC,Sul,2023-06-16
+27,Cliente 0027,Feminino,33,25-34,Natal,RN,Nordeste,2023-04-25
+28,Cliente 0028,Feminino,25,25-34,Campinas,SP,Sudeste,2022-11-30
+29,Cliente 0029,Masculino,28,25-34,Niterói,RJ,Sudeste,2022-04-28
+30,Cliente 0030,Feminino,30,25-34,Florianópolis,SC,Sul,2023-08-24
+31,Cliente 0031,Feminino,44,35-44,São Paulo,SP,Sudeste,2023-09-15
+32,Cliente 0032,Masculino,39,35-44,Joinville,SC,Sul,2024-12-14
+33,Cliente 0033,Feminino,39,35-44,Cuiabá,MT,Centro-Oeste,2021-09-28
+34,Cliente 0034,Masculino,38,35-44,Goiânia,GO,Centro-Oeste,2021-12-25
+35,Cliente 0035,Feminino,33,25-34,Niterói,RJ,Sudeste,2021-09-17
+36,Cliente 0036,Masculino,47,45-54,Caxias do Sul,RS,Sul,2022-08-29
+37,Cliente 0037,Feminino,59,55+,Fortaleza,CE,Nordeste,2024-02-15
+38,Cliente 0038,Masculino,51,45-54,Goiânia,GO,Centro-Oeste,2023-02-11
+39,Cliente 0039,Feminino,47,45-54,Santos,SP,Sudeste,2024-01-23
+40,Cliente 0040,Feminino,26,25-34,Vitória,ES,Sudeste,2025-02-15
+41,Cliente 0041,Masculino,51,45-54,Niterói,RJ,Sudeste,2023-07-22
+42,Cliente 0042,Feminino,37,35-44,Vitória,ES,Sudeste,2024-08-04
+43,Cliente 0043,Masculino,54,45-54,Santos,SP,Sudeste,2023-12-02
+44,Cliente 0044,Feminino,41,35-44,Campinas,SP,Sudeste,2021-01-12
+45,Cliente 0045,Feminino,43,35-44,São Paulo,SP,Sudeste,2024-07-11
+46,Cliente 0046,Masculino,43,35-44,Santos,SP,Sudeste,2021-10-16
+47,Cliente 0047,Feminino,43,35-44,Belo Horizonte,MG,Sudeste,2023-07-11
+48,Cliente 0048,Feminino,42,35-44,Joinville,SC,Sul,2022-02-10
+49,Cliente 0049,Masculino,27,25-34,Cuiabá,MT,Centro-Oeste,2025-04-21
+50,Cliente 0050,Feminino,46,45-54,Recife,PE,Nordeste,2021-07-29
+51,Cliente 0051,Masculino,65,55+,Natal,RN,Nordeste,2022-07-10
+52,Cliente 0052,Feminino,18,18-24,Campinas,SP,Sudeste,2023-07-14
+53,Cliente 0053,Feminino,40,35-44,Santos,SP,Sudeste,2024-03-27
+54,Cliente 0054,Masculino,36,35-44,Santos,SP,Sudeste,2024-11-06
+55,Cliente 0055,Feminino,27,25-34,Campinas,SP,Sudeste,2023-02-23
+56,Cliente 0056,Masculino,46,45-54,Palmas,TO,Norte,2023-09-22
+57,Cliente 0057,Feminino,33,25-34,São Paulo,SP,Sudeste,2023-08-25
+58,Cliente 0058,Feminino,52,45-54,Recife,PE,Nordeste,2024-11-18
+59,Cliente 0059,Não informado,41,35-44,Santos,SP,Sudeste,2022-02-27
+60,Cliente 0060,Feminino,32,25-34,Belém,PA,Norte,2025-06-24
+61,Cliente 0061,Feminino,49,45-54,Santos,SP,Sudeste,2022-04-21
+62,Cliente 0062,Feminino,50,45-54,Belo Horizonte,MG,Sudeste,2024-10-28
+63,Cliente 0063,Masculino,27,25-34,Natal,RN,Nordeste,2021-12-23
+64,Cliente 0064,Feminino,41,35-44,Vitória,ES,Sudeste,2022-09-25
+65,Cliente 0065,Masculino,24,18-24,Londrina,PR,Sul,2024-07-06
+66,Cliente 0066,Não informado,38,35-44,Salvador,BA,Nordeste,2024-09-24
+67,Cliente 0067,Feminino,50,45-54,Rio de Janeiro,RJ,Sudeste,2024-08-29
+68,Cliente 0068,Feminino,48,45-54,Campo Grande,MS,Centro-Oeste,2022-07-07
+69,Cliente 0069,Feminino,60,55+,Santos,SP,Sudeste,2021-02-22
+70,Cliente 0070,Feminino,57,55+,Recife,PE,Nordeste,2025-05-23
+71,Cliente 0071,Masculino,45,45-54,Niterói,RJ,Sudeste,2024-02-14
+72,Cliente 0072,Feminino,34,25-34,Belém,PA,Norte,2024-09-02
+73,Cliente 0073,Masculino,60,55+,João Pessoa,PB,Nordeste,2022-12-14
+74,Cliente 0074,Masculino,25,25-34,Joinville,SC,SUL,2021-09-16
+75,Cliente 0075,Masculino,52,45-54,Salvador,BA,Nordeste,2022-12-06
+76,Cliente 0076,Feminino,44,35-44,Campo Grande,MS,Centro-Oeste,2021-11-12
+77,Cliente 0077,Feminino,24,18-24,Campinas,SP,Sudeste,2021-04-25
+78,Cliente 0078,Masculino,40,35-44,Salvador,BA,Nordeste,2022-06-25
+79,Cliente 0079,Feminino,25,25-34,Palmas,TO,Norte,2021-11-11
+80,Cliente 0080,Feminino,36,35-44,Goiânia,GO,Centro-Oeste,2024-05-03
+81,Cliente 0081,Masculino,56,55+,João Pessoa,PB,Nordeste,2021-01-17
+82,Cliente 0082,Masculino,26,25-34,Joinville,SC,Sul,2024-05-10
+83,Cliente 0083,Feminino,40,35-44,Maceió,AL,Nordeste,2022-12-03
+84,Cliente 0084,Masculino,59,55+,Campinas,SP,Sudeste,2022-07-18
+85,Cliente 0085,Não informado,29,25-34,Cuiabá,MT,Centro-Oeste,2021-01-18
+86,Cliente 0086,Feminino,49,45-54,João Pessoa,PB,Nordeste,2022-05-08
+87,Cliente 0087,Masculino,31,25-34,Vitória,ES,Sudeste,2022-01-10
+88,Cliente 0088,Feminino,29,25-34,Rio de Janeiro,RJ,sudeste ,2024-06-07
+89,Cliente 0089,Feminino,25,25-34,Belo Horizonte,MG,Sudeste,2023-12-05
+90,Cliente 0090,Feminino,18,18-24,Niterói,RJ,Sudeste,2022-03-17
+91,Cliente 0091,Feminino,31,25-34,Palmas,TO,Norte,2021-04-20
+92,Cliente 0092,Feminino,40,35-44,Belo Horizonte,MG,Sudeste,2021-08-07
+93,Cliente 0093,Feminino,53,45-54,Florianópolis,SC,Sul,2022-07-29
+94,Cliente 0094,Masculino,22,18-24,Campinas,SP,Sudeste,2023-05-08
+95,Cliente 0095,Masculino,25,25-34,Rio de Janeiro,RJ,Sudeste,2022-05-08
+96,Cliente 0096,Feminino,58,55+,Campinas,SP,Sudeste,2024-08-19
+97,Cliente 0097,Feminino,33,25-34,Rio de Janeiro,RJ,Sudeste,2024-06-04
+98,Cliente 0098,Feminino,68,55+,João Pessoa,PB,Nordeste,2024-08-18
+99,Cliente 0099,Feminino,40,35-44,Caxias do Sul,RS,Sul,2021-05-23
+100,Cliente 0100,Feminino,39,35-44,Santos,SP,Sudeste,2021-09-29
+101,Cliente 0101,Masculino,37,35-44,Caxias do Sul,RS,Sul,2021-02-27
+102,Cliente 0102,Feminino,38,35-44,Londrina,PR,Sul,2021-12-13
+103,Cliente 0103,Feminino,43,35-44,Vitória,ES,Sudeste,2024-02-18
+104,Cliente 0104,Feminino,26,25-34,Santos,SP,Sudeste,2021-01-29
+105,Cliente 0105,Masculino,32,25-34,Florianópolis,SC,Sul,2023-04-23
+106,Cliente 0106,Não informado,24,18-24,Vitória,ES,Sudeste,2022-12-26
+107,Cliente 0107,Feminino,24,18-24,Rio de Janeiro,RJ,Sudeste,2024-02-27
+108,Cliente 0108,Feminino,50,45-54,Belém,PA,Norte,2023-03-13
+109,Cliente 0109,Masculino,34,25-34,Rio de Janeiro,RJ,Sudeste,2023-11-12
+110,Cliente 0110,Feminino,18,18-24,Caxias do Sul,RS,Sul,2025-04-17
+111,Cliente 0111,Masculino,28,25-34,Campinas,SP,Sudeste,2025-03-22
+112,Cliente 0112,Masculino,48,45-54,Londrina,PR,Sul,2024-08-31
+113,Cliente 0113,Masculino,50,45-54,Santos,SP,Sudeste,2025-02-07
+114,Cliente 0114,Masculino,30,25-34,Natal,RN,Nordeste,2024-07-11
+115,Cliente 0115,Masculino,31,25-34,Rio de Janeiro,RJ,Sudeste,2025-01-22
+116,Cliente 0116,Feminino,49,45-54,Florianópolis,SC,Sul,2022-09-05
+117,Cliente 0117,Masculino,28,25-34,Cuiabá,MT,Centro-Oeste,2023-12-01
+118,Cliente 0118,Masculino,49,45-54,Belém,PA,Norte,2023-08-26
+119,Cliente 0119,Feminino,43,35-44,Belo Horizonte,MG,Sudeste,2025-06-14
+120,Cliente 0120,Não informado,47,45-54,Campinas,SP,Sudeste,2023-07-05
+121,Cliente 0121,Masculino,19,18-24,Porto Alegre,RS,Sul,2023-10-03
+122,Cliente 0122,Não informado,46,45-54,Vitória,ES,Sudeste,2021-08-16
+123,Cliente 0123,Feminino,24,18-24,Niterói,RJ,Sudeste,2022-08-14
+124,Cliente 0124,Feminino,39,35-44,Palmas,TO,Norte,2023-03-06
+125,Cliente 0125,Masculino,38,35-44,Belo Horizonte,MG,Sudeste,2023-10-13
+126,Cliente 0126,Feminino,48,45-54,Fortaleza,CE,Nordeste,2021-06-01
+127,Cliente 0127,Masculino,32,25-34,Brasília,DF,Centro-Oeste,2024-11-03
+128,Cliente 0128,Feminino,19,18-24,Recife,PE,Nordeste,2022-12-24
+129,Cliente 0129,Masculino,32,25-34,Campo Grande,MS,Centro-Oeste,2023-12-12
+130,Cliente 0130,Feminino,52,45-54,Niterói,RJ,Sudeste,2022-02-28
+131,Cliente 0131,Masculino,29,25-34,Vitória,ES,Sudeste,2021-05-31
+132,Cliente 0132,Feminino,48,45-54,Niterói,RJ,Sudeste,2021-03-17
+133,Cliente 0133,Masculino,46,45-54,São Paulo,SP,Sudeste,2022-12-01
+134,Cliente 0134,Masculino,53,45-54,Fortaleza,CE,Nordeste,2024-03-24
+135,Cliente 0135,Feminino,19,18-24,Curitiba,PR,Sul,2022-08-08
+136,Cliente 0136,Masculino,21,18-24,Campinas,SP,Sudeste,2021-05-25
+137,Cliente 0137,Masculino,35,35-44,Niterói,RJ,Sudeste,2022-02-18
+138,Cliente 0138,Masculino,45,45-54,Santos,SP,Sudeste,2025-04-15
+139,Cliente 0139,Não informado,50,45-54,Curitiba,PR,Sul,2022-09-15
+140,Cliente 0140,Feminino,41,35-44,Goiânia,GO,Centro-Oeste,2023-11-16
+141,Cliente 0141,Feminino,46,45-54,Belo Horizonte,MG,Sudeste,2022-10-22
+142,Cliente 0142,Feminino,59,55+,Niterói,RJ,Sudeste,2022-02-22
+143,Cliente 0143,Feminino,18,18-24,Brasília,DF,Centro-Oeste,2022-10-14
+144,Cliente 0144,Feminino,34,25-34,Fortaleza,CE,Nordeste,2023-11-06
+145,Cliente 0145,Masculino,35,35-44,Santos,SP,Sudeste,2024-12-11
+146,Cliente 0146,Masculino,42,35-44,Campinas,SP,Sudeste,2021-02-24
+147,Cliente 0147,Feminino,56,55+,Niterói,RJ,Sudeste,2022-01-30
+148,Cliente 0148,Feminino,37,35-44,Fortaleza,CE,Nordeste,2024-09-04
+149,Cliente 0149,Masculino,37,35-44,Porto Alegre,RS,Sul,2024-02-11
+150,Cliente 0150,Masculino,38,35-44,Fortaleza,CE,Nordeste,2021-04-29
+151,Cliente 0151,Masculino,20,18-24,Vitória,ES,Sudeste,2021-03-10
+152,Cliente 0152,Masculino,40,35-44,Niterói,RJ,Sudeste,2022-02-09
+153,Cliente 0153,Masculino,54,45-54,São Paulo,SP,Sudeste,2024-08-20
+154,Cliente 0154,Masculino,18,18-24,Joinville,SC,Sul,2025-01-14
+155,Cliente 0155,Feminino,43,35-44,Campinas,SP,Sudeste,2021-04-05
+156,Cliente 0156,Masculino,34,25-34,Vitória,ES,Sudeste,2024-05-21
+157,Cliente 0157,Masculino,42,35-44,Joinville,SC,Sul,2025-06-02
+158,Cliente 0158,Feminino,31,25-34,Niterói,RJ,Sudeste,2024-05-05
+159,Cliente 0159,Feminino,63,55+,Campinas,SP,Sudeste,2024-04-19
+160,Cliente 0160,Feminino,36,35-44,Maceió,AL,Nordeste,2022-01-19
+161,Cliente 0161,Masculino,28,25-34,Maceió,AL,nordeste ,2021-05-09
+162,Cliente 0162,Masculino,20,18-24,Niterói,RJ,Sudeste,2025-04-26
+163,Cliente 0163,Masculino,32,25-34,Joinville,SC,Sul,2021-07-04
+164,Cliente 0164,Masculino,46,45-54,Santos,SP,sudeste ,2021-07-03
+165,Cliente 0165,Feminino,42,35-44,Florianópolis,SC,Sul,2021-05-07
+166,Cliente 0166,Feminino,34,25-34,Joinville,SC,Sul,2024-03-04
+167,Cliente 0167,Masculino,34,25-34,João Pessoa,PB,Nordeste,2025-06-16
+168,Cliente 0168,Feminino,35,35-44,Porto Alegre,RS,Sul,2023-10-27
+169,Cliente 0169,Masculino,45,45-54,Santos,SP,Sudeste,2022-02-02
+170,Cliente 0170,Feminino,24,18-24,Belo Horizonte,MG,Sudeste,2022-03-10
+171,Cliente 0171,Masculino,48,45-54,São Paulo,SP,Sudeste,2022-09-07
+172,Cliente 0172,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2021-08-02
+173,Cliente 0173,Masculino,23,18-24,Londrina,PR,Sul,2024-10-24
+174,Cliente 0174,Feminino,38,35-44,Recife,PE,Nordeste,2022-11-11
+175,Cliente 0175,Masculino,52,45-54,Campo Grande,MS,Centro-Oeste,2021-01-11
+176,Cliente 0176,Masculino,44,35-44,Goiânia,GO,Centro-Oeste,2023-08-17
+177,Cliente 0177,Feminino,51,45-54,Porto Velho,RO,Norte,2024-10-20
+178,Cliente 0178,Masculino,47,45-54,Maceió,AL,Nordeste,2023-10-31
+179,Cliente 0179,Masculino,34,25-34,Goiânia,GO,Centro-Oeste,2023-04-29
+180,Cliente 0180,Masculino,38,35-44,Natal,RN,Nordeste,2022-02-12
+181,Cliente 0181,Feminino,38,35-44,Londrina,PR,Sul,2024-10-16
+182,Cliente 0182,Masculino,23,18-24,Maceió,AL,Nordeste,2023-09-21
+183,Cliente 0183,Masculino,39,35-44,Vitória,ES,Sudeste,2023-01-21
+184,Cliente 0184,Feminino,32,25-34,Campinas,SP,Sudeste,2023-12-07
+185,Cliente 0185,Feminino,18,18-24,Florianópolis,SC,Sul,2021-09-08
+186,Cliente 0186,Feminino,41,35-44,Vitória,ES,Sudeste,2024-03-20
+187,Cliente 0187,Masculino,32,25-34,São Paulo,SP,Sudeste,2021-06-03
+188,Cliente 0188,Feminino,41,35-44,Campo Grande,MS,Centro-Oeste,2023-04-14
+189,Cliente 0189,Feminino,18,18-24,Salvador,BA,Nordeste,2025-06-18
+190,Cliente 0190,Feminino,54,45-54,Porto Velho,RO,Norte,2024-11-21
+191,Cliente 0191,Feminino,20,18-24,Belo Horizonte,MG,Sudeste,2022-03-20
+192,Cliente 0192,Feminino,35,35-44,Salvador,BA,Nordeste,2024-09-05
+193,Cliente 0193,Feminino,38,35-44,Caxias do Sul,RS,Sul,2022-02-10
+194,Cliente 0194,Não informado,26,25-34,Campo Grande,MS,Centro-Oeste,2022-02-16
+195,Cliente 0195,Feminino,43,35-44,Brasília,DF,Centro-Oeste,2024-05-18
+196,Cliente 0196,Feminino,22,18-24,Porto Alegre,RS,Sul,2022-10-21
+197,Cliente 0197,Masculino,46,45-54,Vitória,ES,Sudeste,2023-08-27
+198,Cliente 0198,Feminino,41,35-44,Florianópolis,SC,Sul,2021-02-18
+199,Cliente 0199,Masculino,53,45-54,Londrina,PR,Sul,2023-09-18
+200,Cliente 0200,Feminino,46,45-54,Vitória,ES,Sudeste,2023-06-06
+201,Cliente 0201,Feminino,31,25-34,Belo Horizonte,MG,Sudeste,2021-07-06
+202,Cliente 0202,Feminino,18,18-24,Maceió,AL,Nordeste,2021-06-16
+203,Cliente 0203,Masculino,44,35-44,Porto Alegre,RS,Sul,2021-03-25
+204,Cliente 0204,Feminino,51,45-54,Goiânia,GO,Centro-Oeste,2025-04-15
+205,Cliente 0205,Masculino,34,25-34,Campo Grande,MS,Centro-Oeste,2024-07-04
+206,Cliente 0206,Feminino,18,18-24,Goiânia,GO,Centro-Oeste,2023-01-26
+207,Cliente 0207,Masculino,31,25-34,Niterói,RJ,Sudeste,2024-11-19
+208,Cliente 0208,Masculino,40,35-44,Vitória,ES,Sudeste,2024-07-17
+209,Cliente 0209,Feminino,32,25-34,Belo Horizonte,MG,Sudeste,2022-05-02
+210,Cliente 0210,Masculino,48,45-54,Londrina,PR,Sul,2024-04-14
+211,Cliente 0211,Feminino,19,18-24,Goiânia,GO,Centro-Oeste,2021-05-16
+212,Cliente 0212,Masculino,46,45-54,João Pessoa,PB,Nordeste,2022-08-04
+213,Cliente 0213,Feminino,53,45-54,Salvador,BA,Nordeste,2024-03-12
+214,Cliente 0214,Feminino,22,18-24,São Paulo,SP,Sudeste,2022-03-11
+215,Cliente 0215,Masculino,46,45-54,Belém,PA,Norte,2021-12-11
+216,Cliente 0216,Feminino,30,25-34,Niterói,RJ,Sudeste,2022-11-04
+217,Cliente 0217,Não informado,19,18-24,Florianópolis,SC,Sul,2021-08-06
+218,Cliente 0218,Masculino,23,18-24,Goiânia,GO,Centro-Oeste,2024-01-03
+219,Cliente 0219,Masculino,26,25-34,Campinas,SP,Sudeste,2023-02-18
+220,Cliente 0220,Masculino,33,25-34,Campinas,SP,Sudeste,2022-01-29
+221,Cliente 0221,Masculino,40,35-44,Londrina,PR,Sul,2023-05-08
+222,Cliente 0222,Masculino,41,35-44,Joinville,SC,Sul,2024-05-23
+223,Cliente 0223,Feminino,37,35-44,Campo Grande,MS,Centro-Oeste,2025-04-23
+224,Cliente 0224,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2021-10-13
+225,Cliente 0225,Feminino,50,45-54,Campinas,SP,Sudeste,2024-03-01
+226,Cliente 0226,Masculino,47,45-54,Florianópolis,SC,Sul,2024-12-20
+227,Cliente 0227,Feminino,37,35-44,Florianópolis,SC,Sul,2021-02-16
+228,Cliente 0228,Feminino,46,45-54,Curitiba,PR,Sul,2024-02-10
+229,Cliente 0229,Masculino,48,45-54,Belo Horizonte,MG,Sudeste,2025-04-26
+230,Cliente 0230,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2024-04-04
+231,Cliente 0231,Masculino,43,35-44,Curitiba,PR,Sul,2021-02-26
+232,Cliente 0232,Masculino,55,55+,Fortaleza,CE,Nordeste,2021-09-19
+233,Cliente 0233,Masculino,49,45-54,Curitiba,PR,Sul,2024-02-27
+234,Cliente 0234,Masculino,56,55+,Santos,SP,Sudeste,2023-04-10
+235,Cliente 0235,Feminino,37,35-44,Campo Grande,MS,Centro-Oeste,2022-06-11
+236,Cliente 0236,Masculino,53,45-54,São Paulo,SP,Sudeste,2023-07-21
+237,Cliente 0237,Feminino,28,25-34,Caxias do Sul,RS,Sul,2023-04-02
+238,Cliente 0238,Feminino,38,35-44,Natal,RN,Nordeste,2023-09-01
+239,Cliente 0239,Feminino,24,18-24,Vitória,ES,Sudeste,2024-04-18
+240,Cliente 0240,Feminino,18,18-24,Recife,PE,Nordeste,2023-07-01
+241,Cliente 0241,Masculino,45,45-54,Florianópolis,SC,Sul,2025-02-13
+242,Cliente 0242,Feminino,30,25-34,Palmas,TO,Norte,2024-05-18
+243,Cliente 0243,Feminino,28,25-34,Belo Horizonte,MG,Sudeste,2024-08-20
+244,Cliente 0244,Feminino,42,35-44,Santos,SP,Sudeste,2021-09-08
+245,Cliente 0245,Feminino,18,18-24,Porto Alegre,RS,Sul,2023-07-22
+246,Cliente 0246,Não informado,32,25-34,Fortaleza,CE,Nordeste,2022-02-18
+247,Cliente 0247,Masculino,28,25-34,João Pessoa,PB,Nordeste,2021-07-12
+248,Cliente 0248,Masculino,37,35-44,Curitiba,PR,Sul,2025-02-06
+249,Cliente 0249,Não informado,35,35-44,Natal,RN,Nordeste,2022-08-02
+250,Cliente 0250,Feminino,42,35-44,Rio de Janeiro,RJ,Sudeste,2022-12-29
+251,Cliente 0251,Não informado,32,25-34,Londrina,PR,Sul,2025-01-15
+252,Cliente 0252,Masculino,40,35-44,Campinas,SP,Sudeste,2021-07-08
+253,Cliente 0253,Feminino,43,35-44,Caxias do Sul,RS,Sul,2021-03-14
+254,Cliente 0254,Não informado,19,18-24,Rio de Janeiro,RJ,Sudeste,2024-05-15
+255,Cliente 0255,Feminino,46,45-54,Maceió,AL,Nordeste,2021-07-02
+256,Cliente 0256,Feminino,44,35-44,Natal,RN,Nordeste,2022-04-16
+257,Cliente 0257,Feminino,36,35-44,Rio de Janeiro,RJ,Sudeste,2023-06-15
+258,Cliente 0258,Feminino,46,45-54,Joinville,SC,Sul,2024-08-01
+259,Cliente 0259,Feminino,66,55+,Natal,RN,Nordeste,2023-03-08
+260,Cliente 0260,Masculino,42,35-44,São Paulo,SP,Sudeste,2023-01-20
+261,Cliente 0261,Masculino,59,55+,Brasília,DF,Centro-Oeste,2023-02-10
+262,Cliente 0262,Feminino,53,45-54,Santos,SP,Sudeste,2021-01-05
+263,Cliente 0263,Masculino,54,45-54,Londrina,PR,Sul,2025-05-07
+264,Cliente 0264,Masculino,34,25-34,Curitiba,PR,Sul,2024-08-09
+265,Cliente 0265,Feminino,23,18-24,Porto Velho,RO,Norte,2024-02-12
+266,Cliente 0266,Masculino,22,18-24,Natal,RN,Nordeste,2022-02-04
+267,Cliente 0267,Feminino,36,35-44,Fortaleza,CE,Nordeste,2024-04-07
+268,Cliente 0268,Masculino,48,45-54,Natal,RN,Nordeste,2021-12-24
+269,Cliente 0269,Masculino,34,25-34,Porto Alegre,RS,Sul,2022-10-27
+270,Cliente 0270,Masculino,27,25-34,Santos,SP,Sudeste,2022-08-02
+271,Cliente 0271,Feminino,21,18-24,Fortaleza,CE,Nordeste,2025-03-13
+272,Cliente 0272,Masculino,30,25-34,Fortaleza,CE,Nordeste,2024-04-12
+273,Cliente 0273,Masculino,20,18-24,Campinas,SP,Sudeste,2024-11-03
+274,Cliente 0274,Feminino,56,55+,Niterói,RJ,Sudeste,2023-03-28
+275,Cliente 0275,Masculino,20,18-24,Vitória,ES,Sudeste,2023-06-16
+276,Cliente 0276,Masculino,33,25-34,João Pessoa,PB,Nordeste,2022-05-21
+277,Cliente 0277,Feminino,39,35-44,Niterói,RJ,Sudeste,2021-04-17
+278,Cliente 0278,Feminino,50,45-54,Campo Grande,MS,Centro-Oeste,2022-10-30
+279,Cliente 0279,Masculino,46,45-54,Manaus,AM,Norte,2022-09-11
+280,Cliente 0280,Feminino,19,18-24,Brasília,DF,Centro-Oeste,2024-01-13
+281,Cliente 0281,Feminino,29,25-34,Cuiabá,MT,Centro-Oeste,2023-05-30
+282,Cliente 0282,Masculino,43,35-44,Santos,SP,Sudeste,2021-12-22
+283,Cliente 0283,Masculino,38,35-44,Cuiabá,MT,Centro-Oeste,2022-01-29
+284,Cliente 0284,Feminino,44,35-44,Belo Horizonte,MG,Sudeste,2021-03-17
+285,Cliente 0285,Feminino,50,45-54,Salvador,BA,Nordeste,2023-05-15
+286,Cliente 0286,Masculino,30,25-34,Niterói,RJ,Sudeste,2022-03-16
+287,Cliente 0287,Feminino,45,45-54,Porto Velho,RO,Norte,2023-04-12
+288,Cliente 0288,Masculino,35,35-44,Brasília,DF,Centro-Oeste,2024-10-18
+289,Cliente 0289,Masculino,40,35-44,Santos,SP,Sudeste,2021-08-30
+290,Cliente 0290,Masculino,60,55+,Rio de Janeiro,RJ,Sudeste,2024-07-16
+291,Cliente 0291,Masculino,36,35-44,Curitiba,PR,Sul,2024-10-03
+292,Cliente 0292,Feminino,44,35-44,Natal,RN,Nordeste,2024-05-25
+293,Cliente 0293,Masculino,52,45-54,Caxias do Sul,RS,Sul,2022-03-03
+294,Cliente 0294,Não informado,36,35-44,Niterói,RJ,Sudeste,2021-09-02
+295,Cliente 0295,Masculino,59,55+,Santos,SP,Sudeste,2022-10-09
+296,Cliente 0296,Feminino,30,25-34,Campo Grande,MS,Centro-Oeste,2023-04-26
+297,Cliente 0297,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2022-04-19
+298,Cliente 0298,Masculino,32,25-34,Salvador,BA,Nordeste,2025-02-01
+299,Cliente 0299,Masculino,37,35-44,Belo Horizonte,MG,Sudeste,2021-01-04
+300,Cliente 0300,Feminino,33,25-34,Manaus,AM,Norte,2024-12-26
+301,Cliente 0301,Masculino,33,25-34,Brasília,DF,Centro-Oeste,2025-03-12
+302,Cliente 0302,Feminino,40,35-44,Salvador,BA,Nordeste,2021-08-17
+303,Cliente 0303,Masculino,42,35-44,Porto Alegre,RS,Sul,2024-11-21
+304,Cliente 0304,Masculino,48,45-54,Campinas,SP,Sudeste,2021-04-26
+305,Cliente 0305,Feminino,18,18-24,Recife,PE,Nordeste,2023-04-25
+306,Cliente 0306,Masculino,44,35-44,Campinas,SP,Sudeste,2022-08-15
+307,Cliente 0307,Masculino,55,55+,Campo Grande,MS,Centro-Oeste,2022-12-04
+308,Cliente 0308,Masculino,52,45-54,Goiânia,GO,Centro-Oeste,2021-07-26
+309,Cliente 0309,Masculino,18,18-24,Niterói,RJ,Sudeste,2021-12-05
+310,Cliente 0310,Masculino,35,35-44,Santos,SP,Sudeste,2024-01-17
+311,Cliente 0311,Feminino,43,35-44,Santos,SP,Sudeste,2024-04-01
+312,Cliente 0312,Masculino,50,45-54,Maceió,AL,Nordeste,2023-02-26
+313,Cliente 0313,Masculino,38,35-44,Recife,PE,Nordeste,2021-10-28
+314,Cliente 0314,Feminino,43,35-44,Santos,SP,Sudeste,2025-05-13
+315,Cliente 0315,Masculino,41,35-44,Londrina,PR,Sul,2022-08-22
+316,Cliente 0316,Masculino,50,45-54,Niterói,RJ,Sudeste,2023-08-19
+317,Cliente 0317,Masculino,31,25-34,Goiânia,GO,Centro-Oeste,2025-04-16
+318,Cliente 0318,Masculino,42,35-44,Santos,SP,Sudeste,2022-09-22
+319,Cliente 0319,Masculino,37,35-44,Maceió,AL,nordeste ,2022-10-27
+320,Cliente 0320,Masculino,39,35-44,Vitória,ES,Sudeste,2022-03-01
+321,Cliente 0321,Não informado,49,45-54,Rio de Janeiro,RJ,Sudeste,2025-02-25
+322,Cliente 0322,Masculino,31,25-34,Belo Horizonte,MG,Sudeste,2021-12-22
+323,Cliente 0323,Feminino,32,25-34,Joinville,SC,Sul,2024-07-05
+324,Cliente 0324,Feminino,22,18-24,Belo Horizonte,MG,Sudeste,2024-07-26
+325,Cliente 0325,Masculino,21,18-24,Curitiba,PR,Sul,2022-04-01
+326,Cliente 0326,Feminino,24,18-24,Rio de Janeiro,RJ,Sudeste,2023-07-28
+327,Cliente 0327,Feminino,18,18-24,Londrina,PR,Sul,2021-05-03
+328,Cliente 0328,Masculino,44,35-44,Rio de Janeiro,RJ,Sudeste,2025-04-03
+329,Cliente 0329,Feminino,57,55+,Campo Grande,MS,Centro-Oeste,2024-10-28
+330,Cliente 0330,Masculino,31,25-34,Belo Horizonte,MG,Sudeste,2025-02-21
+331,Cliente 0331,Masculino,29,25-34,Salvador,BA,Nordeste,2023-11-18
+332,Cliente 0332,Masculino,55,55+,Fortaleza,CE,Nordeste,2024-03-10
+333,Cliente 0333,Masculino,42,35-44,Curitiba,PR,Sul,2023-08-26
+334,Cliente 0334,Masculino,42,35-44,Natal,RN,nordeste ,2021-08-11
+335,Cliente 0335,Feminino,47,45-54,Brasília,DF,Centro-Oeste,2022-07-11
+336,Cliente 0336,Feminino,45,45-54,Porto Alegre,RS,Sul,2021-10-20
+337,Cliente 0337,Feminino,32,25-34,Cuiabá,MT,Centro-Oeste,2021-11-07
+338,Cliente 0338,Feminino,49,45-54,Florianópolis,SC,Sul,2023-12-11
+339,Cliente 0339,Feminino,26,25-34,Joinville,SC,Sul,2022-09-02
+340,Cliente 0340,Feminino,49,45-54,São Paulo,SP,Sudeste,2024-02-23
+341,Cliente 0341,Masculino,50,45-54,Vitória,ES,Sudeste,2021-10-03
+342,Cliente 0342,Feminino,35,35-44,São Paulo,SP,Sudeste,2022-05-07
+343,Cliente 0343,Feminino,40,35-44,Natal,RN,nordeste ,2021-08-19
+344,Cliente 0344,Masculino,42,35-44,Cuiabá,MT,Centro-Oeste,2021-10-10
+345,Cliente 0345,Masculino,32,25-34,São Paulo,SP,Sudeste,2024-11-10
+346,Cliente 0346,Masculino,30,25-34,São Paulo,SP,Sudeste,2021-05-15
+347,Cliente 0347,Feminino,64,55+,Rio de Janeiro,RJ,Sudeste,2022-08-13
+348,Cliente 0348,Feminino,18,18-24,Niterói,RJ,Sudeste,2022-10-24
+349,Cliente 0349,Masculino,38,35-44,Vitória,ES,Sudeste,2023-01-12
+350,Cliente 0350,Feminino,39,35-44,Londrina,PR,Sul,2023-02-24
+351,Cliente 0351,Feminino,30,25-34,Caxias do Sul,RS,Sul,2022-05-17
+352,Cliente 0352,Não informado,50,45-54,Londrina,PR,Sul,2023-06-01
+353,Cliente 0353,Feminino,30,25-34,Campinas,SP,Sudeste,2024-05-08
+354,Cliente 0354,Feminino,30,25-34,Cuiabá,MT,Centro-Oeste,2022-07-25
+355,Cliente 0355,Feminino,22,18-24,Rio de Janeiro,RJ,Sudeste,2023-02-07
+356,Cliente 0356,Feminino,39,35-44,Salvador,BA,Nordeste,2021-10-24
+357,Cliente 0357,Masculino,46,45-54,Fortaleza,CE,Nordeste,2021-09-20
+358,Cliente 0358,Masculino,28,25-34,Santos,SP,Sudeste,2022-05-17
+359,Cliente 0359,Masculino,49,45-54,Fortaleza,CE,Nordeste,2024-09-12
+360,Cliente 0360,Masculino,60,55+,Brasília,DF,Centro-Oeste,2024-06-13
+361,Cliente 0361,Não informado,25,25-34,Campinas,SP,Sudeste,2023-05-03
+362,Cliente 0362,Masculino,33,25-34,Joinville,SC,Sul,2021-04-13
+363,Cliente 0363,Masculino,47,45-54,João Pessoa,PB,Nordeste,2022-08-28
+364,Cliente 0364,Masculino,48,45-54,Recife,PE,Nordeste,2022-04-12
+365,Cliente 0365,Feminino,32,25-34,Florianópolis,SC,Sul,2021-06-23
+366,Cliente 0366,Masculino,35,35-44,Niterói,RJ,Sudeste,2021-11-22
+367,Cliente 0367,Masculino,48,45-54,Joinville,SC,Sul,2021-09-16
+368,Cliente 0368,Masculino,34,25-34,São Paulo,SP,Sudeste,2024-03-13
+369,Cliente 0369,Masculino,29,25-34,Salvador,BA,Nordeste,2021-07-25
+370,Cliente 0370,Feminino,24,18-24,Rio de Janeiro,RJ,Sudeste,2022-09-01
+371,Cliente 0371,Feminino,55,55+,Florianópolis,SC,Sul,2024-05-27
+372,Cliente 0372,Feminino,37,35-44,Florianópolis,SC,Sul,2025-05-20
+373,Cliente 0373,Masculino,18,18-24,Campo Grande,MS,Centro-Oeste,2022-08-02
+374,Cliente 0374,Feminino,50,45-54,Vitória,ES,Sudeste,2023-11-11
+375,Cliente 0375,Masculino,46,45-54,Santos,SP,Sudeste,2024-09-24
+376,Cliente 0376,Feminino,34,25-34,Porto Alegre,RS,Sul,2021-06-29
+377,Cliente 0377,Masculino,32,25-34,João Pessoa,PB,Nordeste,2023-08-15
+378,Cliente 0378,Feminino,23,18-24,Maceió,AL,Nordeste,2022-10-03
+379,Cliente 0379,Não informado,42,35-44,Belo Horizonte,MG,Sudeste,2022-07-12
+380,Cliente 0380,Feminino,39,35-44,Santos,SP,Sudeste,2022-03-22
+381,Cliente 0381,Feminino,50,45-54,Rio de Janeiro,RJ,Sudeste,2022-05-20
+382,Cliente 0382,Masculino,27,25-34,Santos,SP,Sudeste,2022-10-23
+383,Cliente 0383,Masculino,18,18-24,Recife,PE,Nordeste,2025-01-30
+384,Cliente 0384,Feminino,39,35-44,Londrina,PR,Sul,2022-04-24
+385,Cliente 0385,Feminino,52,45-54,Niterói,RJ,Sudeste,2023-11-28
+386,Cliente 0386,Masculino,32,25-34,Vitória,ES,Sudeste,2022-03-25
+387,Cliente 0387,Feminino,24,18-24,Campinas,SP,Sudeste,2021-12-29
+388,Cliente 0388,Masculino,42,35-44,Palmas,TO,Norte,2021-08-26
+389,Cliente 0389,Masculino,38,35-44,Belém,PA,Norte,2023-12-21
+390,Cliente 0390,Feminino,30,25-34,Cuiabá,MT,Centro-Oeste,2025-03-15
+391,Cliente 0391,Masculino,39,35-44,Cuiabá,MT,Centro-Oeste,2023-05-31
+392,Cliente 0392,Feminino,58,55+,São Paulo,SP,Sudeste,2021-11-17
+393,Cliente 0393,Feminino,48,45-54,Belo Horizonte,MG,Sudeste,2023-03-18
+394,Cliente 0394,Masculino,45,45-54,Recife,PE,Nordeste,2021-07-01
+395,Cliente 0395,Feminino,43,35-44,Niterói,RJ,Sudeste,2022-10-01
+396,Cliente 0396,Feminino,38,35-44,Campinas,SP,Sudeste,2021-06-17
+397,Cliente 0397,Masculino,34,25-34,Campinas,SP,Sudeste,2021-04-01
+398,Cliente 0398,Masculino,31,25-34,Belo Horizonte,MG,Sudeste,2023-09-13
+399,Cliente 0399,Feminino,31,25-34,Brasília,DF,Centro-Oeste,2022-11-05
+400,Cliente 0400,Feminino,39,35-44,Niterói,RJ,Sudeste,2021-04-25
+401,Cliente 0401,Não informado,41,35-44,Campinas,SP,Sudeste,2023-03-13
+402,Cliente 0402,Masculino,35,35-44,Campo Grande,MS,Centro-Oeste,2022-05-05
+403,Cliente 0403,Feminino,34,25-34,Natal,RN,Nordeste,2022-10-31
+404,Cliente 0404,Feminino,36,35-44,Maceió,AL,nordeste ,2022-03-06
+405,Cliente 0405,Feminino,41,35-44,Belo Horizonte,MG,Sudeste,2024-12-21
+406,Cliente 0406,Feminino,47,45-54,Londrina,PR,Sul,2022-10-30
+407,Cliente 0407,Masculino,47,45-54,Belém,PA,Norte,2024-06-13
+408,Cliente 0408,Feminino,48,45-54,São Paulo,SP,Sudeste,2023-11-25
+409,Cliente 0409,Feminino,53,45-54,Santos,SP,Sudeste,2024-07-26
+410,Cliente 0410,Masculino,45,45-54,Salvador,BA,Nordeste,2021-03-02
+411,Cliente 0411,Feminino,64,55+,Porto Alegre,RS,Sul,2022-12-20
+412,Cliente 0412,Masculino,36,35-44,São Paulo,SP,Sudeste,2025-01-03
+413,Cliente 0413,Masculino,31,25-34,Santos,SP,Sudeste,2023-12-24
+414,Cliente 0414,Feminino,44,35-44,São Paulo,SP,Sudeste,2021-02-01
+415,Cliente 0415,Masculino,25,25-34,Belo Horizonte,MG,Sudeste,2025-04-09
+416,Cliente 0416,Feminino,38,35-44,São Paulo,SP,Sudeste,2024-02-19
+417,Cliente 0417,Feminino,43,35-44,São Paulo,SP,Sudeste,2021-02-10
+418,Cliente 0418,Feminino,50,45-54,São Paulo,SP,Sudeste,2023-10-13
+419,Cliente 0419,Masculino,43,35-44,Belém,PA,Norte,2024-10-08
+420,Cliente 0420,Feminino,32,25-34,Vitória,ES,Sudeste,2024-07-30
+421,Cliente 0421,Feminino,28,25-34,Rio de Janeiro,RJ,Sudeste,2022-01-19
+422,Cliente 0422,Feminino,48,45-54,Natal,RN,Nordeste,2021-08-21
+423,Cliente 0423,Masculino,46,45-54,Belém,PA,Norte,2024-10-10
+424,Cliente 0424,Masculino,47,45-54,Brasília,DF,Centro-Oeste,2023-11-21
+425,Cliente 0425,Feminino,32,25-34,Goiânia,GO,Centro-Oeste,2024-06-01
+426,Cliente 0426,Feminino,25,25-34,Campo Grande,MS,Centro-Oeste,2024-01-24
+427,Cliente 0427,Masculino,48,45-54,Rio de Janeiro,RJ,Sudeste,2021-03-13
+428,Cliente 0428,Masculino,36,35-44,Fortaleza,CE,Nordeste,2022-12-10
+429,Cliente 0429,Feminino,30,25-34,Campinas,SP,Sudeste,2022-09-12
+430,Cliente 0430,Masculino,38,35-44,Londrina,PR,Sul,2021-12-06
+431,Cliente 0431,Feminino,27,25-34,Caxias do Sul,RS,Sul,2022-08-30
+432,Cliente 0432,Feminino,51,45-54,Maceió,AL,Nordeste,2024-01-13
+433,Cliente 0433,Feminino,53,45-54,Recife,PE,Nordeste,2023-05-21
+434,Cliente 0434,Feminino,33,25-34,Campinas,SP,Sudeste,2021-03-09
+435,Cliente 0435,Feminino,40,35-44,Londrina,PR,Sul,2021-11-18
+436,Cliente 0436,Feminino,19,18-24,Londrina,PR,Sul,2021-08-11
+437,Cliente 0437,Feminino,18,18-24,Natal,RN,Nordeste,2023-02-19
+438,Cliente 0438,Masculino,28,25-34,Joinville,SC,Sul,2025-04-06
+439,Cliente 0439,Feminino,30,25-34,Fortaleza,CE,Nordeste,2022-02-15
+440,Cliente 0440,Feminino,33,25-34,Campinas,SP,Sudeste,2022-02-13
+441,Cliente 0441,Feminino,27,25-34,Campo Grande,MS,Centro-Oeste,2025-04-13
+442,Cliente 0442,Feminino,41,35-44,Natal,RN,Nordeste,2025-02-03
+443,Cliente 0443,Masculino,45,45-54,Porto Alegre,RS,Sul,2022-05-26
+444,Cliente 0444,Feminino,50,45-54,Campinas,SP,Sudeste,2023-07-07
+445,Cliente 0445,Masculino,28,25-34,Goiânia,GO,Centro-Oeste,2022-12-28
+446,Cliente 0446,Não informado,60,55+,São Paulo,SP,Sudeste,2023-03-30
+447,Cliente 0447,Masculino,23,18-24,Niterói,RJ,Sudeste,2021-12-07
+448,Cliente 0448,Feminino,40,35-44,Fortaleza,CE,Nordeste,2023-05-01
+449,Cliente 0449,Feminino,35,35-44,Florianópolis,SC,Sul,2021-04-12
+450,Cliente 0450,Não informado,33,25-34,Caxias do Sul,RS,Sul,2025-06-07
+451,Cliente 0451,Feminino,27,25-34,Caxias do Sul,RS,Sul,2025-05-06
+452,Cliente 0452,Feminino,46,45-54,Niterói,RJ,Sudeste,2025-04-18
+453,Cliente 0453,Masculino,53,45-54,Rio de Janeiro,RJ,Sudeste,2025-04-14
+454,Cliente 0454,Feminino,18,18-24,Curitiba,PR,Sul,2023-02-01
+455,Cliente 0455,Feminino,28,25-34,Natal,RN,Nordeste,2022-05-27
+456,Cliente 0456,Feminino,18,18-24,São Paulo,SP,Sudeste,2024-06-02
+457,Cliente 0457,Masculino,49,45-54,Brasília,DF,Centro-Oeste,2024-10-05
+458,Cliente 0458,Feminino,45,45-54,Manaus,AM,Norte,2022-05-14
+459,Cliente 0459,Masculino,54,45-54,João Pessoa,PB,Nordeste,2024-07-26
+460,Cliente 0460,Feminino,18,18-24,Brasília,DF,Centro-Oeste,2024-02-22
+461,Cliente 0461,Feminino,50,45-54,Palmas,TO,Norte,2022-11-15
+462,Cliente 0462,Masculino,23,18-24,Florianópolis,SC,Sul,2024-07-28
+463,Cliente 0463,Masculino,38,35-44,Curitiba,PR,Sul,2023-07-20
+464,Cliente 0464,Masculino,48,45-54,Niterói,RJ,Sudeste,2021-01-03
+465,Cliente 0465,Feminino,25,25-34,João Pessoa,PB,Nordeste,2024-08-17
+466,Cliente 0466,Feminino,36,35-44,Rio de Janeiro,RJ,Sudeste,2021-10-25
+467,Cliente 0467,Masculino,36,35-44,Niterói,RJ,Sudeste,2021-10-31
+468,Cliente 0468,Masculino,39,35-44,Florianópolis,SC,Sul,2022-07-14
+469,Cliente 0469,Feminino,25,25-34,Vitória,ES,Sudeste,2023-09-04
+470,Cliente 0470,Masculino,48,45-54,Belo Horizonte,MG,Sudeste,2022-11-17
+471,Cliente 0471,Masculino,37,35-44,Recife,PE,Nordeste,2022-02-23
+472,Cliente 0472,Masculino,48,45-54,Porto Alegre,RS,Sul,2025-05-08
+473,Cliente 0473,Feminino,38,35-44,Maceió,AL,Nordeste,2023-01-09
+474,Cliente 0474,Feminino,29,25-34,Fortaleza,CE,Nordeste,2022-04-08
+475,Cliente 0475,Feminino,50,45-54,Rio de Janeiro,RJ,Sudeste,2023-01-31
+476,Cliente 0476,Masculino,51,45-54,São Paulo,SP,Sudeste,2021-12-24
+477,Cliente 0477,Masculino,18,18-24,Fortaleza,CE,Nordeste,2022-11-21
+478,Cliente 0478,Masculino,18,18-24,São Paulo,SP,Sudeste,2022-10-03
+479,Cliente 0479,Masculino,36,35-44,Joinville,SC,Sul,2023-03-06
+480,Cliente 0480,Masculino,37,35-44,Porto Alegre,RS,Sul,2022-09-12
+481,Cliente 0481,Masculino,24,18-24,Vitória,ES,Sudeste,2024-10-17
+482,Cliente 0482,Masculino,37,35-44,Maceió,AL,Nordeste,2021-01-13
+483,Cliente 0483,Masculino,24,18-24,Joinville,SC,Sul,2023-11-26
+484,Cliente 0484,Masculino,33,25-34,Fortaleza,CE,Nordeste,2025-02-12
+485,Cliente 0485,Feminino,35,35-44,Campinas,SP,Sudeste,2025-02-17
+486,Cliente 0486,Masculino,19,18-24,Santos,SP,Sudeste,2023-06-05
+487,Cliente 0487,Feminino,47,45-54,Belo Horizonte,MG,Sudeste,2023-12-25
+488,Cliente 0488,Masculino,32,25-34,Niterói,RJ,Sudeste,2022-06-28
+489,Cliente 0489,Masculino,56,55+,Recife,PE,Nordeste,2024-04-22
+490,Cliente 0490,Masculino,40,35-44,Niterói,RJ,Sudeste,2025-04-02
+491,Cliente 0491,Masculino,36,35-44,João Pessoa,PB,Nordeste,2021-04-18
+492,Cliente 0492,Masculino,58,55+,Niterói,RJ,Sudeste,2023-04-04
+493,Cliente 0493,Masculino,56,55+,Vitória,ES,Sudeste,2024-04-01
+494,Cliente 0494,Masculino,32,25-34,Niterói,RJ,Sudeste,2023-07-17
+495,Cliente 0495,Masculino,56,55+,Maceió,AL,Nordeste,2024-02-15
+496,Cliente 0496,Masculino,45,45-54,São Paulo,SP,Sudeste,2023-08-03
+497,Cliente 0497,Feminino,28,25-34,Belém,PA,Norte,2022-11-29
+498,Cliente 0498,Masculino,39,35-44,Vitória,ES,Sudeste,2021-05-02
+499,Cliente 0499,Masculino,50,45-54,São Paulo,SP,Sudeste,2024-01-19
+500,Cliente 0500,Masculino,49,45-54,Santos,SP,Sudeste,2024-05-08
+501,Cliente 0501,Feminino,63,55+,São Paulo,SP,Sudeste,2021-12-26
+502,Cliente 0502,Masculino,46,45-54,Joinville,SC,Sul,2023-11-22
+503,Cliente 0503,Feminino,36,35-44,São Paulo,SP,Sudeste,2024-02-20
+504,Cliente 0504,Feminino,23,18-24,São Paulo,SP,Sudeste,2023-09-19
+505,Cliente 0505,Masculino,24,18-24,São Paulo,SP,sudeste ,2021-08-27
+506,Cliente 0506,Masculino,20,18-24,Rio de Janeiro,RJ,Sudeste,2021-04-03
+507,Cliente 0507,Masculino,18,18-24,São Paulo,SP,Sudeste,2023-10-30
+508,Cliente 0508,Feminino,69,55+,Rio de Janeiro,RJ,Sudeste,2024-11-09
+509,Cliente 0509,Feminino,37,35-44,Vitória,ES,Sudeste,2021-09-28
+510,Cliente 0510,Masculino,18,18-24,São Paulo,SP,Sudeste,2024-05-02
+511,Cliente 0511,Feminino,59,55+,Belo Horizonte,MG,Sudeste,2024-10-26
+512,Cliente 0512,Feminino,35,35-44,João Pessoa,PB,Nordeste,2024-04-14
+513,Cliente 0513,Feminino,35,35-44,Porto Velho,RO,norte ,2021-10-20
+514,Cliente 0514,Feminino,36,35-44,Rio de Janeiro,RJ,Sudeste,2025-04-04
+515,Cliente 0515,Não informado,36,35-44,Rio de Janeiro,RJ,Sudeste,2024-07-20
+516,Cliente 0516,Feminino,18,18-24,Campinas,SP,Sudeste,2022-04-02
+517,Cliente 0517,Feminino,26,25-34,Porto Alegre,RS,Sul,2024-05-13
+518,Cliente 0518,Feminino,20,18-24,Natal,RN,Nordeste,2024-06-19
+519,Cliente 0519,Feminino,28,25-34,Campinas,SP,Sudeste,2021-09-10
+520,Cliente 0520,Masculino,38,35-44,Natal,RN,Nordeste,2022-04-18
+521,Cliente 0521,Feminino,53,45-54,Florianópolis,SC,SUL,2023-09-21
+522,Cliente 0522,Masculino,32,25-34,Campinas,SP,Sudeste,2022-12-22
+523,Cliente 0523,Feminino,22,18-24,Rio de Janeiro,RJ,Sudeste,2023-01-15
+524,Cliente 0524,Feminino,40,35-44,Londrina,PR,Sul,2023-03-19
+525,Cliente 0525,Masculino,34,25-34,Campinas,SP,Sudeste,2021-07-22
+526,Cliente 0526,Feminino,44,35-44,Florianópolis,SC,Sul,2025-02-01
+527,Cliente 0527,Feminino,22,18-24,Rio de Janeiro,RJ,Sudeste,2023-01-13
+528,Cliente 0528,Masculino,26,25-34,Santos,SP,Sudeste,2023-04-10
+529,Cliente 0529,Feminino,27,25-34,Curitiba,PR,Sul,2023-11-01
+530,Cliente 0530,Masculino,33,25-34,Brasília,DF,Centro-Oeste,2021-06-12
+531,Cliente 0531,Masculino,35,35-44,Porto Alegre,RS,Sul,2022-03-27
+532,Cliente 0532,Masculino,63,55+,Manaus,AM,Norte,2022-04-15
+533,Cliente 0533,Masculino,36,35-44,Natal,RN,Nordeste,2021-11-07
+534,Cliente 0534,Masculino,42,35-44,Florianópolis,SC,Sul,2022-12-06
+535,Cliente 0535,Feminino,20,18-24,Fortaleza,CE,Nordeste,2023-04-17
+536,Cliente 0536,Feminino,33,25-34,Joinville,SC,Sul,2024-05-08
+537,Cliente 0537,Feminino,44,35-44,Florianópolis,SC,Sul,2023-06-11
+538,Cliente 0538,Masculino,38,35-44,Rio de Janeiro,RJ,Sudeste,2025-06-04
+539,Cliente 0539,Masculino,53,45-54,Maceió,AL,Nordeste,2021-10-27
+540,Cliente 0540,Masculino,47,45-54,Niterói,RJ,Sudeste,2022-02-21
+541,Cliente 0541,Masculino,46,45-54,Recife,PE,Nordeste,2022-05-26
+542,Cliente 0542,Feminino,46,45-54,Cuiabá,MT,Centro-Oeste,2025-01-27
+543,Cliente 0543,Masculino,48,45-54,Joinville,SC,Sul,2024-11-09
+544,Cliente 0544,Feminino,33,25-34,Santos,SP,Sudeste,2024-06-14
+545,Cliente 0545,Feminino,33,25-34,Campo Grande,MS,Centro-Oeste,2021-04-18
+546,Cliente 0546,Feminino,18,18-24,Santos,SP,Sudeste,2022-01-31
+547,Cliente 0547,Masculino,37,35-44,Belo Horizonte,MG,Sudeste,2022-02-25
+548,Cliente 0548,Masculino,29,25-34,Maceió,AL,Nordeste,2021-11-30
+549,Cliente 0549,Feminino,49,45-54,Belo Horizonte,MG,Sudeste,2024-01-10
+550,Cliente 0550,Feminino,31,25-34,Florianópolis,SC,Sul,2021-03-05
+551,Cliente 0551,Feminino,34,25-34,Porto Velho,RO,Norte,2024-09-09
+552,Cliente 0552,Feminino,40,35-44,Joinville,SC,Sul,2024-06-29
+553,Cliente 0553,Feminino,59,55+,Porto Alegre,RS,Sul,2022-04-14
+554,Cliente 0554,Feminino,24,18-24,Palmas,TO,Norte,2022-06-22
+555,Cliente 0555,Masculino,27,25-34,João Pessoa,PB,Nordeste,2023-09-19
+556,Cliente 0556,Feminino,25,25-34,Rio de Janeiro,RJ,Sudeste,2023-07-06
+557,Cliente 0557,Feminino,41,35-44,Londrina,PR,Sul,2021-08-12
+558,Cliente 0558,Masculino,55,55+,Maceió,AL,Nordeste,2024-11-19
+559,Cliente 0559,Masculino,54,45-54,Campo Grande,MS,Centro-Oeste,2025-02-15
+560,Cliente 0560,Masculino,46,45-54,São Paulo,SP,Sudeste,2023-04-05
+561,Cliente 0561,Masculino,36,35-44,Campinas,SP,Sudeste,2025-01-18
+562,Cliente 0562,Masculino,22,18-24,Campinas,SP,Sudeste,2022-04-14
+563,Cliente 0563,Masculino,47,45-54,Campinas,SP,Sudeste,2021-11-26
+564,Cliente 0564,Feminino,25,25-34,Salvador,BA,Nordeste,2022-12-31
+565,Cliente 0565,Masculino,32,25-34,Manaus,AM,Norte,2022-02-10
+566,Cliente 0566,Feminino,53,45-54,João Pessoa,PB,Nordeste,2021-08-12
+567,Cliente 0567,Masculino,45,45-54,Campinas,SP,Sudeste,2025-06-18
+568,Cliente 0568,Masculino,49,45-54,Niterói,RJ,Sudeste,2021-10-14
+569,Cliente 0569,Feminino,24,18-24,Belo Horizonte,MG,Sudeste,2022-06-04
+570,Cliente 0570,Feminino,47,45-54,Porto Alegre,RS,Sul,2021-05-27
+571,Cliente 0571,Não informado,18,18-24,Cuiabá,MT,Centro-Oeste,2021-01-01
+572,Cliente 0572,Masculino,44,35-44,Brasília,DF,Centro-Oeste,2022-10-29
+573,Cliente 0573,Masculino,49,45-54,Porto Alegre,RS,Sul,2024-02-18
+574,Cliente 0574,Masculino,25,25-34,Rio de Janeiro,RJ,Sudeste,2022-08-23
+575,Cliente 0575,Masculino,35,35-44,Joinville,SC,Sul,2023-09-13
+576,Cliente 0576,Masculino,43,35-44,Campinas,SP,Sudeste,2022-11-19
+577,Cliente 0577,Feminino,34,25-34,Maceió,AL,Nordeste,2022-05-03
+578,Cliente 0578,Não informado,34,25-34,Belo Horizonte,MG,Sudeste,2023-07-05
+579,Cliente 0579,Feminino,33,25-34,Recife,PE,Nordeste,2023-03-20
+580,Cliente 0580,Masculino,31,25-34,Goiânia,GO,Centro-Oeste,2022-08-17
+581,Cliente 0581,Feminino,22,18-24,Cuiabá,MT,Centro-Oeste,2021-07-25
+582,Cliente 0582,Feminino,36,35-44,Belo Horizonte,MG,Sudeste,2024-07-01
+583,Cliente 0583,Masculino,32,25-34,Manaus,AM,Norte,2021-01-21
+584,Cliente 0584,Feminino,37,35-44,Natal,RN,Nordeste,2021-04-20
+585,Cliente 0585,Masculino,56,55+,Fortaleza,CE,Nordeste,2022-05-18
+586,Cliente 0586,Feminino,22,18-24,Santos,SP,Sudeste,2024-10-26
+587,Cliente 0587,Masculino,31,25-34,Rio de Janeiro,RJ,Sudeste,2024-06-12
+588,Cliente 0588,Masculino,36,35-44,Brasília,DF,Centro-Oeste,2025-05-25
+589,Cliente 0589,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2024-01-03
+590,Cliente 0590,Não informado,32,25-34,Florianópolis,SC,Sul,2023-11-23
+591,Cliente 0591,Feminino,37,35-44,Salvador,BA,Nordeste,2021-08-25
+592,Cliente 0592,Feminino,36,35-44,Campo Grande,MS,Centro-Oeste,2024-10-23
+593,Cliente 0593,Masculino,37,35-44,Santos,SP,Sudeste,2023-12-17
+594,Cliente 0594,Masculino,40,35-44,Londrina,PR,Sul,2023-05-31
+595,Cliente 0595,Masculino,30,25-34,Londrina,PR,Sul,2025-01-04
+596,Cliente 0596,Feminino,31,25-34,São Paulo,SP,Sudeste,2021-01-20
+597,Cliente 0597,Masculino,49,45-54,Londrina,PR,sul ,2022-09-20
+598,Cliente 0598,Masculino,34,25-34,Campinas,SP,Sudeste,2024-03-01
+599,Cliente 0599,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2023-10-10
+600,Cliente 0600,Masculino,51,45-54,Campinas,SP,Sudeste,2024-06-06
+601,Cliente 0601,Feminino,34,25-34,Rio de Janeiro,RJ,Sudeste,2022-08-16
+602,Cliente 0602,Masculino,22,18-24,Cuiabá,MT,Centro-Oeste,2025-01-22
+603,Cliente 0603,Masculino,36,35-44,Cuiabá,MT,Centro-Oeste,2024-07-08
+604,Cliente 0604,Feminino,44,35-44,Manaus,AM,Norte,2025-04-02
+605,Cliente 0605,Feminino,18,18-24,Manaus,AM,norte ,2022-05-03
+606,Cliente 0606,Masculino,40,35-44,Joinville,SC,Sul,2022-05-22
+607,Cliente 0607,Feminino,66,55+,Niterói,RJ,Sudeste,2023-01-29
+608,Cliente 0608,Masculino,49,45-54,Porto Alegre,RS,Sul,2023-01-19
+609,Cliente 0609,Masculino,48,45-54,Rio de Janeiro,RJ,Sudeste,2021-10-31
+610,Cliente 0610,Masculino,49,45-54,São Paulo,SP,Sudeste,2021-01-16
+611,Cliente 0611,Masculino,30,25-34,Palmas,TO,Norte,2023-05-06
+612,Cliente 0612,Masculino,49,45-54,Florianópolis,SC,Sul,2021-07-31
+613,Cliente 0613,Feminino,24,18-24,Rio de Janeiro,RJ,Sudeste,2021-03-14
+614,Cliente 0614,Masculino,30,25-34,Santos,SP,Sudeste,2024-08-20
+615,Cliente 0615,Feminino,39,35-44,Salvador,BA,Nordeste,2021-08-29
+616,Cliente 0616,Masculino,48,45-54,São Paulo,SP,Sudeste,2021-10-03
+617,Cliente 0617,Feminino,32,25-34,Brasília,DF,Centro-Oeste,2022-08-07
+618,Cliente 0618,Masculino,21,18-24,Natal,RN,Nordeste,2024-05-14
+619,Cliente 0619,Masculino,36,35-44,São Paulo,SP,Sudeste,2023-03-18
+620,Cliente 0620,Masculino,36,35-44,Natal,RN,Nordeste,2023-04-07
+621,Cliente 0621,Feminino,46,45-54,Salvador,BA,Nordeste,2022-05-06
+622,Cliente 0622,Feminino,39,35-44,Caxias do Sul,RS,Sul,2024-11-28
+623,Cliente 0623,Masculino,50,45-54,São Paulo,SP,Sudeste,2022-07-18
+624,Cliente 0624,Masculino,35,35-44,Vitória,ES,Sudeste,2021-07-01
+625,Cliente 0625,Masculino,28,25-34,Niterói,RJ,Sudeste,2023-12-16
+626,Cliente 0626,Feminino,43,35-44,Caxias do Sul,RS,Sul,2024-03-15
+627,Cliente 0627,Não informado,36,35-44,Vitória,ES,Sudeste,2023-01-28
+628,Cliente 0628,Não informado,29,25-34,Recife,PE,Nordeste,2023-10-14
+629,Cliente 0629,Feminino,41,35-44,Cuiabá,MT,Centro-Oeste,2024-03-14
+630,Cliente 0630,Feminino,41,35-44,São Paulo,SP,Sudeste,2021-06-24
+631,Cliente 0631,Masculino,64,55+,Fortaleza,CE,Nordeste,2022-05-19
+632,Cliente 0632,Feminino,38,35-44,Salvador,BA,Nordeste,2022-03-02
+633,Cliente 0633,Feminino,37,35-44,Joinville,SC,Sul,2022-06-28
+634,Cliente 0634,Masculino,47,45-54,Campinas,SP,Sudeste,2024-11-07
+635,Cliente 0635,Masculino,45,45-54,Porto Velho,RO,Norte,2023-03-02
+636,Cliente 0636,Masculino,60,55+,Niterói,RJ,Sudeste,2022-03-21
+637,Cliente 0637,Não informado,59,55+,Porto Alegre,RS,Sul,2024-01-31
+638,Cliente 0638,Masculino,40,35-44,Maceió,AL,Nordeste,2022-04-25
+639,Cliente 0639,Masculino,54,45-54,Cuiabá,MT,Centro-Oeste,2022-03-08
+640,Cliente 0640,Masculino,36,35-44,Londrina,PR,Sul,2023-02-02
+641,Cliente 0641,Feminino,25,25-34,Maceió,AL,Nordeste,2024-03-04
+642,Cliente 0642,Masculino,61,55+,Florianópolis,SC,Sul,2024-04-08
+643,Cliente 0643,Feminino,43,35-44,Goiânia,GO,Centro-Oeste,2022-04-25
+644,Cliente 0644,Masculino,46,45-54,Caxias do Sul,RS,Sul,2023-07-09
+645,Cliente 0645,Feminino,36,35-44,Fortaleza,CE,Nordeste,2023-06-19
+646,Cliente 0646,Masculino,61,55+,Campinas,SP,Sudeste,2024-07-13
+647,Cliente 0647,Feminino,18,18-24,Cuiabá,MT,Centro-Oeste,2023-01-01
+648,Cliente 0648,Feminino,45,45-54,Curitiba,PR,Sul,2022-09-12
+649,Cliente 0649,Masculino,51,45-54,São Paulo,SP,Sudeste,2024-11-02
+650,Cliente 0650,Feminino,37,35-44,Niterói,RJ,Sudeste,2021-04-15
+651,Cliente 0651,Masculino,41,35-44,Palmas,TO,Norte,2022-03-19
+652,Cliente 0652,Feminino,43,35-44,Belém,PA,Norte,2022-08-03
+653,Cliente 0653,Feminino,29,25-34,Rio de Janeiro,RJ,Sudeste,2024-09-21
+654,Cliente 0654,Masculino,45,45-54,Joinville,SC,Sul,2021-12-23
+655,Cliente 0655,Feminino,18,18-24,Santos,SP,Sudeste,2024-01-06
+656,Cliente 0656,Feminino,52,45-54,Vitória,ES,Sudeste,2024-03-22
+657,Cliente 0657,Não informado,59,55+,Santos,SP,Sudeste,2023-03-24
+658,Cliente 0658,Feminino,59,55+,Campinas,SP,Sudeste,2024-02-29
+659,Cliente 0659,Masculino,23,18-24,Santos,SP,sudeste ,2023-03-15
+660,Cliente 0660,Masculino,34,25-34,Curitiba,PR,Sul,2023-03-22
+661,Cliente 0661,Feminino,18,18-24,Florianópolis,SC,Sul,2022-02-22
+662,Cliente 0662,Feminino,50,45-54,Porto Velho,RO,Norte,2021-03-31
+663,Cliente 0663,Masculino,34,25-34,Belo Horizonte,MG,Sudeste,2021-10-06
+664,Cliente 0664,Masculino,26,25-34,São Paulo,SP,Sudeste,2021-03-08
+665,Cliente 0665,Masculino,40,35-44,Belo Horizonte,MG,Sudeste,2023-03-25
+666,Cliente 0666,Não informado,42,35-44,Belo Horizonte,MG,Sudeste,2023-03-10
+667,Cliente 0667,Masculino,19,18-24,Vitória,ES,Sudeste,2023-01-16
+668,Cliente 0668,Não informado,20,18-24,Maceió,AL,Nordeste,2024-08-27
+669,Cliente 0669,Masculino,48,45-54,Campinas,SP,Sudeste,2024-12-20
+670,Cliente 0670,Feminino,56,55+,Santos,SP,Sudeste,2024-12-18
+671,Cliente 0671,Masculino,54,45-54,Fortaleza,CE,Nordeste,2024-10-01
+672,Cliente 0672,Não informado,45,45-54,Cuiabá,MT,Centro-Oeste,2022-11-22
+673,Cliente 0673,Feminino,48,45-54,Belo Horizonte,MG,Sudeste,2022-09-24
+674,Cliente 0674,Masculino,63,55+,Caxias do Sul,RS,Sul,2023-02-07
+675,Cliente 0675,Feminino,57,55+,Florianópolis,SC,Sul,2024-10-14
+676,Cliente 0676,Feminino,29,25-34,Belém,PA,Norte,2024-01-10
+677,Cliente 0677,Feminino,34,25-34,Maceió,AL,Nordeste,2021-10-28
+678,Cliente 0678,Feminino,34,25-34,Curitiba,PR,Sul,2021-07-04
+679,Cliente 0679,Masculino,20,18-24,São Paulo,SP,Sudeste,2022-09-29
+680,Cliente 0680,Feminino,27,25-34,Santos,SP,Sudeste,2023-02-04
+681,Cliente 0681,Masculino,18,18-24,Porto Velho,RO,Norte,2025-01-10
+682,Cliente 0682,Feminino,35,35-44,Florianópolis,SC,Sul,2021-02-07
+683,Cliente 0683,Feminino,41,35-44,São Paulo,SP,Sudeste,2021-01-03
+684,Cliente 0684,Feminino,35,35-44,Campo Grande,MS,Centro-Oeste,2025-01-17
+685,Cliente 0685,Masculino,33,25-34,Belo Horizonte,MG,Sudeste,2024-10-21
+686,Cliente 0686,Masculino,61,55+,Salvador,BA,Nordeste,2021-11-27
+687,Cliente 0687,Feminino,39,35-44,Vitória,ES,Sudeste,2021-12-08
+688,Cliente 0688,Masculino,51,45-54,Curitiba,PR,Sul,2024-04-23
+689,Cliente 0689,Masculino,18,18-24,Belém,PA,Norte,2024-04-02
+690,Cliente 0690,Feminino,43,35-44,Londrina,PR,Sul,2021-10-24
+691,Cliente 0691,Não informado,38,35-44,Florianópolis,SC,Sul,2022-01-13
+692,Cliente 0692,Masculino,52,45-54,Porto Alegre,RS,Sul,2021-12-29
+693,Cliente 0693,Masculino,39,35-44,João Pessoa,PB,Nordeste,2022-05-19
+694,Cliente 0694,Feminino,25,25-34,Vitória,ES,Sudeste,2024-08-07
+695,Cliente 0695,Masculino,47,45-54,Natal,RN,Nordeste,2023-05-02
+696,Cliente 0696,Feminino,28,25-34,Santos,SP,Sudeste,2021-05-21
+697,Cliente 0697,Masculino,31,25-34,Palmas,TO,Norte,2023-09-28
+698,Cliente 0698,Masculino,36,35-44,Belo Horizonte,MG,Sudeste,2025-02-22
+699,Cliente 0699,Feminino,32,25-34,Natal,RN,Nordeste,2025-03-07
+700,Cliente 0700,Masculino,20,18-24,São Paulo,SP,Sudeste,2021-10-13
+701,Cliente 0701,Feminino,42,35-44,Brasília,DF,Centro-Oeste,2024-06-12
+702,Cliente 0702,Masculino,38,35-44,Recife,PE,Nordeste,2021-04-09
+703,Cliente 0703,Masculino,36,35-44,Vitória,ES,Sudeste,2025-03-30
+704,Cliente 0704,Masculino,34,25-34,Belo Horizonte,MG,Sudeste,2025-04-27
+705,Cliente 0705,Masculino,34,25-34,Manaus,AM,Norte,2021-05-06
+706,Cliente 0706,Feminino,64,55+,Caxias do Sul,RS,Sul,2022-11-29
+707,Cliente 0707,Masculino,53,45-54,Caxias do Sul,RS,Sul,2024-12-30
+708,Cliente 0708,Não informado,38,35-44,Niterói,RJ,Sudeste,2023-02-27
+709,Cliente 0709,Masculino,45,45-54,Recife,PE,Nordeste,2021-03-26
+710,Cliente 0710,Masculino,48,45-54,Campinas,SP,Sudeste,2024-10-04
+711,Cliente 0711,Masculino,18,18-24,Joinville,SC,Sul,2023-07-02
+712,Cliente 0712,Feminino,32,25-34,Curitiba,PR,Sul,2022-01-28
+713,Cliente 0713,Masculino,43,35-44,Natal,RN,Nordeste,2024-08-15
+714,Cliente 0714,Masculino,53,45-54,Santos,SP,Sudeste,2024-10-27
+715,Cliente 0715,Feminino,34,25-34,Campo Grande,MS,Centro-Oeste,2024-01-20
+716,Cliente 0716,Feminino,27,25-34,Manaus,AM,Norte,2022-07-05
+717,Cliente 0717,Feminino,23,18-24,Manaus,AM,Norte,2024-03-29
+718,Cliente 0718,Masculino,47,45-54,Niterói,RJ,Sudeste,2022-12-28
+719,Cliente 0719,Feminino,42,35-44,Santos,SP,Sudeste,2024-02-07
+720,Cliente 0720,Masculino,49,45-54,Recife,PE,Nordeste,2023-08-04
+721,Cliente 0721,Masculino,48,45-54,Belo Horizonte,MG,Sudeste,2022-05-22
+722,Cliente 0722,Feminino,54,45-54,Londrina,PR,Sul,2024-11-20
+723,Cliente 0723,Feminino,29,25-34,Belo Horizonte,MG,Sudeste,2022-02-12
+724,Cliente 0724,Não informado,44,35-44,Vitória,ES,Sudeste,2025-04-12
+725,Cliente 0725,Masculino,38,35-44,Campo Grande,MS,Centro-Oeste,2021-11-13
+726,Cliente 0726,Masculino,31,25-34,Santos,SP,Sudeste,2022-01-01
+727,Cliente 0727,Masculino,47,45-54,Rio de Janeiro,RJ,Sudeste,2021-07-31
+728,Cliente 0728,Feminino,38,35-44,Campinas,SP,Sudeste,2021-11-24
+729,Cliente 0729,Feminino,37,35-44,São Paulo,SP,Sudeste,2021-08-17
+730,Cliente 0730,Feminino,29,25-34,Palmas,TO,Norte,2021-05-16
+731,Cliente 0731,Não informado,36,35-44,Florianópolis,SC,Sul,2021-09-28
+732,Cliente 0732,Feminino,30,25-34,Recife,PE,Nordeste,2021-04-30
+733,Cliente 0733,Masculino,32,25-34,Belém,PA,Norte,2025-03-02
+734,Cliente 0734,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2023-07-22
+735,Cliente 0735,Masculino,18,18-24,Vitória,ES,Sudeste,2024-02-29
+736,Cliente 0736,Masculino,34,25-34,Manaus,AM,Norte,2024-03-27
+737,Cliente 0737,Feminino,51,45-54,Niterói,RJ,Sudeste,2023-08-31
+738,Cliente 0738,Masculino,50,45-54,João Pessoa,PB,Nordeste,2024-09-16
+739,Cliente 0739,Feminino,34,25-34,Campinas,SP,Sudeste,2021-01-15
+740,Cliente 0740,Masculino,45,45-54,Natal,RN,Nordeste,2023-03-26
+741,Cliente 0741,Masculino,23,18-24,Rio de Janeiro,RJ,Sudeste,2024-12-10
+742,Cliente 0742,Feminino,31,25-34,Fortaleza,CE,Nordeste,2021-01-06
+743,Cliente 0743,Masculino,36,35-44,Belém,PA,Norte,2022-10-06
+744,Cliente 0744,Feminino,36,35-44,Cuiabá,MT,Centro-Oeste,2024-05-18
+745,Cliente 0745,Feminino,20,18-24,Vitória,ES,Sudeste,2024-04-11
+746,Cliente 0746,Feminino,52,45-54,Recife,PE,Nordeste,2025-03-21
+747,Cliente 0747,Masculino,30,25-34,Porto Alegre,RS,Sul,2022-12-21
+748,Cliente 0748,Masculino,19,18-24,Belo Horizonte,MG,Sudeste,2023-07-10
+749,Cliente 0749,Masculino,46,45-54,Belo Horizonte,MG,Sudeste,2025-04-28
+750,Cliente 0750,Feminino,45,45-54,Manaus,AM,Norte,2024-10-12
+751,Cliente 0751,Feminino,48,45-54,Porto Alegre,RS,Sul,2023-02-14
+752,Cliente 0752,Masculino,20,18-24,Florianópolis,SC,Sul,2025-01-16
+753,Cliente 0753,Feminino,47,45-54,Recife,PE,Nordeste,2021-02-17
+754,Cliente 0754,Feminino,34,25-34,Rio de Janeiro,RJ,Sudeste,2021-05-01
+755,Cliente 0755,Feminino,34,25-34,Florianópolis,SC,Sul,2022-02-07
+756,Cliente 0756,Masculino,25,25-34,Fortaleza,CE,Nordeste,2022-10-14
+757,Cliente 0757,Masculino,44,35-44,Curitiba,PR,Sul,2023-05-12
+758,Cliente 0758,Masculino,46,45-54,Florianópolis,SC,Sul,2024-12-29
+759,Cliente 0759,Feminino,55,55+,Belo Horizonte,MG,Sudeste,2022-12-04
+760,Cliente 0760,Masculino,32,25-34,Brasília,DF,Centro-Oeste,2024-09-02
+761,Cliente 0761,Masculino,32,25-34,Belo Horizonte,MG,Sudeste,2023-09-29
+762,Cliente 0762,Feminino,30,25-34,Vitória,ES,Sudeste,2021-01-21
+763,Cliente 0763,Feminino,53,45-54,Salvador,BA,Nordeste,2021-10-14
+764,Cliente 0764,Feminino,36,35-44,Porto Alegre,RS,Sul,2023-03-28
+765,Cliente 0765,Masculino,26,25-34,João Pessoa,PB,Nordeste,2025-01-11
+766,Cliente 0766,Masculino,38,35-44,Brasília,DF,Centro-Oeste,2024-02-11
+767,Cliente 0767,Masculino,21,18-24,Maceió,AL,Nordeste,2025-02-14
+768,Cliente 0768,Feminino,39,35-44,Niterói,RJ,Sudeste,2025-06-30
+769,Cliente 0769,Masculino,29,25-34,São Paulo,SP,Sudeste,2023-09-21
+770,Cliente 0770,Feminino,25,25-34,Vitória,ES,Sudeste,2022-02-08
+771,Cliente 0771,Feminino,30,25-34,Joinville,SC,Sul,2023-08-15
+772,Cliente 0772,Masculino,52,45-54,Campinas,SP,Sudeste,2025-03-02
+773,Cliente 0773,Feminino,35,35-44,Campinas,SP,Sudeste,2023-12-01
+774,Cliente 0774,Feminino,34,25-34,Manaus,AM,Norte,2023-05-30
+775,Cliente 0775,Feminino,28,25-34,Campo Grande,MS,Centro-Oeste,2021-09-23
+776,Cliente 0776,Masculino,62,55+,Niterói,RJ,Sudeste,2022-08-28
+777,Cliente 0777,Feminino,45,45-54,São Paulo,SP,Sudeste,2024-01-07
+778,Cliente 0778,Feminino,49,45-54,São Paulo,SP,Sudeste,2023-12-22
+779,Cliente 0779,Masculino,43,35-44,Caxias do Sul,RS,Sul,2025-05-29
+780,Cliente 0780,Feminino,18,18-24,Joinville,SC,Sul,2022-02-02
+781,Cliente 0781,Feminino,53,45-54,Londrina,PR,Sul,2022-06-16
+782,Cliente 0782,Feminino,41,35-44,São Paulo,SP,Sudeste,2023-10-25
+783,Cliente 0783,Masculino,38,35-44,Niterói,RJ,Sudeste,2022-01-12
+784,Cliente 0784,Feminino,18,18-24,Goiânia,GO,Centro-Oeste,2022-11-29
+785,Cliente 0785,Feminino,19,18-24,Recife,PE,Nordeste,2023-12-31
+786,Cliente 0786,Masculino,40,35-44,Fortaleza,CE,Nordeste,2022-06-24
+787,Cliente 0787,Não informado,45,45-54,Joinville,SC,Sul,2024-08-08
+788,Cliente 0788,Masculino,23,18-24,Salvador,BA,Nordeste,2023-03-10
+789,Cliente 0789,Masculino,49,45-54,Maceió,AL,Nordeste,2021-03-03
+790,Cliente 0790,Feminino,50,45-54,Niterói,RJ,Sudeste,2022-11-20
+791,Cliente 0791,Feminino,37,35-44,Joinville,SC,Sul,2022-06-26
+792,Cliente 0792,Feminino,47,45-54,Curitiba,PR,Sul,2025-03-09
+793,Cliente 0793,Feminino,56,55+,Londrina,PR,Sul,2021-08-21
+794,Cliente 0794,Masculino,23,18-24,Niterói,RJ,Sudeste,2023-04-25
+795,Cliente 0795,Masculino,22,18-24,Maceió,AL,Nordeste,2025-03-11
+796,Cliente 0796,Feminino,49,45-54,São Paulo,SP,Sudeste,2022-08-03
+797,Cliente 0797,Feminino,41,35-44,Salvador,BA,Nordeste,2023-03-09
+798,Cliente 0798,Feminino,39,35-44,Campo Grande,MS,Centro-Oeste,2023-03-31
+799,Cliente 0799,Masculino,67,55+,Vitória,ES,Sudeste,2023-05-04
+800,Cliente 0800,Masculino,44,35-44,Salvador,BA,Nordeste,2021-02-18
+801,Cliente 0801,Feminino,32,25-34,Recife,PE,Nordeste,2022-12-25
+802,Cliente 0802,Masculino,40,35-44,Rio de Janeiro,RJ,Sudeste,2023-06-07
+803,Cliente 0803,Masculino,36,35-44,Belém,PA,Norte,2023-10-09
+804,Cliente 0804,Feminino,42,35-44,São Paulo,SP,Sudeste,2021-04-06
+805,Cliente 0805,Feminino,51,45-54,Niterói,RJ,Sudeste,2023-06-13
+806,Cliente 0806,Masculino,43,35-44,Vitória,ES,Sudeste,2024-03-20
+807,Cliente 0807,Feminino,29,25-34,Fortaleza,CE,Nordeste,2023-02-20
+808,Cliente 0808,Feminino,51,45-54,São Paulo,SP,Sudeste,2025-04-10
+809,Cliente 0809,Feminino,45,45-54,Joinville,SC,Sul,2024-08-31
+810,Cliente 0810,Feminino,46,45-54,Campo Grande,MS,Centro-Oeste,2024-06-30
+811,Cliente 0811,Masculino,18,18-24,Natal,RN,Nordeste,2021-04-13
+812,Cliente 0812,Feminino,38,35-44,Belo Horizonte,MG,Sudeste,2022-10-21
+813,Cliente 0813,Feminino,55,55+,Joinville,SC,Sul,2021-07-07
+814,Cliente 0814,Feminino,43,35-44,Belo Horizonte,MG,Sudeste,2024-08-27
+815,Cliente 0815,Não informado,47,45-54,Recife,PE,Nordeste,2023-03-31
+816,Cliente 0816,Feminino,30,25-34,Niterói,RJ,Sudeste,2023-11-01
+817,Cliente 0817,Masculino,50,45-54,Salvador,BA,Nordeste,2023-06-26
+818,Cliente 0818,Masculino,39,35-44,Goiânia,GO,Centro-Oeste,2021-09-04
+819,Cliente 0819,Masculino,22,18-24,São Paulo,SP,Sudeste,2024-01-19
+820,Cliente 0820,Masculino,30,25-34,Rio de Janeiro,RJ,Sudeste,2024-11-26
+821,Cliente 0821,Feminino,26,25-34,Joinville,SC,Sul,2023-10-13
+822,Cliente 0822,Feminino,33,25-34,São Paulo,SP,Sudeste,2021-01-24
+823,Cliente 0823,Feminino,35,35-44,Campinas,SP,Sudeste,2022-02-16
+824,Cliente 0824,Masculino,31,25-34,Niterói,RJ,Sudeste,2024-07-25
+825,Cliente 0825,Feminino,43,35-44,Santos,SP,Sudeste,2022-01-22
+826,Cliente 0826,Masculino,43,35-44,Belo Horizonte,MG,Sudeste,2023-11-13
+827,Cliente 0827,Feminino,57,55+,Joinville,SC,Sul,2023-04-24
+828,Cliente 0828,Masculino,33,25-34,Natal,RN,Nordeste,2025-02-16
+829,Cliente 0829,Masculino,38,35-44,Rio de Janeiro,RJ,SUDESTE,2022-12-21
+830,Cliente 0830,Feminino,40,35-44,Santos,SP,Sudeste,2023-07-22
+831,Cliente 0831,Masculino,54,45-54,Campinas,SP,Sudeste,2023-07-20
+832,Cliente 0832,Masculino,45,45-54,Curitiba,PR,Sul,2023-07-13
+833,Cliente 0833,Masculino,34,25-34,Rio de Janeiro,RJ,Sudeste,2022-10-07
+834,Cliente 0834,Feminino,40,35-44,Brasília,DF,Centro-Oeste,2021-07-18
+835,Cliente 0835,Feminino,49,45-54,Campinas,SP,Sudeste,2021-01-27
+836,Cliente 0836,Masculino,31,25-34,São Paulo,SP,Sudeste,2021-06-28
+837,Cliente 0837,Masculino,57,55+,Londrina,PR,Sul,2022-12-09
+838,Cliente 0838,Feminino,22,18-24,Natal,RN,Nordeste,2021-06-15
+839,Cliente 0839,Feminino,22,18-24,Belém,PA,Norte,2023-09-27
+840,Cliente 0840,Masculino,42,35-44,Santos,SP,SUDESTE,2023-11-04
+841,Cliente 0841,Feminino,34,25-34,Porto Alegre,RS,Sul,2024-12-23
+842,Cliente 0842,Feminino,56,55+,Manaus,AM,Norte,2021-03-23
+843,Cliente 0843,Feminino,44,35-44,Maceió,AL,Nordeste,2024-07-15
+844,Cliente 0844,Masculino,41,35-44,Fortaleza,CE,Nordeste,2025-02-18
+845,Cliente 0845,Masculino,41,35-44,Florianópolis,SC,Sul,2024-09-24
+846,Cliente 0846,Masculino,51,45-54,Santos,SP,Sudeste,2023-09-08
+847,Cliente 0847,Masculino,32,25-34,Salvador,BA,Nordeste,2024-06-15
+848,Cliente 0848,Masculino,27,25-34,Niterói,RJ,Sudeste,2024-11-27
+849,Cliente 0849,Masculino,43,35-44,Recife,PE,Nordeste,2025-06-10
+850,Cliente 0850,Masculino,18,18-24,Recife,PE,Nordeste,2024-12-19
+851,Cliente 0851,Masculino,36,35-44,Vitória,ES,Sudeste,2023-05-14
+852,Cliente 0852,Masculino,44,35-44,Rio de Janeiro,RJ,Sudeste,2024-07-21
+853,Cliente 0853,Masculino,43,35-44,Campinas,SP,Sudeste,2021-08-10
+854,Cliente 0854,Feminino,32,25-34,Maceió,AL,nordeste ,2023-08-05
+855,Cliente 0855,Masculino,32,25-34,Vitória,ES,Sudeste,2024-11-23
+856,Cliente 0856,Masculino,52,45-54,Londrina,PR,Sul,2022-01-16
+857,Cliente 0857,Masculino,32,25-34,Campinas,SP,Sudeste,2021-06-10
+858,Cliente 0858,Feminino,18,18-24,Santos,SP,Sudeste,2024-07-19
+859,Cliente 0859,Feminino,41,35-44,Curitiba,PR,Sul,2022-10-12
+860,Cliente 0860,Feminino,37,35-44,Rio de Janeiro,RJ,Sudeste,2025-05-06
+861,Cliente 0861,Masculino,38,35-44,Joinville,SC,Sul,2022-01-14
+862,Cliente 0862,Masculino,39,35-44,Natal,RN,Nordeste,2024-02-21
+863,Cliente 0863,Feminino,55,55+,Cuiabá,MT,Centro-Oeste,2021-12-12
+864,Cliente 0864,Masculino,38,35-44,Goiânia,GO,Centro-Oeste,2022-05-05
+865,Cliente 0865,Feminino,40,35-44,Fortaleza,CE,Nordeste,2025-05-23
+866,Cliente 0866,Masculino,43,35-44,Santos,SP,Sudeste,2022-04-28
+867,Cliente 0867,Feminino,18,18-24,João Pessoa,PB,Nordeste,2023-09-02
+868,Cliente 0868,Feminino,60,55+,Salvador,BA,Nordeste,2021-01-10
+869,Cliente 0869,Feminino,66,55+,Campinas,SP,Sudeste,2023-07-07
+870,Cliente 0870,Masculino,23,18-24,Rio de Janeiro,RJ,Sudeste,2021-09-21
+871,Cliente 0871,Não informado,18,18-24,Santos,SP,Sudeste,2022-04-15
+872,Cliente 0872,Feminino,21,18-24,Recife,PE,Nordeste,2021-05-11
+873,Cliente 0873,Feminino,41,35-44,Palmas,TO,Norte,2022-11-09
+874,Cliente 0874,Feminino,32,25-34,São Paulo,SP,Sudeste,2023-10-21
+875,Cliente 0875,Feminino,27,25-34,Niterói,RJ,Sudeste,2024-08-13
+876,Cliente 0876,Masculino,48,45-54,Goiânia,GO,Centro-Oeste,2025-05-21
+877,Cliente 0877,Masculino,18,18-24,Vitória,ES,Sudeste,2022-11-20
+878,Cliente 0878,Feminino,47,45-54,Niterói,RJ,Sudeste,2024-08-05
+879,Cliente 0879,Masculino,23,18-24,Campinas,SP,Sudeste,2022-11-04
+880,Cliente 0880,Masculino,54,45-54,Belém,PA,Norte,2025-04-27
+881,Cliente 0881,Masculino,39,35-44,Niterói,RJ,Sudeste,2022-06-11
+882,Cliente 0882,Masculino,50,45-54,Campinas,SP,Sudeste,2021-02-02
+883,Cliente 0883,Feminino,49,45-54,Palmas,TO,Norte,2022-07-04
+884,Cliente 0884,Masculino,32,25-34,Salvador,BA,Nordeste,2023-11-02
+885,Cliente 0885,Feminino,43,35-44,Belém,PA,Norte,2024-06-08
+886,Cliente 0886,Feminino,33,25-34,Joinville,SC,Sul,2025-06-10
+887,Cliente 0887,Não informado,18,18-24,Fortaleza,CE,Nordeste,2021-05-28
+888,Cliente 0888,Feminino,31,25-34,Campinas,SP,Sudeste,2024-10-18
+889,Cliente 0889,Feminino,46,45-54,Florianópolis,SC,Sul,2021-04-23
+890,Cliente 0890,Masculino,46,45-54,Campinas,SP,Sudeste,2021-12-25
+891,Cliente 0891,Masculino,21,18-24,Maceió,AL,Nordeste,2023-05-27
+892,Cliente 0892,Feminino,18,18-24,Goiânia,GO,Centro-Oeste,2025-05-17
+893,Cliente 0893,Masculino,39,35-44,Fortaleza,CE,Nordeste,2022-10-21
+894,Cliente 0894,Feminino,41,35-44,Belo Horizonte,MG,Sudeste,2022-07-10
+895,Cliente 0895,Feminino,72,55+,Santos,SP,Sudeste,2022-08-05
+896,Cliente 0896,Feminino,28,25-34,Santos,SP,Sudeste,2022-07-13
+897,Cliente 0897,Masculino,42,35-44,Natal,RN,Nordeste,2025-05-20
+898,Cliente 0898,Feminino,48,45-54,João Pessoa,PB,Nordeste,2024-04-26
+899,Cliente 0899,Feminino,44,35-44,Santos,SP,Sudeste,2023-08-11
+900,Cliente 0900,Feminino,46,45-54,Porto Alegre,RS,Sul,2025-06-25
+901,Cliente 0901,Masculino,33,25-34,Niterói,RJ,Sudeste,2021-08-30
+902,Cliente 0902,Feminino,40,35-44,Fortaleza,CE,Nordeste,2024-05-25
+903,Cliente 0903,Masculino,52,45-54,Rio de Janeiro,RJ,Sudeste,2021-09-13
+904,Cliente 0904,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2023-05-12
+905,Cliente 0905,Masculino,31,25-34,Natal,RN,Nordeste,2022-08-27
+906,Cliente 0906,Feminino,53,45-54,Niterói,RJ,Sudeste,2025-04-04
+907,Cliente 0907,Masculino,62,55+,Belo Horizonte,MG,Sudeste,2023-08-16
+908,Cliente 0908,Feminino,18,18-24,Santos,SP,Sudeste,2022-10-25
+909,Cliente 0909,Masculino,40,35-44,Belém,PA,Norte,2025-05-11
+910,Cliente 0910,Feminino,58,55+,Brasília,DF,Centro-Oeste,2021-11-02
+911,Cliente 0911,Masculino,31,25-34,São Paulo,SP,Sudeste,2021-07-28
+912,Cliente 0912,Masculino,33,25-34,Curitiba,PR,Sul,2021-05-19
+913,Cliente 0913,Masculino,26,25-34,Caxias do Sul,RS,Sul,2024-11-06
+914,Cliente 0914,Feminino,54,45-54,Campo Grande,MS,Centro-Oeste,2021-03-14
+915,Cliente 0915,Feminino,44,35-44,Rio de Janeiro,RJ,Sudeste,2022-03-03
+916,Cliente 0916,Feminino,57,55+,Palmas,TO,Norte,2024-03-16
+917,Cliente 0917,Feminino,22,18-24,Fortaleza,CE,Nordeste,2023-07-13
+918,Cliente 0918,Feminino,57,55+,Recife,PE,Nordeste,2023-12-26
+919,Cliente 0919,Masculino,39,35-44,Joinville,SC,Sul,2021-10-26
+920,Cliente 0920,Masculino,54,45-54,Santos,SP,Sudeste,2021-08-26
+921,Cliente 0921,Masculino,36,35-44,Joinville,SC,Sul,2024-09-10
+922,Cliente 0922,Feminino,18,18-24,Vitória,ES,Sudeste,2021-04-12
+923,Cliente 0923,Feminino,43,35-44,Cuiabá,MT,Centro-Oeste,2024-08-22
+924,Cliente 0924,Masculino,29,25-34,Belém,PA,Norte,2025-01-23
+925,Cliente 0925,Masculino,27,25-34,Maceió,AL,Nordeste,2025-06-15
+926,Cliente 0926,Feminino,61,55+,Curitiba,PR,Sul,2022-09-13
+927,Cliente 0927,Masculino,52,45-54,Campinas,SP,Sudeste,2022-10-01
+928,Cliente 0928,Feminino,50,45-54,Brasília,DF,Centro-Oeste,2024-04-23
+929,Cliente 0929,Feminino,49,45-54,Rio de Janeiro,RJ,SUDESTE,2022-04-23
+930,Cliente 0930,Feminino,38,35-44,Campinas,SP,Sudeste,2024-02-02
+931,Cliente 0931,Masculino,27,25-34,Campo Grande,MS,Centro-Oeste,2021-08-08
+932,Cliente 0932,Masculino,33,25-34,Cuiabá,MT,Centro-Oeste,2025-05-15
+933,Cliente 0933,Feminino,26,25-34,Rio de Janeiro,RJ,Sudeste,2023-12-23
+934,Cliente 0934,Masculino,32,25-34,Natal,RN,Nordeste,2023-11-12
+935,Cliente 0935,Feminino,64,55+,Maceió,AL,Nordeste,2024-05-20
+936,Cliente 0936,Masculino,32,25-34,Londrina,PR,Sul,2024-03-04
+937,Cliente 0937,Feminino,37,35-44,Vitória,ES,Sudeste,2021-10-29
+938,Cliente 0938,Feminino,47,45-54,Campo Grande,MS,Centro-Oeste,2023-11-05
+939,Cliente 0939,Masculino,23,18-24,Fortaleza,CE,Nordeste,2024-04-08
+940,Cliente 0940,Feminino,24,18-24,Belo Horizonte,MG,Sudeste,2023-06-28
+941,Cliente 0941,Feminino,36,35-44,Joinville,SC,Sul,2023-09-29
+942,Cliente 0942,Masculino,18,18-24,Curitiba,PR,Sul,2022-08-09
+943,Cliente 0943,Feminino,19,18-24,Maceió,AL,Nordeste,2024-12-13
+944,Cliente 0944,Masculino,32,25-34,Belo Horizonte,MG,Sudeste,2022-04-09
+945,Cliente 0945,Feminino,40,35-44,Fortaleza,CE,Nordeste,2024-09-02
+946,Cliente 0946,Feminino,51,45-54,Niterói,RJ,sudeste ,2024-02-21
+947,Cliente 0947,Feminino,18,18-24,Curitiba,PR,Sul,2024-03-28
+948,Cliente 0948,Feminino,51,45-54,Londrina,PR,Sul,2022-01-12
+949,Cliente 0949,Feminino,39,35-44,Curitiba,PR,Sul,2021-05-20
+950,Cliente 0950,Não informado,52,45-54,Campinas,SP,Sudeste,2024-08-18
+951,Cliente 0951,Masculino,39,35-44,Niterói,RJ,Sudeste,2021-12-16
+952,Cliente 0952,Feminino,40,35-44,Brasília,DF,Centro-Oeste,2025-02-13
+953,Cliente 0953,Masculino,24,18-24,Curitiba,PR,Sul,2022-01-12
+954,Cliente 0954,Masculino,45,45-54,João Pessoa,PB,Nordeste,2024-02-21
+955,Cliente 0955,Feminino,30,25-34,Porto Alegre,RS,Sul,2023-05-28
+956,Cliente 0956,Masculino,36,35-44,Palmas,TO,Norte,2022-03-18
+957,Cliente 0957,Masculino,33,25-34,Joinville,SC,Sul,2024-11-09
+958,Cliente 0958,Masculino,42,35-44,Campo Grande,MS,Centro-Oeste,2024-08-04
+959,Cliente 0959,Feminino,73,55+,Florianópolis,SC,Sul,2024-01-02
+960,Cliente 0960,Masculino,48,45-54,Santos,SP,SUDESTE,2024-06-07
+961,Cliente 0961,Masculino,35,35-44,São Paulo,SP,Sudeste,2024-05-16
+962,Cliente 0962,Feminino,28,25-34,Campinas,SP,Sudeste,2021-04-06
+963,Cliente 0963,Feminino,24,18-24,Rio de Janeiro,RJ,Sudeste,2021-10-25
+964,Cliente 0964,Feminino,56,55+,João Pessoa,PB,Nordeste,2021-03-25
+965,Cliente 0965,Feminino,18,18-24,Vitória,ES,Sudeste,2025-05-25
+966,Cliente 0966,Masculino,28,25-34,Belo Horizonte,MG,Sudeste,2022-02-25
+967,Cliente 0967,Masculino,32,25-34,Belém,PA,Norte,2023-05-12
+968,Cliente 0968,Masculino,20,18-24,Rio de Janeiro,RJ,Sudeste,2022-08-20
+969,Cliente 0969,Feminino,28,25-34,Fortaleza,CE,Nordeste,2022-08-10
+970,Cliente 0970,Masculino,31,25-34,Vitória,ES,Sudeste,2021-08-31
+971,Cliente 0971,Masculino,51,45-54,Rio de Janeiro,RJ,Sudeste,2022-12-08
+972,Cliente 0972,Feminino,34,25-34,Rio de Janeiro,RJ,Sudeste,2022-01-11
+973,Cliente 0973,Feminino,45,45-54,Belo Horizonte,MG,Sudeste,2023-08-25
+974,Cliente 0974,Feminino,18,18-24,João Pessoa,PB,Nordeste,2022-02-20
+975,Cliente 0975,Masculino,31,25-34,São Paulo,SP,Sudeste,2025-01-27
+976,Cliente 0976,Feminino,30,25-34,Maceió,AL,Nordeste,2024-03-25
+977,Cliente 0977,Masculino,32,25-34,Manaus,AM,Norte,2021-10-26
+978,Cliente 0978,Feminino,52,45-54,São Paulo,SP,Sudeste,2021-12-28
+979,Cliente 0979,Feminino,41,35-44,Goiânia,GO,Centro-Oeste,2023-08-06
+980,Cliente 0980,Feminino,28,25-34,São Paulo,SP,Sudeste,2023-01-02
+981,Cliente 0981,Masculino,18,18-24,Caxias do Sul,RS,Sul,2021-10-22
+982,Cliente 0982,Feminino,37,35-44,Niterói,RJ,Sudeste,2024-11-05
+983,Cliente 0983,Feminino,23,18-24,João Pessoa,PB,Nordeste,2025-06-23
+984,Cliente 0984,Masculino,49,45-54,Brasília,DF,Centro-Oeste,2025-05-05
+985,Cliente 0985,Feminino,54,45-54,Porto Alegre,RS,sul ,2025-01-13
+986,Cliente 0986,Masculino,56,55+,Londrina,PR,Sul,2022-02-02
+987,Cliente 0987,Feminino,48,45-54,Campinas,SP,Sudeste,2021-06-07
+988,Cliente 0988,Masculino,43,35-44,Belo Horizonte,MG,Sudeste,2023-02-05
+989,Cliente 0989,Masculino,24,18-24,Rio de Janeiro,RJ,Sudeste,2024-06-10
+990,Cliente 0990,Masculino,23,18-24,Florianópolis,SC,Sul,2021-07-05
+991,Cliente 0991,Masculino,68,55+,Joinville,SC,Sul,2024-08-27
+992,Cliente 0992,Feminino,49,45-54,Santos,SP,Sudeste,2021-04-25
+993,Cliente 0993,Masculino,29,25-34,Florianópolis,SC,Sul,2022-02-20
+994,Cliente 0994,Feminino,18,18-24,Joinville,SC,Sul,2021-03-10
+995,Cliente 0995,Masculino,48,45-54,Caxias do Sul,RS,Sul,2024-03-12
+996,Cliente 0996,Masculino,48,45-54,Fortaleza,CE,Nordeste,2023-03-12
+997,Cliente 0997,Masculino,24,18-24,Campo Grande,MS,Centro-Oeste,2025-06-04
+998,Cliente 0998,Feminino,18,18-24,Cuiabá,MT,centro-oeste ,2022-11-03
+999,Cliente 0999,Masculino,29,25-34,Santos,SP,Sudeste,2024-04-01
+1000,Cliente 1000,Masculino,45,45-54,Niterói,RJ,Sudeste,2024-07-13
+1001,Cliente 1001,Feminino,40,35-44,Londrina,PR,Sul,2025-05-07
+1002,Cliente 1002,Feminino,62,55+,Belo Horizonte,MG,Sudeste,2022-09-30
+1003,Cliente 1003,Não informado,36,35-44,Rio de Janeiro,RJ,Sudeste,2021-01-25
+1004,Cliente 1004,Masculino,44,35-44,Goiânia,GO,CENTRO-OESTE,2022-12-14
+1005,Cliente 1005,Masculino,46,45-54,Campinas,SP,Sudeste,2021-04-17
+1006,Cliente 1006,Feminino,22,18-24,Recife,PE,Nordeste,2022-06-16
+1007,Cliente 1007,Feminino,43,35-44,Cuiabá,MT,Centro-Oeste,2021-01-22
+1008,Cliente 1008,Masculino,26,25-34,Campinas,SP,Sudeste,2025-05-30
+1009,Cliente 1009,Masculino,21,18-24,Belém,PA,Norte,2024-01-11
+1010,Cliente 1010,Feminino,29,25-34,Recife,PE,Nordeste,2021-01-10
+1011,Cliente 1011,Feminino,49,45-54,Manaus,AM,Norte,2021-06-14
+1012,Cliente 1012,Masculino,28,25-34,Campinas,SP,Sudeste,2021-10-21
+1013,Cliente 1013,Feminino,42,35-44,Rio de Janeiro,RJ,Sudeste,2023-06-25
+1014,Cliente 1014,Feminino,49,45-54,Campinas,SP,Sudeste,2023-05-14
+1015,Cliente 1015,Masculino,38,35-44,Caxias do Sul,RS,Sul,2024-11-15
+1016,Cliente 1016,Feminino,27,25-34,Rio de Janeiro,RJ,Sudeste,2024-05-03
+1017,Cliente 1017,Feminino,22,18-24,Recife,PE,Nordeste,2022-02-02
+1018,Cliente 1018,Masculino,30,25-34,Florianópolis,SC,Sul,2023-03-20
+1019,Cliente 1019,Feminino,39,35-44,Santos,SP,Sudeste,2023-07-02
+1020,Cliente 1020,Masculino,33,25-34,Florianópolis,SC,Sul,2024-12-10
+1021,Cliente 1021,Feminino,41,35-44,Belo Horizonte,MG,Sudeste,2021-03-17
+1022,Cliente 1022,Masculino,41,35-44,São Paulo,SP,Sudeste,2021-02-17
+1023,Cliente 1023,Feminino,59,55+,Manaus,AM,Norte,2024-05-18
+1024,Cliente 1024,Feminino,32,25-34,Brasília,DF,Centro-Oeste,2024-09-15
+1025,Cliente 1025,Feminino,49,45-54,Campo Grande,MS,Centro-Oeste,2023-09-13
+1026,Cliente 1026,Feminino,30,25-34,São Paulo,SP,Sudeste,2024-09-22
+1027,Cliente 1027,Feminino,27,25-34,Caxias do Sul,RS,Sul,2025-04-01
+1028,Cliente 1028,Feminino,62,55+,Campo Grande,MS,Centro-Oeste,2021-07-06
+1029,Cliente 1029,Feminino,29,25-34,São Paulo,SP,Sudeste,2021-12-22
+1030,Cliente 1030,Feminino,31,25-34,Curitiba,PR,Sul,2023-10-26
+1031,Cliente 1031,Feminino,46,45-54,Campinas,SP,Sudeste,2025-06-10
+1032,Cliente 1032,Masculino,54,45-54,Natal,RN,Nordeste,2025-01-07
+1033,Cliente 1033,Masculino,46,45-54,Santos,SP,Sudeste,2022-09-04
+1034,Cliente 1034,Feminino,50,45-54,Santos,SP,Sudeste,2025-06-08
+1035,Cliente 1035,Masculino,44,35-44,Vitória,ES,Sudeste,2025-01-24
+1036,Cliente 1036,Feminino,21,18-24,Porto Alegre,RS,Sul,2024-01-04
+1037,Cliente 1037,Masculino,37,35-44,São Paulo,SP,Sudeste,2022-08-26
+1038,Cliente 1038,Masculino,50,45-54,Santos,SP,Sudeste,2024-01-26
+1039,Cliente 1039,Masculino,32,25-34,Florianópolis,SC,Sul,2021-07-17
+1040,Cliente 1040,Feminino,51,45-54,Belo Horizonte,MG,Sudeste,2022-04-12
+1041,Cliente 1041,Feminino,41,35-44,Porto Velho,RO,Norte,2024-07-20
+1042,Cliente 1042,Feminino,40,35-44,Belo Horizonte,MG,Sudeste,2024-02-24
+1043,Cliente 1043,Masculino,33,25-34,Campinas,SP,Sudeste,2024-01-02
+1044,Cliente 1044,Masculino,33,25-34,João Pessoa,PB,Nordeste,2024-03-26
+1045,Cliente 1045,Feminino,38,35-44,Londrina,PR,Sul,2025-05-31
+1046,Cliente 1046,Masculino,29,25-34,Vitória,ES,Sudeste,2023-10-18
+1047,Cliente 1047,Feminino,49,45-54,Vitória,ES,Sudeste,2022-03-16
+1048,Cliente 1048,Feminino,30,25-34,Rio de Janeiro,RJ,SUDESTE,2025-01-24
+1049,Cliente 1049,Feminino,19,18-24,João Pessoa,PB,Nordeste,2024-05-31
+1050,Cliente 1050,Masculino,45,45-54,Brasília,DF,Centro-Oeste,2025-05-26
+1051,Cliente 1051,Masculino,37,35-44,Curitiba,PR,Sul,2022-11-30
+1052,Cliente 1052,Feminino,33,25-34,Santos,SP,Sudeste,2024-12-14
+1053,Cliente 1053,Masculino,26,25-34,Cuiabá,MT,Centro-Oeste,2023-02-19
+1054,Cliente 1054,Masculino,28,25-34,Florianópolis,SC,Sul,2025-04-21
+1055,Cliente 1055,Masculino,44,35-44,Caxias do Sul,RS,Sul,2022-10-10
+1056,Cliente 1056,Feminino,20,18-24,Campo Grande,MS,Centro-Oeste,2023-05-31
+1057,Cliente 1057,Masculino,26,25-34,Campinas,SP,Sudeste,2025-06-11
+1058,Cliente 1058,Não informado,67,55+,Joinville,SC,Sul,2021-09-09
+1059,Cliente 1059,Feminino,22,18-24,Rio de Janeiro,RJ,Sudeste,2023-11-02
+1060,Cliente 1060,Masculino,50,45-54,Recife,PE,Nordeste,2023-01-11
+1061,Cliente 1061,Masculino,45,45-54,Campo Grande,MS,Centro-Oeste,2022-01-11
+1062,Cliente 1062,Feminino,47,45-54,Rio de Janeiro,RJ,Sudeste,2023-08-26
+1063,Cliente 1063,Feminino,37,35-44,Rio de Janeiro,RJ,Sudeste,2021-09-05
+1064,Cliente 1064,Masculino,48,45-54,Niterói,RJ,Sudeste,2021-04-19
+1065,Cliente 1065,Masculino,36,35-44,Belo Horizonte,MG,Sudeste,2022-05-02
+1066,Cliente 1066,Masculino,40,35-44,Curitiba,PR,Sul,2021-04-18
+1067,Cliente 1067,Feminino,24,18-24,Belo Horizonte,MG,Sudeste,2022-07-07
+1068,Cliente 1068,Masculino,44,35-44,Santos,SP,Sudeste,2021-04-30
+1069,Cliente 1069,Feminino,50,45-54,Niterói,RJ,Sudeste,2021-11-10
+1070,Cliente 1070,Masculino,18,18-24,Santos,SP,Sudeste,2024-06-01
+1071,Cliente 1071,Masculino,37,35-44,Campinas,SP,Sudeste,2025-03-23
+1072,Cliente 1072,Feminino,28,25-34,Recife,PE,Nordeste,2025-01-25
+1073,Cliente 1073,Masculino,43,35-44,Maceió,AL,Nordeste,2022-08-24
+1074,Cliente 1074,Masculino,41,35-44,Porto Alegre,RS,Sul,2023-12-04
+1075,Cliente 1075,Feminino,43,35-44,Campinas,SP,Sudeste,2024-11-10
+1076,Cliente 1076,Masculino,44,35-44,Rio de Janeiro,RJ,Sudeste,2025-05-11
+1077,Cliente 1077,Feminino,41,35-44,Belém,PA,Norte,2021-10-20
+1078,Cliente 1078,Masculino,42,35-44,Campinas,SP,Sudeste,2024-06-14
+1079,Cliente 1079,Masculino,28,25-34,Santos,SP,Sudeste,2022-01-09
+1080,Cliente 1080,Feminino,27,25-34,Niterói,RJ,Sudeste,2025-02-09
+1081,Cliente 1081,Feminino,36,35-44,Salvador,BA,Nordeste,2022-04-04
+1082,Cliente 1082,Feminino,63,55+,Santos,SP,SUDESTE,2022-10-21
+1083,Cliente 1083,Não informado,23,18-24,Florianópolis,SC,Sul,2025-01-31
+1084,Cliente 1084,Masculino,35,35-44,Curitiba,PR,Sul,2022-11-30
+1085,Cliente 1085,Masculino,48,45-54,Joinville,SC,Sul,2023-01-05
+1086,Cliente 1086,Masculino,54,45-54,Porto Alegre,RS,Sul,2021-08-03
+1087,Cliente 1087,Masculino,43,35-44,Natal,RN,Nordeste,2021-09-21
+1088,Cliente 1088,Masculino,37,35-44,Niterói,RJ,Sudeste,2021-04-30
+1089,Cliente 1089,Feminino,53,45-54,Rio de Janeiro,RJ,Sudeste,2025-06-18
+1090,Cliente 1090,Feminino,56,55+,Joinville,SC,Sul,2025-04-22
+1091,Cliente 1091,Masculino,51,45-54,Cuiabá,MT,centro-oeste ,2021-10-09
+1092,Cliente 1092,Masculino,26,25-34,Vitória,ES,Sudeste,2025-04-19
+1093,Cliente 1093,Masculino,26,25-34,São Paulo,SP,Sudeste,2021-09-23
+1094,Cliente 1094,Masculino,44,35-44,Florianópolis,SC,Sul,2024-05-23
+1095,Cliente 1095,Masculino,47,45-54,Fortaleza,CE,Nordeste,2024-08-16
+1096,Cliente 1096,Masculino,28,25-34,Vitória,ES,Sudeste,2022-11-26
+1097,Cliente 1097,Masculino,50,45-54,Campinas,SP,Sudeste,2021-03-04
+1098,Cliente 1098,Feminino,54,45-54,Joinville,SC,Sul,2024-08-11
+1099,Cliente 1099,Masculino,45,45-54,Goiânia,GO,Centro-Oeste,2024-05-09
+1100,Cliente 1100,Feminino,55,55+,Campo Grande,MS,Centro-Oeste,2025-05-01
+1101,Cliente 1101,Feminino,37,35-44,Caxias do Sul,RS,Sul,2022-07-29
+1102,Cliente 1102,Feminino,18,18-24,Campinas,SP,Sudeste,2022-11-30
+1103,Cliente 1103,Masculino,31,25-34,Natal,RN,Nordeste,2024-12-30
+1104,Cliente 1104,Feminino,44,35-44,Niterói,RJ,Sudeste,2024-02-03
+1105,Cliente 1105,Masculino,26,25-34,São Paulo,SP,Sudeste,2021-09-30
+1106,Cliente 1106,Feminino,22,18-24,João Pessoa,PB,Nordeste,2021-11-09
+1107,Cliente 1107,Feminino,58,55+,Niterói,RJ,Sudeste,2023-10-14
+1108,Cliente 1108,Masculino,40,35-44,Fortaleza,CE,Nordeste,2023-12-15
+1109,Cliente 1109,Masculino,36,35-44,São Paulo,SP,Sudeste,2023-09-03
+1110,Cliente 1110,Masculino,35,35-44,Niterói,RJ,Sudeste,2023-08-23
+1111,Cliente 1111,Masculino,65,55+,Belo Horizonte,MG,Sudeste,2025-04-24
+1112,Cliente 1112,Feminino,39,35-44,Natal,RN,Nordeste,2021-12-21
+1113,Cliente 1113,Masculino,42,35-44,Goiânia,GO,Centro-Oeste,2024-09-22
+1114,Cliente 1114,Masculino,38,35-44,Londrina,PR,Sul,2023-10-17
+1115,Cliente 1115,Feminino,21,18-24,Rio de Janeiro,RJ,Sudeste,2021-06-15
+1116,Cliente 1116,Masculino,41,35-44,Campinas,SP,Sudeste,2021-05-23
+1117,Cliente 1117,Feminino,43,35-44,Curitiba,PR,Sul,2023-04-26
+1118,Cliente 1118,Feminino,35,35-44,Santos,SP,Sudeste,2024-11-21
+1119,Cliente 1119,Feminino,50,45-54,Vitória,ES,Sudeste,2021-06-13
+1120,Cliente 1120,Feminino,26,25-34,Belo Horizonte,MG,Sudeste,2021-06-15
+1121,Cliente 1121,Não informado,23,18-24,Recife,PE,Nordeste,2024-11-06
+1122,Cliente 1122,Feminino,33,25-34,Campinas,SP,Sudeste,2024-04-16
+1123,Cliente 1123,Feminino,38,35-44,Natal,RN,Nordeste,2022-09-08
+1124,Cliente 1124,Feminino,49,45-54,Rio de Janeiro,RJ,Sudeste,2022-03-21
+1125,Cliente 1125,Feminino,18,18-24,Caxias do Sul,RS,sul ,2023-09-30
+1126,Cliente 1126,Feminino,48,45-54,Campo Grande,MS,Centro-Oeste,2024-01-28
+1127,Cliente 1127,Masculino,30,25-34,Curitiba,PR,Sul,2024-01-06
+1128,Cliente 1128,Feminino,33,25-34,Campo Grande,MS,Centro-Oeste,2024-05-11
+1129,Cliente 1129,Masculino,53,45-54,Recife,PE,Nordeste,2022-11-24
+1130,Cliente 1130,Masculino,29,25-34,Santos,SP,Sudeste,2022-12-20
+1131,Cliente 1131,Feminino,59,55+,Niterói,RJ,Sudeste,2025-05-10
+1132,Cliente 1132,Feminino,27,25-34,Maceió,AL,Nordeste,2022-09-04
+1133,Cliente 1133,Feminino,54,45-54,Porto Alegre,RS,Sul,2021-08-07
+1134,Cliente 1134,Masculino,42,35-44,Vitória,ES,Sudeste,2021-11-11
+1135,Cliente 1135,Masculino,30,25-34,Porto Alegre,RS,sul ,2024-01-19
+1136,Cliente 1136,Masculino,18,18-24,Curitiba,PR,Sul,2024-07-10
+1137,Cliente 1137,Feminino,49,45-54,Santos,SP,Sudeste,2023-10-28
+1138,Cliente 1138,Masculino,51,45-54,Belo Horizonte,MG,Sudeste,2024-02-10
+1139,Cliente 1139,Feminino,33,25-34,Campinas,SP,Sudeste,2023-07-18
+1140,Cliente 1140,Masculino,27,25-34,Campinas,SP,Sudeste,2024-01-19
+1141,Cliente 1141,Masculino,34,25-34,Brasília,DF,Centro-Oeste,2021-02-03
+1142,Cliente 1142,Feminino,57,55+,Niterói,RJ,Sudeste,2022-08-27
+1143,Cliente 1143,Feminino,25,25-34,Florianópolis,SC,Sul,2022-06-14
+1144,Cliente 1144,Feminino,33,25-34,Salvador,BA,Nordeste,2021-07-28
+1145,Cliente 1145,Feminino,44,35-44,Vitória,ES,Sudeste,2021-12-23
+1146,Cliente 1146,Feminino,36,35-44,Rio de Janeiro,RJ,Sudeste,2022-06-22
+1147,Cliente 1147,Feminino,41,35-44,João Pessoa,PB,Nordeste,2024-11-16
+1148,Cliente 1148,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2023-08-06
+1149,Cliente 1149,Feminino,20,18-24,Campo Grande,MS,Centro-Oeste,2024-10-15
+1150,Cliente 1150,Feminino,50,45-54,Brasília,DF,Centro-Oeste,2022-07-23
+1151,Cliente 1151,Feminino,35,35-44,Goiânia,GO,centro-oeste ,2024-12-27
+1152,Cliente 1152,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2022-03-17
+1153,Cliente 1153,Feminino,47,45-54,Curitiba,PR,Sul,2024-01-31
+1154,Cliente 1154,Feminino,45,45-54,Vitória,ES,Sudeste,2025-06-21
+1155,Cliente 1155,Feminino,50,45-54,São Paulo,SP,Sudeste,2022-03-08
+1156,Cliente 1156,Masculino,37,35-44,Porto Alegre,RS,Sul,2023-02-26
+1157,Cliente 1157,Masculino,32,25-34,Santos,SP,Sudeste,2021-03-29
+1158,Cliente 1158,Feminino,18,18-24,Rio de Janeiro,RJ,Sudeste,2023-06-21
+1159,Cliente 1159,Masculino,37,35-44,Joinville,SC,Sul,2022-07-29
+1160,Cliente 1160,Feminino,34,25-34,Curitiba,PR,Sul,2023-11-09
+1161,Cliente 1161,Feminino,42,35-44,Recife,PE,Nordeste,2022-03-23
+1162,Cliente 1162,Feminino,43,35-44,Cuiabá,MT,Centro-Oeste,2021-06-09
+1163,Cliente 1163,Feminino,43,35-44,Belém,PA,Norte,2023-02-28
+1164,Cliente 1164,Feminino,51,45-54,Florianópolis,SC,Sul,2024-04-15
+1165,Cliente 1165,Masculino,35,35-44,Niterói,RJ,Sudeste,2025-04-14
+1166,Cliente 1166,Masculino,57,55+,Santos,SP,Sudeste,2023-10-07
+1167,Cliente 1167,Feminino,55,55+,Brasília,DF,Centro-Oeste,2022-07-18
+1168,Cliente 1168,Feminino,42,35-44,Santos,SP,Sudeste,2024-06-07
+1169,Cliente 1169,Feminino,24,18-24,Campo Grande,MS,Centro-Oeste,2022-09-29
+1170,Cliente 1170,Masculino,28,25-34,Cuiabá,MT,Centro-Oeste,2021-05-12
+1171,Cliente 1171,Não informado,47,45-54,Maceió,AL,Nordeste,2024-12-14
+1172,Cliente 1172,Masculino,49,45-54,Recife,PE,Nordeste,2023-08-16
+1173,Cliente 1173,Feminino,52,45-54,Niterói,RJ,Sudeste,2023-11-26
+1174,Cliente 1174,Feminino,47,45-54,Rio de Janeiro,RJ,Sudeste,2024-07-30
+1175,Cliente 1175,Feminino,37,35-44,Brasília,DF,Centro-Oeste,2024-08-20
+1176,Cliente 1176,Masculino,56,55+,Campinas,SP,Sudeste,2021-10-31
+1177,Cliente 1177,Feminino,53,45-54,Belo Horizonte,MG,Sudeste,2023-11-08
+1178,Cliente 1178,Feminino,42,35-44,Campinas,SP,Sudeste,2021-07-20
+1179,Cliente 1179,Masculino,39,35-44,Belo Horizonte,MG,Sudeste,2021-04-18
+1180,Cliente 1180,Feminino,44,35-44,Belo Horizonte,MG,Sudeste,2023-09-22
+1181,Cliente 1181,Masculino,38,35-44,Campo Grande,MS,Centro-Oeste,2021-01-01
+1182,Cliente 1182,Masculino,49,45-54,Belo Horizonte,MG,Sudeste,2022-01-30
+1183,Cliente 1183,Feminino,52,45-54,Campo Grande,MS,Centro-Oeste,2024-11-16
+1184,Cliente 1184,Feminino,36,35-44,Cuiabá,MT,Centro-Oeste,2024-08-10
+1185,Cliente 1185,Feminino,48,45-54,Belo Horizonte,MG,Sudeste,2023-07-17
+1186,Cliente 1186,Masculino,44,35-44,Curitiba,PR,Sul,2022-02-14
+1187,Cliente 1187,Masculino,23,18-24,Florianópolis,SC,Sul,2022-04-19
+1188,Cliente 1188,Feminino,47,45-54,Rio de Janeiro,RJ,Sudeste,2021-04-05
+1189,Cliente 1189,Feminino,53,45-54,Maceió,AL,Nordeste,2025-01-11
+1190,Cliente 1190,Feminino,30,25-34,Rio de Janeiro,RJ,Sudeste,2022-04-08
+1191,Cliente 1191,Masculino,33,25-34,Maceió,AL,Nordeste,2022-08-05
+1192,Cliente 1192,Feminino,31,25-34,Vitória,ES,Sudeste,2022-09-13
+1193,Cliente 1193,Feminino,48,45-54,Santos,SP,Sudeste,2022-10-21
+1194,Cliente 1194,Feminino,38,35-44,Natal,RN,Nordeste,2024-10-10
+1195,Cliente 1195,Masculino,36,35-44,Joinville,SC,Sul,2023-09-02
+1196,Cliente 1196,Feminino,42,35-44,Niterói,RJ,Sudeste,2024-06-17
+1197,Cliente 1197,Feminino,40,35-44,Recife,PE,Nordeste,2021-08-20
+1198,Cliente 1198,Não informado,51,45-54,Palmas,TO,Norte,2021-11-06
+1199,Cliente 1199,Feminino,18,18-24,Vitória,ES,Sudeste,2023-04-14
+1200,Cliente 1200,Feminino,33,25-34,São Paulo,SP,Sudeste,2025-05-05
+1201,Cliente 1201,Masculino,31,25-34,São Paulo,SP,Sudeste,2024-08-29
+1202,Cliente 1202,Masculino,24,18-24,Cuiabá,MT,Centro-Oeste,2021-12-25
+1203,Cliente 1203,Feminino,35,35-44,Cuiabá,MT,Centro-Oeste,2023-09-09
+1204,Cliente 1204,Feminino,56,55+,Porto Velho,RO,Norte,2023-10-14
+1205,Cliente 1205,Feminino,46,45-54,Santos,SP,Sudeste,2022-05-15
+1206,Cliente 1206,Masculino,25,25-34,Brasília,DF,Centro-Oeste,2024-10-29
+1207,Cliente 1207,Masculino,38,35-44,Niterói,RJ,SUDESTE,2022-12-14
+1208,Cliente 1208,Feminino,32,25-34,Campinas,SP,Sudeste,2021-04-18
+1209,Cliente 1209,Masculino,36,35-44,Vitória,ES,Sudeste,2023-11-26
+1210,Cliente 1210,Masculino,68,55+,Natal,RN,Nordeste,2024-01-12
+1211,Cliente 1211,Feminino,57,55+,Belo Horizonte,MG,Sudeste,2022-05-07
+1212,Cliente 1212,Masculino,54,45-54,Campinas,SP,Sudeste,2023-09-05
+1213,Cliente 1213,Masculino,34,25-34,Vitória,ES,Sudeste,2021-04-28
+1214,Cliente 1214,Masculino,23,18-24,Campo Grande,MS,Centro-Oeste,2024-02-29
+1215,Cliente 1215,Masculino,18,18-24,Natal,RN,Nordeste,2022-09-05
+1216,Cliente 1216,Masculino,48,45-54,Salvador,BA,Nordeste,2023-06-16
+1217,Cliente 1217,Masculino,39,35-44,Brasília,DF,Centro-Oeste,2023-05-30
+1218,Cliente 1218,Masculino,38,35-44,Curitiba,PR,Sul,2022-08-05
+1219,Cliente 1219,Masculino,41,35-44,Curitiba,PR,Sul,2023-08-31
+1220,Cliente 1220,Feminino,22,18-24,Curitiba,PR,Sul,2024-03-25
+1221,Cliente 1221,Masculino,31,25-34,São Paulo,SP,Sudeste,2024-09-10
+1222,Cliente 1222,Masculino,49,45-54,Niterói,RJ,Sudeste,2024-08-04
+1223,Cliente 1223,Feminino,29,25-34,Fortaleza,CE,Nordeste,2023-01-20
+1224,Cliente 1224,Feminino,33,25-34,Campo Grande,MS,Centro-Oeste,2023-12-27
+1225,Cliente 1225,Feminino,39,35-44,Santos,SP,Sudeste,2022-06-01
+1226,Cliente 1226,Masculino,23,18-24,Caxias do Sul,RS,Sul,2022-11-11
+1227,Cliente 1227,Feminino,44,35-44,Niterói,RJ,Sudeste,2024-10-23
+1228,Cliente 1228,Feminino,18,18-24,Porto Velho,RO,Norte,2024-01-31
+1229,Cliente 1229,Feminino,32,25-34,Palmas,TO,Norte,2022-08-18
+1230,Cliente 1230,Masculino,37,35-44,Campinas,SP,Sudeste,2022-02-28
+1231,Cliente 1231,Masculino,42,35-44,São Paulo,SP,Sudeste,2023-06-13
+1232,Cliente 1232,Feminino,40,35-44,Vitória,ES,Sudeste,2024-01-02
+1233,Cliente 1233,Masculino,43,35-44,Porto Alegre,RS,Sul,2022-09-16
+1234,Cliente 1234,Masculino,30,25-34,Rio de Janeiro,RJ,Sudeste,2024-02-24
+1235,Cliente 1235,Feminino,42,35-44,Joinville,SC,Sul,2021-09-17
+1236,Cliente 1236,Masculino,50,45-54,Campinas,SP,Sudeste,2021-01-26
+1237,Cliente 1237,Não informado,33,25-34,Campo Grande,MS,centro-oeste ,2021-11-14
+1238,Cliente 1238,Feminino,23,18-24,Joinville,SC,Sul,2023-08-23
+1239,Cliente 1239,Feminino,24,18-24,Santos,SP,Sudeste,2024-05-10
+1240,Cliente 1240,Masculino,63,55+,Brasília,DF,Centro-Oeste,2024-08-16
+1241,Cliente 1241,Masculino,34,25-34,Recife,PE,Nordeste,2024-08-26
+1242,Cliente 1242,Masculino,35,35-44,Joinville,SC,Sul,2023-03-05
+1243,Cliente 1243,Masculino,42,35-44,Manaus,AM,Norte,2022-06-15
+1244,Cliente 1244,Masculino,42,35-44,Recife,PE,Nordeste,2023-06-23
+1245,Cliente 1245,Não informado,45,45-54,Salvador,BA,Nordeste,2024-09-12
+1246,Cliente 1246,Masculino,24,18-24,Campinas,SP,Sudeste,2023-08-05
+1247,Cliente 1247,Feminino,35,35-44,Caxias do Sul,RS,Sul,2021-01-07
+1248,Cliente 1248,Masculino,40,35-44,João Pessoa,PB,Nordeste,2023-06-22
+1249,Cliente 1249,Masculino,44,35-44,Belo Horizonte,MG,Sudeste,2021-02-14
+1250,Cliente 1250,Feminino,37,35-44,Campo Grande,MS,centro-oeste ,2021-10-01
+1251,Cliente 1251,Não informado,23,18-24,São Paulo,SP,Sudeste,2021-11-29
+1252,Cliente 1252,Feminino,42,35-44,Rio de Janeiro,RJ,Sudeste,2022-02-17
+1253,Cliente 1253,Feminino,31,25-34,Campinas,SP,Sudeste,2021-10-31
+1254,Cliente 1254,Masculino,39,35-44,Londrina,PR,Sul,2024-02-26
+1255,Cliente 1255,Feminino,33,25-34,Santos,SP,Sudeste,2022-05-22
+1256,Cliente 1256,Masculino,50,45-54,Recife,PE,Nordeste,2022-07-22
+1257,Cliente 1257,Feminino,21,18-24,Recife,PE,Nordeste,2024-04-29
+1258,Cliente 1258,Feminino,48,45-54,Campinas,SP,Sudeste,2021-04-26
+1259,Cliente 1259,Feminino,32,25-34,Caxias do Sul,RS,Sul,2024-02-13
+1260,Cliente 1260,Feminino,21,18-24,Niterói,RJ,Sudeste,2022-11-29
+1261,Cliente 1261,Masculino,51,45-54,Santos,SP,Sudeste,2023-06-27
+1262,Cliente 1262,Masculino,40,35-44,Natal,RN,Nordeste,2022-12-26
+1263,Cliente 1263,Masculino,29,25-34,Campinas,SP,Sudeste,2022-01-07
+1264,Cliente 1264,Masculino,25,25-34,Joinville,SC,SUL,2023-06-19
+1265,Cliente 1265,Feminino,18,18-24,Londrina,PR,Sul,2025-05-08
+1266,Cliente 1266,Masculino,58,55+,Rio de Janeiro,RJ,Sudeste,2022-12-27
+1267,Cliente 1267,Masculino,39,35-44,Cuiabá,MT,Centro-Oeste,2025-02-05
+1268,Cliente 1268,Feminino,32,25-34,João Pessoa,PB,Nordeste,2023-05-25
+1269,Cliente 1269,Feminino,44,35-44,Niterói,RJ,Sudeste,2024-03-20
+1270,Cliente 1270,Masculino,46,45-54,Fortaleza,CE,Nordeste,2025-01-21
+1271,Cliente 1271,Masculino,40,35-44,Florianópolis,SC,Sul,2023-02-19
+1272,Cliente 1272,Feminino,18,18-24,Goiânia,GO,Centro-Oeste,2021-07-19
+1273,Cliente 1273,Feminino,43,35-44,Salvador,BA,Nordeste,2022-12-10
+1274,Cliente 1274,Masculino,18,18-24,Fortaleza,CE,Nordeste,2021-05-27
+1275,Cliente 1275,Masculino,31,25-34,Manaus,AM,norte ,2021-09-30
+1276,Cliente 1276,Feminino,57,55+,Brasília,DF,Centro-Oeste,2021-04-27
+1277,Cliente 1277,Masculino,29,25-34,Curitiba,PR,Sul,2024-04-19
+1278,Cliente 1278,Masculino,37,35-44,Natal,RN,Nordeste,2025-02-20
+1279,Cliente 1279,Feminino,51,45-54,Niterói,RJ,Sudeste,2022-03-11
+1280,Cliente 1280,Masculino,46,45-54,Campo Grande,MS,Centro-Oeste,2023-04-03
+1281,Cliente 1281,Feminino,33,25-34,Cuiabá,MT,Centro-Oeste,2024-09-21
+1282,Cliente 1282,Masculino,50,45-54,Palmas,TO,Norte,2023-11-10
+1283,Cliente 1283,Masculino,22,18-24,São Paulo,SP,Sudeste,2023-01-07
+1284,Cliente 1284,Masculino,42,35-44,Goiânia,GO,Centro-Oeste,2024-10-29
+1285,Cliente 1285,Masculino,23,18-24,Niterói,RJ,Sudeste,2023-12-15
+1286,Cliente 1286,Feminino,51,45-54,Manaus,AM,Norte,2022-10-15
+1287,Cliente 1287,Masculino,33,25-34,Campinas,SP,Sudeste,2022-04-24
+1288,Cliente 1288,Masculino,25,25-34,Rio de Janeiro,RJ,Sudeste,2023-03-25
+1289,Cliente 1289,Masculino,32,25-34,João Pessoa,PB,Nordeste,2022-06-20
+1290,Cliente 1290,Feminino,35,35-44,Brasília,DF,Centro-Oeste,2022-07-27
+1291,Cliente 1291,Masculino,52,45-54,Goiânia,GO,Centro-Oeste,2024-12-16
+1292,Cliente 1292,Feminino,38,35-44,Rio de Janeiro,RJ,Sudeste,2022-09-09
+1293,Cliente 1293,Masculino,28,25-34,Porto Velho,RO,norte ,2024-04-17
+1294,Cliente 1294,Masculino,51,45-54,Santos,SP,Sudeste,2024-01-07
+1295,Cliente 1295,Masculino,29,25-34,Porto Alegre,RS,Sul,2021-07-26
+1296,Cliente 1296,Feminino,21,18-24,Niterói,RJ,Sudeste,2021-04-19
+1297,Cliente 1297,Masculino,48,45-54,Curitiba,PR,SUL,2022-05-30
+1298,Cliente 1298,Masculino,50,45-54,Curitiba,PR,Sul,2022-01-01
+1299,Cliente 1299,Masculino,38,35-44,São Paulo,SP,Sudeste,2022-07-17
+1300,Cliente 1300,Masculino,47,45-54,Maceió,AL,Nordeste,2025-01-20
+1301,Cliente 1301,Masculino,66,55+,Londrina,PR,Sul,2023-11-11
+1302,Cliente 1302,Masculino,42,35-44,Niterói,RJ,Sudeste,2023-01-09
+1303,Cliente 1303,Não informado,47,45-54,São Paulo,SP,Sudeste,2023-08-29
+1304,Cliente 1304,Feminino,29,25-34,João Pessoa,PB,Nordeste,2021-09-18
+1305,Cliente 1305,Masculino,18,18-24,São Paulo,SP,Sudeste,2023-01-15
+1306,Cliente 1306,Masculino,43,35-44,Porto Alegre,RS,Sul,2023-07-08
+1307,Cliente 1307,Feminino,53,45-54,Fortaleza,CE,Nordeste,2024-09-19
+1308,Cliente 1308,Feminino,42,35-44,Palmas,TO,Norte,2021-10-11
+1309,Cliente 1309,Masculino,54,45-54,Niterói,RJ,Sudeste,2025-03-07
+1310,Cliente 1310,Masculino,47,45-54,Rio de Janeiro,RJ,Sudeste,2024-04-13
+1311,Cliente 1311,Feminino,36,35-44,Campo Grande,MS,Centro-Oeste,2023-02-10
+1312,Cliente 1312,Masculino,23,18-24,João Pessoa,PB,Nordeste,2023-07-09
+1313,Cliente 1313,Masculino,49,45-54,Campo Grande,MS,Centro-Oeste,2023-06-10
+1314,Cliente 1314,Feminino,29,25-34,Natal,RN,Nordeste,2025-04-14
+1315,Cliente 1315,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2021-11-24
+1316,Cliente 1316,Masculino,29,25-34,Porto Alegre,RS,Sul,2022-01-16
+1317,Cliente 1317,Masculino,23,18-24,Rio de Janeiro,RJ,Sudeste,2021-04-09
+1318,Cliente 1318,Masculino,42,35-44,Curitiba,PR,Sul,2025-03-15
+1319,Cliente 1319,Feminino,28,25-34,Maceió,AL,Nordeste,2021-07-15
+1320,Cliente 1320,Masculino,31,25-34,Joinville,SC,Sul,2023-06-03
+1321,Cliente 1321,Masculino,18,18-24,Santos,SP,Sudeste,2021-07-17
+1322,Cliente 1322,Feminino,33,25-34,Cuiabá,MT,Centro-Oeste,2022-12-24
+1323,Cliente 1323,Masculino,56,55+,Curitiba,PR,Sul,2021-09-21
+1324,Cliente 1324,Masculino,54,45-54,Natal,RN,Nordeste,2024-05-30
+1325,Cliente 1325,Feminino,36,35-44,Vitória,ES,Sudeste,2022-07-14
+1326,Cliente 1326,Feminino,22,18-24,Rio de Janeiro,RJ,Sudeste,2021-10-30
+1327,Cliente 1327,Feminino,30,25-34,Rio de Janeiro,RJ,Sudeste,2022-06-03
+1328,Cliente 1328,Masculino,22,18-24,Porto Alegre,RS,Sul,2021-11-10
+1329,Cliente 1329,Masculino,46,45-54,Rio de Janeiro,RJ,Sudeste,2024-03-04
+1330,Cliente 1330,Feminino,43,35-44,Campo Grande,MS,Centro-Oeste,2023-07-05
+1331,Cliente 1331,Masculino,22,18-24,São Paulo,SP,Sudeste,2022-08-30
+1332,Cliente 1332,Feminino,50,45-54,Campinas,SP,Sudeste,2023-04-27
+1333,Cliente 1333,Feminino,23,18-24,Niterói,RJ,Sudeste,2021-12-20
+1334,Cliente 1334,Masculino,50,45-54,Campo Grande,MS,Centro-Oeste,2021-06-08
+1335,Cliente 1335,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2025-02-23
+1336,Cliente 1336,Masculino,43,35-44,Recife,PE,Nordeste,2022-08-24
+1337,Cliente 1337,Masculino,67,55+,Curitiba,PR,Sul,2024-01-24
+1338,Cliente 1338,Masculino,75,55+,Brasília,DF,Centro-Oeste,2022-07-29
+1339,Cliente 1339,Feminino,39,35-44,Vitória,ES,Sudeste,2021-10-26
+1340,Cliente 1340,Masculino,45,45-54,Niterói,RJ,Sudeste,2021-09-17
+1341,Cliente 1341,Masculino,40,35-44,Rio de Janeiro,RJ,Sudeste,2025-04-13
+1342,Cliente 1342,Feminino,45,45-54,Porto Velho,RO,Norte,2023-08-30
+1343,Cliente 1343,Não informado,64,55+,Campinas,SP,Sudeste,2021-04-01
+1344,Cliente 1344,Feminino,46,45-54,Brasília,DF,Centro-Oeste,2023-07-31
+1345,Cliente 1345,Masculino,41,35-44,Niterói,RJ,Sudeste,2023-12-02
+1346,Cliente 1346,Masculino,42,35-44,Belém,PA,Norte,2025-03-23
+1347,Cliente 1347,Masculino,34,25-34,Caxias do Sul,RS,Sul,2023-05-19
+1348,Cliente 1348,Masculino,33,25-34,Brasília,DF,Centro-Oeste,2024-07-09
+1349,Cliente 1349,Feminino,32,25-34,Campo Grande,MS,Centro-Oeste,2021-10-29
+1350,Cliente 1350,Masculino,44,35-44,Vitória,ES,Sudeste,2023-02-15
+1351,Cliente 1351,Feminino,53,45-54,Recife,PE,Nordeste,2023-08-01
+1352,Cliente 1352,Feminino,35,35-44,João Pessoa,PB,Nordeste,2023-04-24
+1353,Cliente 1353,Masculino,38,35-44,Vitória,ES,Sudeste,2021-01-19
+1354,Cliente 1354,Feminino,26,25-34,Goiânia,GO,Centro-Oeste,2024-12-22
+1355,Cliente 1355,Masculino,46,45-54,Palmas,TO,Norte,2024-12-09
+1356,Cliente 1356,Feminino,49,45-54,Niterói,RJ,Sudeste,2022-09-26
+1357,Cliente 1357,Masculino,40,35-44,Porto Alegre,RS,Sul,2023-10-30
+1358,Cliente 1358,Masculino,40,35-44,Vitória,ES,Sudeste,2025-05-25
+1359,Cliente 1359,Masculino,46,45-54,Belo Horizonte,MG,Sudeste,2024-07-16
+1360,Cliente 1360,Masculino,34,25-34,Campinas,SP,Sudeste,2022-12-19
+1361,Cliente 1361,Feminino,38,35-44,São Paulo,SP,Sudeste,2021-03-18
+1362,Cliente 1362,Masculino,29,25-34,São Paulo,SP,Sudeste,2022-02-10
+1363,Cliente 1363,Feminino,33,25-34,Manaus,AM,Norte,2023-09-08
+1364,Cliente 1364,Masculino,54,45-54,Porto Alegre,RS,Sul,2024-04-11
+1365,Cliente 1365,Masculino,57,55+,Recife,PE,Nordeste,2024-12-27
+1366,Cliente 1366,Feminino,27,25-34,Rio de Janeiro,RJ,Sudeste,2022-03-20
+1367,Cliente 1367,Feminino,25,25-34,Londrina,PR,Sul,2025-04-23
+1368,Cliente 1368,Feminino,47,45-54,Recife,PE,Nordeste,2021-07-31
+1369,Cliente 1369,Feminino,40,35-44,Vitória,ES,Sudeste,2021-01-22
+1370,Cliente 1370,Masculino,20,18-24,Campo Grande,MS,Centro-Oeste,2021-09-26
+1371,Cliente 1371,Masculino,35,35-44,Curitiba,PR,Sul,2023-05-13
+1372,Cliente 1372,Masculino,49,45-54,Campinas,SP,Sudeste,2023-07-28
+1373,Cliente 1373,Feminino,32,25-34,Londrina,PR,Sul,2023-08-27
+1374,Cliente 1374,Masculino,29,25-34,Manaus,AM,Norte,2024-09-02
+1375,Cliente 1375,Feminino,31,25-34,Londrina,PR,Sul,2021-08-11
+1376,Cliente 1376,Feminino,52,45-54,Florianópolis,SC,Sul,2021-04-04
+1377,Cliente 1377,Feminino,31,25-34,Campinas,SP,Sudeste,2024-03-30
+1378,Cliente 1378,Masculino,32,25-34,Caxias do Sul,RS,Sul,2022-07-07
+1379,Cliente 1379,Não informado,37,35-44,Belo Horizonte,MG,Sudeste,2022-03-10
+1380,Cliente 1380,Feminino,45,45-54,Campinas,SP,Sudeste,2025-06-03
+1381,Cliente 1381,Feminino,26,25-34,Florianópolis,SC,Sul,2021-04-16
+1382,Cliente 1382,Masculino,60,55+,Salvador,BA,Nordeste,2023-11-13
+1383,Cliente 1383,Masculino,45,45-54,Niterói,RJ,Sudeste,2021-09-09
+1384,Cliente 1384,Masculino,49,45-54,Maceió,AL,Nordeste,2022-02-10
+1385,Cliente 1385,Feminino,33,25-34,Cuiabá,MT,Centro-Oeste,2022-01-28
+1386,Cliente 1386,Feminino,28,25-34,Natal,RN,nordeste ,2021-03-30
+1387,Cliente 1387,Masculino,23,18-24,Fortaleza,CE,nordeste ,2024-01-25
+1388,Cliente 1388,Masculino,54,45-54,Santos,SP,Sudeste,2025-05-01
+1389,Cliente 1389,Feminino,28,25-34,Recife,PE,Nordeste,2024-11-05
+1390,Cliente 1390,Masculino,32,25-34,Niterói,RJ,Sudeste,2024-04-03
+1391,Cliente 1391,Masculino,18,18-24,Salvador,BA,Nordeste,2023-04-06
+1392,Cliente 1392,Feminino,24,18-24,Rio de Janeiro,RJ,Sudeste,2024-04-18
+1393,Cliente 1393,Masculino,37,35-44,Niterói,RJ,Sudeste,2024-11-25
+1394,Cliente 1394,Feminino,30,25-34,Campo Grande,MS,Centro-Oeste,2022-09-02
+1395,Cliente 1395,Feminino,60,55+,Joinville,SC,Sul,2025-04-08
+1396,Cliente 1396,Masculino,27,25-34,Porto Alegre,RS,Sul,2021-01-09
+1397,Cliente 1397,Feminino,52,45-54,Niterói,RJ,Sudeste,2025-01-18
+1398,Cliente 1398,Masculino,62,55+,Belo Horizonte,MG,Sudeste,2024-12-21
+1399,Cliente 1399,Masculino,30,25-34,Manaus,AM,Norte,2023-11-27
+1400,Cliente 1400,Masculino,36,35-44,Campinas,SP,Sudeste,2023-01-23
+1401,Cliente 1401,Masculino,61,55+,Joinville,SC,Sul,2022-09-17
+1402,Cliente 1402,Feminino,56,55+,Belo Horizonte,MG,Sudeste,2023-06-28
+1403,Cliente 1403,Masculino,42,35-44,Santos,SP,Sudeste,2021-06-05
+1404,Cliente 1404,Masculino,31,25-34,Vitória,ES,Sudeste,2021-03-25
+1405,Cliente 1405,Masculino,26,25-34,Natal,RN,Nordeste,2022-05-26
+1406,Cliente 1406,Feminino,27,25-34,Rio de Janeiro,RJ,Sudeste,2021-03-20
+1407,Cliente 1407,Feminino,49,45-54,Niterói,RJ,Sudeste,2023-08-16
+1408,Cliente 1408,Feminino,18,18-24,Vitória,ES,Sudeste,2024-08-26
+1409,Cliente 1409,Feminino,33,25-34,Vitória,ES,Sudeste,2024-09-19
+1410,Cliente 1410,Feminino,48,45-54,Recife,PE,Nordeste,2025-06-17
+1411,Cliente 1411,Masculino,55,55+,Santos,SP,Sudeste,2024-11-11
+1412,Cliente 1412,Feminino,42,35-44,Brasília,DF,Centro-Oeste,2024-11-20
+1413,Cliente 1413,Feminino,35,35-44,Curitiba,PR,Sul,2022-09-25
+1414,Cliente 1414,Masculino,23,18-24,Rio de Janeiro,RJ,Sudeste,2021-02-05
+1415,Cliente 1415,Feminino,22,18-24,Natal,RN,Nordeste,2021-02-13
+1416,Cliente 1416,Feminino,31,25-34,São Paulo,SP,Sudeste,2024-07-25
+1417,Cliente 1417,Masculino,45,45-54,Vitória,ES,Sudeste,2024-01-12
+1418,Cliente 1418,Feminino,55,55+,Goiânia,GO,Centro-Oeste,2022-07-25
+1419,Cliente 1419,Masculino,30,25-34,Belém,PA,Norte,2023-09-25
+1420,Cliente 1420,Feminino,25,25-34,Santos,SP,Sudeste,2022-01-29
+1421,Cliente 1421,Feminino,30,25-34,São Paulo,SP,Sudeste,2021-12-23
+1422,Cliente 1422,Feminino,47,45-54,Belo Horizonte,MG,Sudeste,2021-11-25
+1423,Cliente 1423,Masculino,51,45-54,Niterói,RJ,Sudeste,2025-03-26
+1424,Cliente 1424,Feminino,25,25-34,Fortaleza,CE,Nordeste,2023-08-02
+1425,Cliente 1425,Masculino,42,35-44,Vitória,ES,Sudeste,2021-08-14
+1426,Cliente 1426,Feminino,20,18-24,Curitiba,PR,Sul,2021-05-25
+1427,Cliente 1427,Masculino,42,35-44,Brasília,DF,Centro-Oeste,2021-05-22
+1428,Cliente 1428,Feminino,42,35-44,Fortaleza,CE,Nordeste,2021-04-04
+1429,Cliente 1429,Masculino,58,55+,Porto Alegre,RS,Sul,2021-07-06
+1430,Cliente 1430,Feminino,26,25-34,Goiânia,GO,Centro-Oeste,2023-07-02
+1431,Cliente 1431,Masculino,26,25-34,Niterói,RJ,Sudeste,2024-10-13
+1432,Cliente 1432,Feminino,47,45-54,Campinas,SP,Sudeste,2023-02-19
+1433,Cliente 1433,Feminino,45,45-54,Campinas,SP,Sudeste,2021-03-07
+1434,Cliente 1434,Masculino,42,35-44,Salvador,BA,Nordeste,2024-11-06
+1435,Cliente 1435,Feminino,39,35-44,Florianópolis,SC,Sul,2023-04-04
+1436,Cliente 1436,Masculino,36,35-44,Cuiabá,MT,Centro-Oeste,2025-06-11
+1437,Cliente 1437,Masculino,30,25-34,Caxias do Sul,RS,Sul,2021-09-13
+1438,Cliente 1438,Feminino,45,45-54,Florianópolis,SC,Sul,2022-03-12
+1439,Cliente 1439,Feminino,53,45-54,Cuiabá,MT,Centro-Oeste,2021-03-26
+1440,Cliente 1440,Feminino,42,35-44,Vitória,ES,Sudeste,2025-03-03
+1441,Cliente 1441,Masculino,55,55+,João Pessoa,PB,Nordeste,2021-05-18
+1442,Cliente 1442,Feminino,52,45-54,Belo Horizonte,MG,SUDESTE,2025-02-14
+1443,Cliente 1443,Feminino,25,25-34,São Paulo,SP,Sudeste,2023-01-12
+1444,Cliente 1444,Masculino,28,25-34,Caxias do Sul,RS,Sul,2022-11-28
+1445,Cliente 1445,Masculino,45,45-54,Santos,SP,Sudeste,2022-10-18
+1446,Cliente 1446,Masculino,35,35-44,São Paulo,SP,Sudeste,2024-01-27
+1447,Cliente 1447,Feminino,50,45-54,Recife,PE,Nordeste,2021-07-10
+1448,Cliente 1448,Feminino,46,45-54,Maceió,AL,Nordeste,2025-06-01
+1449,Cliente 1449,Feminino,40,35-44,Campinas,SP,Sudeste,2023-12-25
+1450,Cliente 1450,Masculino,20,18-24,Santos,SP,Sudeste,2022-05-15
+1451,Cliente 1451,Feminino,41,35-44,Florianópolis,SC,Sul,2022-10-27
+1452,Cliente 1452,Masculino,53,45-54,São Paulo,SP,Sudeste,2023-10-07
+1453,Cliente 1453,Masculino,35,35-44,Rio de Janeiro,RJ,Sudeste,2021-11-27
+1454,Cliente 1454,Feminino,32,25-34,Santos,SP,Sudeste,2021-11-30
+1455,Cliente 1455,Feminino,41,35-44,Maceió,AL,Nordeste,2025-05-06
+1456,Cliente 1456,Feminino,28,25-34,Niterói,RJ,Sudeste,2023-10-01
+1457,Cliente 1457,Feminino,32,25-34,Natal,RN,Nordeste,2024-09-29
+1458,Cliente 1458,Masculino,38,35-44,Porto Velho,RO,Norte,2022-04-02
+1459,Cliente 1459,Masculino,46,45-54,Campo Grande,MS,centro-oeste ,2024-12-24
+1460,Cliente 1460,Masculino,29,25-34,Santos,SP,Sudeste,2021-09-27
+1461,Cliente 1461,Feminino,27,25-34,Vitória,ES,Sudeste,2022-12-15
+1462,Cliente 1462,Feminino,54,45-54,Curitiba,PR,Sul,2024-12-17
+1463,Cliente 1463,Masculino,55,55+,Brasília,DF,Centro-Oeste,2023-06-14
+1464,Cliente 1464,Feminino,18,18-24,Vitória,ES,Sudeste,2022-09-23
+1465,Cliente 1465,Feminino,20,18-24,Vitória,ES,Sudeste,2024-10-26
+1466,Cliente 1466,Feminino,35,35-44,Maceió,AL,Nordeste,2022-02-11
+1467,Cliente 1467,Feminino,49,45-54,Campo Grande,MS,Centro-Oeste,2021-06-03
+1468,Cliente 1468,Feminino,43,35-44,Campinas,SP,Sudeste,2021-01-23
+1469,Cliente 1469,Masculino,45,45-54,Londrina,PR,Sul,2021-06-02
+1470,Cliente 1470,Masculino,38,35-44,Niterói,RJ,Sudeste,2025-01-22
+1471,Cliente 1471,Feminino,51,45-54,João Pessoa,PB,Nordeste,2023-11-13
+1472,Cliente 1472,Masculino,18,18-24,São Paulo,SP,Sudeste,2022-07-30
+1473,Cliente 1473,Masculino,28,25-34,Salvador,BA,Nordeste,2023-03-27
+1474,Cliente 1474,Feminino,52,45-54,Londrina,PR,Sul,2022-10-31
+1475,Cliente 1475,Feminino,22,18-24,São Paulo,SP,Sudeste,2025-06-24
+1476,Cliente 1476,Masculino,31,25-34,Belo Horizonte,MG,sudeste ,2025-01-19
+1477,Cliente 1477,Feminino,39,35-44,Florianópolis,SC,Sul,2023-03-13
+1478,Cliente 1478,Masculino,71,55+,Natal,RN,Nordeste,2021-04-26
+1479,Cliente 1479,Masculino,70,55+,Campinas,SP,Sudeste,2025-04-12
+1480,Cliente 1480,Feminino,23,18-24,Recife,PE,Nordeste,2021-06-27
+1481,Cliente 1481,Masculino,36,35-44,Campo Grande,MS,Centro-Oeste,2023-02-03
+1482,Cliente 1482,Feminino,41,35-44,Recife,PE,Nordeste,2024-04-12
+1483,Cliente 1483,Feminino,36,35-44,Fortaleza,CE,Nordeste,2023-05-23
+1484,Cliente 1484,Masculino,47,45-54,Joinville,SC,Sul,2021-05-02
+1485,Cliente 1485,Feminino,50,45-54,Florianópolis,SC,Sul,2023-10-28
+1486,Cliente 1486,Feminino,31,25-34,Niterói,RJ,Sudeste,2021-11-18
+1487,Cliente 1487,Masculino,47,45-54,Campinas,SP,Sudeste,2021-01-02
+1488,Cliente 1488,Masculino,33,25-34,Goiânia,GO,Centro-Oeste,2024-11-11
+1489,Cliente 1489,Feminino,33,25-34,Cuiabá,MT,Centro-Oeste,2022-03-16
+1490,Cliente 1490,Masculino,35,35-44,Florianópolis,SC,Sul,2023-09-23
+1491,Cliente 1491,Feminino,31,25-34,Belo Horizonte,MG,Sudeste,2024-03-24
+1492,Cliente 1492,Feminino,33,25-34,Santos,SP,Sudeste,2021-10-16
+1493,Cliente 1493,Masculino,28,25-34,Belo Horizonte,MG,Sudeste,2023-11-03
+1494,Cliente 1494,Masculino,18,18-24,Cuiabá,MT,Centro-Oeste,2022-03-05
+1495,Cliente 1495,Feminino,18,18-24,Curitiba,PR,Sul,2022-03-17
+1496,Cliente 1496,Masculino,22,18-24,Fortaleza,CE,Nordeste,2024-12-10
+1497,Cliente 1497,Masculino,31,25-34,Londrina,PR,Sul,2024-05-25
+1498,Cliente 1498,Feminino,27,25-34,Curitiba,PR,Sul,2022-06-06
+1499,Cliente 1499,Feminino,28,25-34,Campinas,SP,Sudeste,2023-03-12
+1500,Cliente 1500,Feminino,41,35-44,Belo Horizonte,MG,Sudeste,2024-10-06
+1501,Cliente 1501,Masculino,18,18-24,Goiânia,GO,Centro-Oeste,2022-05-31
+1502,Cliente 1502,Masculino,28,25-34,Maceió,AL,Nordeste,2023-11-17
+1503,Cliente 1503,Não informado,60,55+,Belo Horizonte,MG,Sudeste,2021-02-16
+1504,Cliente 1504,Feminino,27,25-34,Campinas,SP,Sudeste,2024-01-19
+1505,Cliente 1505,Feminino,35,35-44,Campinas,SP,Sudeste,2023-02-12
+1506,Cliente 1506,Masculino,24,18-24,Rio de Janeiro,RJ,Sudeste,2022-01-19
+1507,Cliente 1507,Masculino,40,35-44,Belém,PA,Norte,2021-09-29
+1508,Cliente 1508,Masculino,44,35-44,Belo Horizonte,MG,Sudeste,2025-01-03
+1509,Cliente 1509,Masculino,18,18-24,Salvador,BA,NORDESTE,2021-06-18
+1510,Cliente 1510,Masculino,34,25-34,São Paulo,SP,Sudeste,2021-09-22
+1511,Cliente 1511,Feminino,28,25-34,Vitória,ES,Sudeste,2021-11-26
+1512,Cliente 1512,Feminino,55,55+,João Pessoa,PB,Nordeste,2022-01-25
+1513,Cliente 1513,Feminino,51,45-54,Belo Horizonte,MG,Sudeste,2025-04-12
+1514,Cliente 1514,Masculino,44,35-44,Campinas,SP,Sudeste,2021-02-07
+1515,Cliente 1515,Masculino,46,45-54,Curitiba,PR,Sul,2023-01-11
+1516,Cliente 1516,Masculino,21,18-24,Recife,PE,Nordeste,2022-08-07
+1517,Cliente 1517,Masculino,27,25-34,Belo Horizonte,MG,Sudeste,2023-03-04
+1518,Cliente 1518,Masculino,48,45-54,Santos,SP,Sudeste,2023-04-29
+1519,Cliente 1519,Feminino,42,35-44,Porto Alegre,RS,Sul,2021-04-26
+1520,Cliente 1520,Feminino,59,55+,Fortaleza,CE,Nordeste,2021-04-22
+1521,Cliente 1521,Feminino,32,25-34,Vitória,ES,Sudeste,2022-11-30
+1522,Cliente 1522,Feminino,38,35-44,Salvador,BA,Nordeste,2025-03-05
+1523,Cliente 1523,Feminino,26,25-34,Vitória,ES,Sudeste,2023-10-05
+1524,Cliente 1524,Feminino,34,25-34,Belo Horizonte,MG,sudeste ,2022-05-19
+1525,Cliente 1525,Masculino,36,35-44,João Pessoa,PB,Nordeste,2023-01-11
+1526,Cliente 1526,Masculino,47,45-54,Curitiba,PR,Sul,2023-06-24
+1527,Cliente 1527,Feminino,44,35-44,Belo Horizonte,MG,Sudeste,2021-11-20
+1528,Cliente 1528,Feminino,20,18-24,Curitiba,PR,Sul,2023-12-19
+1529,Cliente 1529,Masculino,51,45-54,Londrina,PR,Sul,2021-02-02
+1530,Cliente 1530,Feminino,37,35-44,Palmas,TO,Norte,2022-03-07
+1531,Cliente 1531,Masculino,34,25-34,Belo Horizonte,MG,Sudeste,2022-03-16
+1532,Cliente 1532,Masculino,48,45-54,Campinas,SP,Sudeste,2023-11-29
+1533,Cliente 1533,Masculino,30,25-34,Campinas,SP,Sudeste,2025-06-19
+1534,Cliente 1534,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2023-01-20
+1535,Cliente 1535,Feminino,18,18-24,Niterói,RJ,Sudeste,2021-03-25
+1536,Cliente 1536,Masculino,25,25-34,Curitiba,PR,Sul,2024-10-13
+1537,Cliente 1537,Feminino,41,35-44,Vitória,ES,Sudeste,2022-12-30
+1538,Cliente 1538,Feminino,40,35-44,Santos,SP,Sudeste,2023-04-09
+1539,Cliente 1539,Feminino,37,35-44,São Paulo,SP,Sudeste,2022-10-05
+1540,Cliente 1540,Feminino,34,25-34,Brasília,DF,Centro-Oeste,2021-08-21
+1541,Cliente 1541,Masculino,30,25-34,Santos,SP,Sudeste,2022-09-29
+1542,Cliente 1542,Não informado,30,25-34,João Pessoa,PB,Nordeste,2025-03-11
+1543,Cliente 1543,Masculino,29,25-34,Campinas,SP,Sudeste,2025-05-26
+1544,Cliente 1544,Feminino,29,25-34,Porto Alegre,RS,Sul,2021-05-03
+1545,Cliente 1545,Feminino,54,45-54,Rio de Janeiro,RJ,Sudeste,2021-02-25
+1546,Cliente 1546,Masculino,44,35-44,Joinville,SC,Sul,2023-10-06
+1547,Cliente 1547,Feminino,31,25-34,Campo Grande,MS,Centro-Oeste,2023-10-24
+1548,Cliente 1548,Feminino,36,35-44,Campinas,SP,Sudeste,2021-06-21
+1549,Cliente 1549,Não informado,52,45-54,Campinas,SP,sudeste ,2025-02-19
+1550,Cliente 1550,Feminino,37,35-44,Santos,SP,Sudeste,2021-12-10
+1551,Cliente 1551,Masculino,34,25-34,Vitória,ES,Sudeste,2021-02-12
+1552,Cliente 1552,Feminino,22,18-24,Fortaleza,CE,Nordeste,2023-10-02
+1553,Cliente 1553,Masculino,34,25-34,Rio de Janeiro,RJ,Sudeste,2024-11-30
+1554,Cliente 1554,Masculino,18,18-24,Caxias do Sul,RS,sul ,2022-06-26
+1555,Cliente 1555,Masculino,23,18-24,Belo Horizonte,MG,Sudeste,2022-11-23
+1556,Cliente 1556,Feminino,41,35-44,Santos,SP,Sudeste,2023-12-04
+1557,Cliente 1557,Masculino,45,45-54,Natal,RN,Nordeste,2025-02-18
+1558,Cliente 1558,Feminino,48,45-54,Brasília,DF,Centro-Oeste,2023-01-10
+1559,Cliente 1559,Feminino,35,35-44,Porto Alegre,RS,Sul,2023-05-18
+1560,Cliente 1560,Feminino,26,25-34,Belo Horizonte,MG,Sudeste,2022-11-10
+1561,Cliente 1561,Feminino,42,35-44,Londrina,PR,Sul,2022-01-17
+1562,Cliente 1562,Feminino,34,25-34,Porto Velho,RO,Norte,2024-09-17
+1563,Cliente 1563,Masculino,29,25-34,Curitiba,PR,Sul,2021-11-17
+1564,Cliente 1564,Feminino,23,18-24,Rio de Janeiro,RJ,Sudeste,2023-05-15
+1565,Cliente 1565,Feminino,53,45-54,Joinville,SC,Sul,2022-12-30
+1566,Cliente 1566,Feminino,36,35-44,Vitória,ES,Sudeste,2024-07-29
+1567,Cliente 1567,Feminino,40,35-44,Niterói,RJ,Sudeste,2021-06-16
+1568,Cliente 1568,Feminino,60,55+,Joinville,SC,Sul,2024-11-12
+1569,Cliente 1569,Feminino,38,35-44,Niterói,RJ,Sudeste,2022-12-16
+1570,Cliente 1570,Não informado,38,35-44,Maceió,AL,Nordeste,2023-05-28
+1571,Cliente 1571,Masculino,32,25-34,Belo Horizonte,MG,Sudeste,2021-12-15
+1572,Cliente 1572,Masculino,44,35-44,Rio de Janeiro,RJ,Sudeste,2023-07-02
+1573,Cliente 1573,Masculino,32,25-34,Santos,SP,Sudeste,2023-09-20
+1574,Cliente 1574,Masculino,20,18-24,Niterói,RJ,Sudeste,2021-03-22
+1575,Cliente 1575,Masculino,33,25-34,João Pessoa,PB,Nordeste,2023-10-06
+1576,Cliente 1576,Masculino,28,25-34,Cuiabá,MT,Centro-Oeste,2024-07-28
+1577,Cliente 1577,Masculino,18,18-24,Vitória,ES,Sudeste,2022-02-23
+1578,Cliente 1578,Masculino,35,35-44,Vitória,ES,Sudeste,2023-04-19
+1579,Cliente 1579,Feminino,31,25-34,Niterói,RJ,Sudeste,2021-01-27
+1580,Cliente 1580,Masculino,49,45-54,Porto Velho,RO,Norte,2024-11-21
+1581,Cliente 1581,Masculino,57,55+,Maceió,AL,Nordeste,2022-03-08
+1582,Cliente 1582,Feminino,40,35-44,Maceió,AL,Nordeste,2025-02-13
+1583,Cliente 1583,Masculino,19,18-24,Brasília,DF,Centro-Oeste,2022-07-08
+1584,Cliente 1584,Feminino,35,35-44,João Pessoa,PB,Nordeste,2024-06-27
+1585,Cliente 1585,Feminino,43,35-44,Santos,SP,Sudeste,2021-06-17
+1586,Cliente 1586,Não informado,38,35-44,Campinas,SP,Sudeste,2023-06-10
+1587,Cliente 1587,Masculino,29,25-34,Fortaleza,CE,Nordeste,2023-03-14
+1588,Cliente 1588,Feminino,38,35-44,Salvador,BA,Nordeste,2023-01-18
+1589,Cliente 1589,Não informado,24,18-24,Cuiabá,MT,Centro-Oeste,2022-01-10
+1590,Cliente 1590,Masculino,30,25-34,São Paulo,SP,Sudeste,2021-12-16
+1591,Cliente 1591,Masculino,36,35-44,Salvador,BA,Nordeste,2023-06-09
+1592,Cliente 1592,Feminino,32,25-34,Joinville,SC,Sul,2024-10-08
+1593,Cliente 1593,Não informado,36,35-44,São Paulo,SP,Sudeste,2024-03-30
+1594,Cliente 1594,Feminino,28,25-34,São Paulo,SP,Sudeste,2024-01-11
+1595,Cliente 1595,Masculino,37,35-44,Natal,RN,Nordeste,2024-08-13
+1596,Cliente 1596,Masculino,18,18-24,Londrina,PR,Sul,2022-04-04
+1597,Cliente 1597,Feminino,35,35-44,Cuiabá,MT,Centro-Oeste,2023-07-27
+1598,Cliente 1598,Feminino,31,25-34,Campinas,SP,Sudeste,2023-05-05
+1599,Cliente 1599,Feminino,35,35-44,Vitória,ES,sudeste ,2022-06-30
+1600,Cliente 1600,Masculino,39,35-44,Niterói,RJ,Sudeste,2023-05-24
+1601,Cliente 1601,Masculino,35,35-44,Campinas,SP,Sudeste,2024-06-01
+1602,Cliente 1602,Feminino,27,25-34,Maceió,AL,Nordeste,2021-02-14
+1603,Cliente 1603,Feminino,18,18-24,Vitória,ES,Sudeste,2023-07-14
+1604,Cliente 1604,Masculino,18,18-24,Joinville,SC,Sul,2022-02-02
+1605,Cliente 1605,Masculino,43,35-44,Niterói,RJ,Sudeste,2022-08-16
+1606,Cliente 1606,Masculino,45,45-54,Joinville,SC,Sul,2024-05-05
+1607,Cliente 1607,Masculino,22,18-24,Rio de Janeiro,RJ,Sudeste,2024-11-25
+1608,Cliente 1608,Feminino,36,35-44,Niterói,RJ,Sudeste,2023-03-08
+1609,Cliente 1609,Feminino,43,35-44,Rio de Janeiro,RJ,Sudeste,2021-07-13
+1610,Cliente 1610,Masculino,26,25-34,Santos,SP,Sudeste,2021-02-23
+1611,Cliente 1611,Masculino,40,35-44,Santos,SP,Sudeste,2022-08-14
+1612,Cliente 1612,Masculino,24,18-24,Cuiabá,MT,Centro-Oeste,2025-02-24
+1613,Cliente 1613,Masculino,33,25-34,João Pessoa,PB,Nordeste,2025-01-26
+1614,Cliente 1614,Feminino,25,25-34,Rio de Janeiro,RJ,Sudeste,2023-06-04
+1615,Cliente 1615,Masculino,52,45-54,Cuiabá,MT,Centro-Oeste,2023-04-21
+1616,Cliente 1616,Feminino,37,35-44,Porto Alegre,RS,Sul,2022-08-01
+1617,Cliente 1617,Feminino,28,25-34,Palmas,TO,Norte,2023-08-01
+1618,Cliente 1618,Masculino,29,25-34,Belo Horizonte,MG,Sudeste,2024-03-29
+1619,Cliente 1619,Masculino,49,45-54,Rio de Janeiro,RJ,Sudeste,2021-11-10
+1620,Cliente 1620,Feminino,22,18-24,Belo Horizonte,MG,Sudeste,2023-08-05
+1621,Cliente 1621,Feminino,50,45-54,Fortaleza,CE,Nordeste,2024-11-19
+1622,Cliente 1622,Masculino,43,35-44,Curitiba,PR,Sul,2025-01-14
+1623,Cliente 1623,Feminino,55,55+,Vitória,ES,Sudeste,2023-03-14
+1624,Cliente 1624,Feminino,26,25-34,Rio de Janeiro,RJ,Sudeste,2023-10-16
+1625,Cliente 1625,Feminino,52,45-54,Goiânia,GO,Centro-Oeste,2022-01-05
+1626,Cliente 1626,Feminino,45,45-54,Campinas,SP,Sudeste,2024-04-27
+1627,Cliente 1627,Masculino,45,45-54,Niterói,RJ,Sudeste,2023-05-19
+1628,Cliente 1628,Masculino,34,25-34,Fortaleza,CE,Nordeste,2024-02-01
+1629,Cliente 1629,Feminino,34,25-34,Natal,RN,Nordeste,2025-01-23
+1630,Cliente 1630,Masculino,49,45-54,Joinville,SC,Sul,2025-05-31
+1631,Cliente 1631,Masculino,38,35-44,Niterói,RJ,Sudeste,2021-06-04
+1632,Cliente 1632,Masculino,20,18-24,Caxias do Sul,RS,Sul,2022-06-10
+1633,Cliente 1633,Feminino,36,35-44,São Paulo,SP,Sudeste,2025-03-02
+1634,Cliente 1634,Masculino,47,45-54,Vitória,ES,Sudeste,2021-09-02
+1635,Cliente 1635,Feminino,18,18-24,Manaus,AM,Norte,2024-03-27
+1636,Cliente 1636,Feminino,30,25-34,Florianópolis,SC,Sul,2021-08-18
+1637,Cliente 1637,Masculino,35,35-44,São Paulo,SP,Sudeste,2022-12-10
+1638,Cliente 1638,Feminino,33,25-34,Campo Grande,MS,Centro-Oeste,2022-03-09
+1639,Cliente 1639,Feminino,24,18-24,Belém,PA,norte ,2021-07-07
+1640,Cliente 1640,Feminino,23,18-24,Recife,PE,Nordeste,2022-07-18
+1641,Cliente 1641,Masculino,63,55+,Vitória,ES,Sudeste,2024-05-03
+1642,Cliente 1642,Feminino,51,45-54,Santos,SP,Sudeste,2024-02-17
+1643,Cliente 1643,Masculino,44,35-44,Natal,RN,nordeste ,2024-08-04
+1644,Cliente 1644,Masculino,44,35-44,Palmas,TO,Norte,2022-06-06
+1645,Cliente 1645,Masculino,37,35-44,São Paulo,SP,Sudeste,2023-10-29
+1646,Cliente 1646,Masculino,33,25-34,Niterói,RJ,Sudeste,2022-09-29
+1647,Cliente 1647,Feminino,23,18-24,Santos,SP,Sudeste,2022-02-16
+1648,Cliente 1648,Feminino,38,35-44,Natal,RN,Nordeste,2022-06-26
+1649,Cliente 1649,Feminino,33,25-34,Campinas,SP,Sudeste,2023-10-16
+1650,Cliente 1650,Feminino,44,35-44,São Paulo,SP,Sudeste,2022-07-20
+1651,Cliente 1651,Feminino,41,35-44,Santos,SP,sudeste ,2021-08-24
+1652,Cliente 1652,Masculino,47,45-54,Vitória,ES,Sudeste,2021-04-22
+1653,Cliente 1653,Feminino,33,25-34,Belo Horizonte,MG,Sudeste,2023-04-11
+1654,Cliente 1654,Feminino,40,35-44,Maceió,AL,Nordeste,2025-01-19
+1655,Cliente 1655,Masculino,53,45-54,Recife,PE,Nordeste,2023-10-18
+1656,Cliente 1656,Feminino,37,35-44,Santos,SP,Sudeste,2025-01-04
+1657,Cliente 1657,Feminino,62,55+,Rio de Janeiro,RJ,Sudeste,2023-07-19
+1658,Cliente 1658,Masculino,39,35-44,Brasília,DF,Centro-Oeste,2021-04-16
+1659,Cliente 1659,Feminino,24,18-24,Curitiba,PR,Sul,2023-08-06
+1660,Cliente 1660,Feminino,33,25-34,São Paulo,SP,Sudeste,2022-06-20
+1661,Cliente 1661,Feminino,18,18-24,Caxias do Sul,RS,Sul,2021-09-17
+1662,Cliente 1662,Feminino,47,45-54,Natal,RN,Nordeste,2021-07-22
+1663,Cliente 1663,Feminino,52,45-54,Florianópolis,SC,Sul,2025-06-21
+1664,Cliente 1664,Masculino,19,18-24,Maceió,AL,Nordeste,2022-11-15
+1665,Cliente 1665,Masculino,42,35-44,Goiânia,GO,Centro-Oeste,2023-06-25
+1666,Cliente 1666,Masculino,45,45-54,Salvador,BA,Nordeste,2022-11-23
+1667,Cliente 1667,Feminino,31,25-34,Niterói,RJ,Sudeste,2024-09-25
+1668,Cliente 1668,Feminino,51,45-54,Salvador,BA,Nordeste,2023-07-03
+1669,Cliente 1669,Masculino,52,45-54,Curitiba,PR,Sul,2022-10-12
+1670,Cliente 1670,Feminino,50,45-54,Vitória,ES,Sudeste,2021-12-01
+1671,Cliente 1671,Masculino,43,35-44,Belém,PA,Norte,2022-11-29
+1672,Cliente 1672,Feminino,30,25-34,Vitória,ES,sudeste ,2025-06-09
+1673,Cliente 1673,Feminino,43,35-44,Cuiabá,MT,Centro-Oeste,2021-04-14
+1674,Cliente 1674,Masculino,54,45-54,Vitória,ES,Sudeste,2024-03-20
+1675,Cliente 1675,Feminino,36,35-44,Campinas,SP,Sudeste,2022-10-30
+1676,Cliente 1676,Feminino,49,45-54,Salvador,BA,Nordeste,2024-05-28
+1677,Cliente 1677,Feminino,29,25-34,Caxias do Sul,RS,Sul,2022-11-15
+1678,Cliente 1678,Masculino,41,35-44,Niterói,RJ,Sudeste,2024-07-12
+1679,Cliente 1679,Masculino,54,45-54,Belo Horizonte,MG,Sudeste,2021-12-06
+1680,Cliente 1680,Masculino,42,35-44,Curitiba,PR,Sul,2024-05-04
+1681,Cliente 1681,Feminino,24,18-24,Recife,PE,Nordeste,2024-10-03
+1682,Cliente 1682,Masculino,35,35-44,Joinville,SC,Sul,2022-09-03
+1683,Cliente 1683,Feminino,41,35-44,São Paulo,SP,Sudeste,2022-11-09
+1684,Cliente 1684,Feminino,22,18-24,Belo Horizonte,MG,Sudeste,2023-04-14
+1685,Cliente 1685,Masculino,30,25-34,Belo Horizonte,MG,Sudeste,2024-04-29
+1686,Cliente 1686,Feminino,23,18-24,Belém,PA,Norte,2022-09-29
+1687,Cliente 1687,Masculino,42,35-44,Campinas,SP,Sudeste,2024-12-02
+1688,Cliente 1688,Masculino,42,35-44,Salvador,BA,Nordeste,2021-07-26
+1689,Cliente 1689,Feminino,46,45-54,Santos,SP,Sudeste,2023-02-20
+1690,Cliente 1690,Feminino,41,35-44,Caxias do Sul,RS,sul ,2021-03-16
+1691,Cliente 1691,Feminino,21,18-24,Cuiabá,MT,Centro-Oeste,2025-06-17
+1692,Cliente 1692,Masculino,46,45-54,São Paulo,SP,Sudeste,2022-01-13
+1693,Cliente 1693,Feminino,22,18-24,Brasília,DF,centro-oeste ,2021-11-14
+1694,Cliente 1694,Masculino,37,35-44,Rio de Janeiro,RJ,Sudeste,2023-04-18
+1695,Cliente 1695,Feminino,30,25-34,Joinville,SC,Sul,2024-07-11
+1696,Cliente 1696,Feminino,24,18-24,Joinville,SC,Sul,2024-12-10
+1697,Cliente 1697,Masculino,18,18-24,Salvador,BA,Nordeste,2024-07-09
+1698,Cliente 1698,Feminino,57,55+,Brasília,DF,Centro-Oeste,2021-08-22
+1699,Cliente 1699,Feminino,38,35-44,Campinas,SP,Sudeste,2021-08-02
+1700,Cliente 1700,Masculino,43,35-44,Porto Velho,RO,Norte,2022-10-20
+1701,Cliente 1701,Feminino,22,18-24,Niterói,RJ,Sudeste,2024-04-12
+1702,Cliente 1702,Feminino,45,45-54,Palmas,TO,Norte,2024-03-09
+1703,Cliente 1703,Masculino,41,35-44,Rio de Janeiro,RJ,Sudeste,2022-04-11
+1704,Cliente 1704,Feminino,29,25-34,Caxias do Sul,RS,Sul,2023-05-08
+1705,Cliente 1705,Feminino,31,25-34,Rio de Janeiro,RJ,Sudeste,2022-06-28
+1706,Cliente 1706,Masculino,42,35-44,Vitória,ES,Sudeste,2022-05-08
+1707,Cliente 1707,Masculino,25,25-34,Rio de Janeiro,RJ,Sudeste,2021-01-18
+1708,Cliente 1708,Feminino,22,18-24,Niterói,RJ,Sudeste,2021-11-22
+1709,Cliente 1709,Feminino,41,35-44,Rio de Janeiro,RJ,Sudeste,2024-12-31
+1710,Cliente 1710,Feminino,30,25-34,São Paulo,SP,Sudeste,2024-06-15
+1711,Cliente 1711,Masculino,44,35-44,Cuiabá,MT,Centro-Oeste,2023-06-26
+1712,Cliente 1712,Feminino,37,35-44,Salvador,BA,Nordeste,2024-05-18
+1713,Cliente 1713,Feminino,21,18-24,Santos,SP,Sudeste,2024-03-20
+1714,Cliente 1714,Feminino,41,35-44,Campinas,SP,Sudeste,2022-10-17
+1715,Cliente 1715,Masculino,45,45-54,Curitiba,PR,Sul,2022-06-09
+1716,Cliente 1716,Masculino,53,45-54,Niterói,RJ,Sudeste,2021-06-25
+1717,Cliente 1717,Masculino,39,35-44,Campinas,SP,Sudeste,2021-08-30
+1718,Cliente 1718,Masculino,39,35-44,Vitória,ES,Sudeste,2023-07-15
+1719,Cliente 1719,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2022-02-04
+1720,Cliente 1720,Feminino,57,55+,Porto Alegre,RS,Sul,2021-04-05
+1721,Cliente 1721,Feminino,37,35-44,Belo Horizonte,MG,Sudeste,2022-03-03
+1722,Cliente 1722,Feminino,43,35-44,Fortaleza,CE,Nordeste,2024-08-29
+1723,Cliente 1723,Masculino,18,18-24,Santos,SP,Sudeste,2025-06-05
+1724,Cliente 1724,Masculino,45,45-54,Londrina,PR,Sul,2021-10-19
+1725,Cliente 1725,Masculino,41,35-44,Santos,SP,Sudeste,2022-01-04
+1726,Cliente 1726,Não informado,39,35-44,Recife,PE,Nordeste,2024-01-01
+1727,Cliente 1727,Masculino,42,35-44,Recife,PE,Nordeste,2025-01-23
+1728,Cliente 1728,Masculino,40,35-44,Campo Grande,MS,Centro-Oeste,2023-01-29
+1729,Cliente 1729,Feminino,43,35-44,Rio de Janeiro,RJ,Sudeste,2025-06-16
+1730,Cliente 1730,Feminino,43,35-44,Joinville,SC,Sul,2024-03-30
+1731,Cliente 1731,Masculino,18,18-24,Natal,RN,Nordeste,2024-05-20
+1732,Cliente 1732,Masculino,55,55+,Brasília,DF,Centro-Oeste,2022-11-26
+1733,Cliente 1733,Feminino,38,35-44,Rio de Janeiro,RJ,Sudeste,2023-02-06
+1734,Cliente 1734,Não informado,43,35-44,São Paulo,SP,Sudeste,2023-05-30
+1735,Cliente 1735,Não informado,29,25-34,Campinas,SP,Sudeste,2021-01-10
+1736,Cliente 1736,Masculino,37,35-44,Campo Grande,MS,Centro-Oeste,2024-02-22
+1737,Cliente 1737,Masculino,51,45-54,Salvador,BA,Nordeste,2023-06-12
+1738,Cliente 1738,Masculino,46,45-54,Natal,RN,Nordeste,2023-02-20
+1739,Cliente 1739,Feminino,46,45-54,Porto Velho,RO,Norte,2021-06-04
+1740,Cliente 1740,Masculino,35,35-44,São Paulo,SP,Sudeste,2021-08-18
+1741,Cliente 1741,Feminino,61,55+,Porto Alegre,RS,Sul,2023-12-06
+1742,Cliente 1742,Masculino,34,25-34,São Paulo,SP,Sudeste,2024-01-31
+1743,Cliente 1743,Feminino,34,25-34,Salvador,BA,Nordeste,2021-05-24
+1744,Cliente 1744,Masculino,40,35-44,Joinville,SC,Sul,2023-08-06
+1745,Cliente 1745,Masculino,25,25-34,Florianópolis,SC,Sul,2022-05-09
+1746,Cliente 1746,Feminino,43,35-44,Curitiba,PR,sul ,2022-06-26
+1747,Cliente 1747,Feminino,35,35-44,Manaus,AM,Norte,2024-11-29
+1748,Cliente 1748,Masculino,18,18-24,Rio de Janeiro,RJ,Sudeste,2025-05-29
+1749,Cliente 1749,Feminino,20,18-24,Campo Grande,MS,Centro-Oeste,2025-01-20
+1750,Cliente 1750,Masculino,35,35-44,São Paulo,SP,Sudeste,2024-12-10
+1751,Cliente 1751,Masculino,26,25-34,Caxias do Sul,RS,Sul,2022-02-23
+1752,Cliente 1752,Masculino,51,45-54,Vitória,ES,Sudeste,2022-06-20
+1753,Cliente 1753,Feminino,24,18-24,Londrina,PR,Sul,2021-11-28
+1754,Cliente 1754,Feminino,31,25-34,Porto Alegre,RS,Sul,2023-09-03
+1755,Cliente 1755,Feminino,28,25-34,Fortaleza,CE,Nordeste,2022-04-24
+1756,Cliente 1756,Feminino,32,25-34,Vitória,ES,Sudeste,2022-04-18
+1757,Cliente 1757,Masculino,35,35-44,Cuiabá,MT,Centro-Oeste,2021-02-08
+1758,Cliente 1758,Feminino,24,18-24,Belo Horizonte,MG,Sudeste,2021-08-14
+1759,Cliente 1759,Masculino,35,35-44,Santos,SP,Sudeste,2022-09-20
+1760,Cliente 1760,Masculino,25,25-34,Fortaleza,CE,Nordeste,2022-09-22
+1761,Cliente 1761,Feminino,48,45-54,Belo Horizonte,MG,Sudeste,2022-08-14
+1762,Cliente 1762,Masculino,33,25-34,Rio de Janeiro,RJ,Sudeste,2023-12-13
+1763,Cliente 1763,Masculino,35,35-44,Goiânia,GO,CENTRO-OESTE,2023-10-09
+1764,Cliente 1764,Feminino,37,35-44,Belo Horizonte,MG,Sudeste,2025-03-29
+1765,Cliente 1765,Masculino,38,35-44,Campinas,SP,SUDESTE,2024-07-06
+1766,Cliente 1766,Masculino,35,35-44,Salvador,BA,Nordeste,2022-05-08
+1767,Cliente 1767,Masculino,23,18-24,São Paulo,SP,Sudeste,2022-06-05
+1768,Cliente 1768,Feminino,49,45-54,Belo Horizonte,MG,Sudeste,2024-01-03
+1769,Cliente 1769,Feminino,20,18-24,Recife,PE,NORDESTE,2024-06-15
+1770,Cliente 1770,Feminino,75,55+,Belém,PA,Norte,2023-12-04
+1771,Cliente 1771,Feminino,25,25-34,Rio de Janeiro,RJ,Sudeste,2021-02-04
+1772,Cliente 1772,Masculino,42,35-44,Natal,RN,Nordeste,2022-06-18
+1773,Cliente 1773,Feminino,27,25-34,Londrina,PR,Sul,2025-03-23
+1774,Cliente 1774,Feminino,43,35-44,Curitiba,PR,Sul,2022-02-14
+1775,Cliente 1775,Masculino,47,45-54,Brasília,DF,Centro-Oeste,2025-01-07
+1776,Cliente 1776,Masculino,18,18-24,Joinville,SC,Sul,2022-11-03
+1777,Cliente 1777,Masculino,39,35-44,São Paulo,SP,Sudeste,2021-09-04
+1778,Cliente 1778,Masculino,23,18-24,Campinas,SP,Sudeste,2025-04-24
+1779,Cliente 1779,Masculino,18,18-24,Niterói,RJ,Sudeste,2024-03-15
+1780,Cliente 1780,Masculino,47,45-54,Campinas,SP,Sudeste,2023-06-25
+1781,Cliente 1781,Feminino,31,25-34,Belo Horizonte,MG,Sudeste,2024-12-25
+1782,Cliente 1782,Masculino,18,18-24,Porto Alegre,RS,Sul,2024-12-17
+1783,Cliente 1783,Feminino,34,25-34,Santos,SP,Sudeste,2022-05-16
+1784,Cliente 1784,Masculino,18,18-24,Porto Alegre,RS,Sul,2024-02-02
+1785,Cliente 1785,Feminino,36,35-44,Goiânia,GO,Centro-Oeste,2024-04-05
+1786,Cliente 1786,Feminino,26,25-34,Maceió,AL,Nordeste,2025-04-02
+1787,Cliente 1787,Feminino,29,25-34,Campinas,SP,Sudeste,2021-07-12
+1788,Cliente 1788,Feminino,36,35-44,Santos,SP,Sudeste,2021-03-11
+1789,Cliente 1789,Masculino,38,35-44,Campinas,SP,Sudeste,2022-12-04
+1790,Cliente 1790,Feminino,36,35-44,Belo Horizonte,MG,Sudeste,2024-10-08
+1791,Cliente 1791,Feminino,72,55+,Niterói,RJ,Sudeste,2024-04-30
+1792,Cliente 1792,Feminino,42,35-44,Goiânia,GO,Centro-Oeste,2024-01-26
+1793,Cliente 1793,Masculino,48,45-54,Londrina,PR,Sul,2022-12-05
+1794,Cliente 1794,Masculino,38,35-44,Rio de Janeiro,RJ,Sudeste,2022-03-25
+1795,Cliente 1795,Feminino,33,25-34,Belém,PA,Norte,2021-01-01
+1796,Cliente 1796,Masculino,50,45-54,Goiânia,GO,Centro-Oeste,2023-06-06
+1797,Cliente 1797,Feminino,43,35-44,Rio de Janeiro,RJ,Sudeste,2024-12-03
+1798,Cliente 1798,Feminino,23,18-24,Vitória,ES,Sudeste,2024-12-12
+1799,Cliente 1799,Masculino,52,45-54,Santos,SP,Sudeste,2024-09-29
+1800,Cliente 1800,Masculino,46,45-54,São Paulo,SP,Sudeste,2022-09-27
+1801,Cliente 1801,Masculino,37,35-44,Campo Grande,MS,Centro-Oeste,2024-12-21
+1802,Cliente 1802,Feminino,26,25-34,Salvador,BA,Nordeste,2024-08-26
+1803,Cliente 1803,Feminino,31,25-34,Fortaleza,CE,Nordeste,2021-09-03
+1804,Cliente 1804,Masculino,46,45-54,São Paulo,SP,Sudeste,2023-04-12
+1805,Cliente 1805,Feminino,31,25-34,Santos,SP,Sudeste,2024-10-01
+1806,Cliente 1806,Feminino,32,25-34,Vitória,ES,Sudeste,2021-01-08
+1807,Cliente 1807,Feminino,28,25-34,Vitória,ES,Sudeste,2021-05-31
+1808,Cliente 1808,Masculino,46,45-54,Belo Horizonte,MG,Sudeste,2023-06-30
+1809,Cliente 1809,Masculino,34,25-34,Curitiba,PR,Sul,2024-04-03
+1810,Cliente 1810,Feminino,55,55+,Fortaleza,CE,Nordeste,2024-05-21
+1811,Cliente 1811,Feminino,30,25-34,Niterói,RJ,Sudeste,2022-03-06
+1812,Cliente 1812,Masculino,46,45-54,Curitiba,PR,Sul,2024-10-27
+1813,Cliente 1813,Masculino,51,45-54,Belo Horizonte,MG,Sudeste,2023-03-07
+1814,Cliente 1814,Masculino,18,18-24,Natal,RN,Nordeste,2021-05-11
+1815,Cliente 1815,Masculino,29,25-34,São Paulo,SP,Sudeste,2021-12-02
+1816,Cliente 1816,Masculino,34,25-34,Manaus,AM,Norte,2021-07-03
+1817,Cliente 1817,Feminino,32,25-34,Porto Alegre,RS,Sul,2024-06-09
+1818,Cliente 1818,Feminino,47,45-54,Florianópolis,SC,Sul,2021-04-12
+1819,Cliente 1819,Feminino,44,35-44,Londrina,PR,Sul,2024-02-24
+1820,Cliente 1820,Feminino,32,25-34,Rio de Janeiro,RJ,Sudeste,2021-07-17
+1821,Cliente 1821,Masculino,18,18-24,Maceió,AL,Nordeste,2024-04-28
+1822,Cliente 1822,Masculino,33,25-34,São Paulo,SP,sudeste ,2024-12-25
+1823,Cliente 1823,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2023-05-15
+1824,Cliente 1824,Feminino,61,55+,Recife,PE,Nordeste,2023-08-19
+1825,Cliente 1825,Masculino,35,35-44,Maceió,AL,Nordeste,2021-11-02
+1826,Cliente 1826,Não informado,36,35-44,Belo Horizonte,MG,Sudeste,2024-02-06
+1827,Cliente 1827,Masculino,33,25-34,Caxias do Sul,RS,sul ,2021-02-25
+1828,Cliente 1828,Masculino,19,18-24,Campinas,SP,Sudeste,2022-07-02
+1829,Cliente 1829,Feminino,25,25-34,Niterói,RJ,Sudeste,2021-04-26
+1830,Cliente 1830,Masculino,52,45-54,Joinville,SC,Sul,2022-06-03
+1831,Cliente 1831,Feminino,24,18-24,Fortaleza,CE,Nordeste,2023-05-06
+1832,Cliente 1832,Feminino,42,35-44,João Pessoa,PB,Nordeste,2021-10-11
+1833,Cliente 1833,Feminino,33,25-34,Recife,PE,Nordeste,2022-04-20
+1834,Cliente 1834,Feminino,33,25-34,Santos,SP,Sudeste,2023-09-06
+1835,Cliente 1835,Não informado,44,35-44,Rio de Janeiro,RJ,Sudeste,2021-09-29
+1836,Cliente 1836,Masculino,27,25-34,Recife,PE,Nordeste,2021-09-19
+1837,Cliente 1837,Feminino,51,45-54,Santos,SP,Sudeste,2024-10-20
+1838,Cliente 1838,Não informado,37,35-44,Fortaleza,CE,Nordeste,2021-03-07
+1839,Cliente 1839,Feminino,62,55+,Manaus,AM,Norte,2024-01-03
+1840,Cliente 1840,Masculino,25,25-34,Fortaleza,CE,Nordeste,2024-09-16
+1841,Cliente 1841,Feminino,48,45-54,Belo Horizonte,MG,Sudeste,2024-09-23
+1842,Cliente 1842,Feminino,33,25-34,São Paulo,SP,Sudeste,2021-02-03
+1843,Cliente 1843,Masculino,44,35-44,Vitória,ES,Sudeste,2025-04-25
+1844,Cliente 1844,Feminino,23,18-24,Florianópolis,SC,Sul,2023-12-30
+1845,Cliente 1845,Feminino,67,55+,Recife,PE,Nordeste,2023-06-16
+1846,Cliente 1846,Feminino,38,35-44,Londrina,PR,Sul,2023-09-12
+1847,Cliente 1847,Masculino,50,45-54,Vitória,ES,Sudeste,2024-03-22
+1848,Cliente 1848,Feminino,38,35-44,Natal,RN,Nordeste,2021-11-27
+1849,Cliente 1849,Masculino,43,35-44,João Pessoa,PB,Nordeste,2023-11-22
+1850,Cliente 1850,Feminino,36,35-44,Natal,RN,Nordeste,2024-11-09
+1851,Cliente 1851,Masculino,33,25-34,Maceió,AL,Nordeste,2023-03-05
+1852,Cliente 1852,Masculino,25,25-34,Londrina,PR,Sul,2021-01-17
+1853,Cliente 1853,Feminino,35,35-44,São Paulo,SP,Sudeste,2023-04-25
+1854,Cliente 1854,Masculino,29,25-34,Londrina,PR,Sul,2024-11-24
+1855,Cliente 1855,Masculino,26,25-34,Goiânia,GO,Centro-Oeste,2021-12-30
+1856,Cliente 1856,Feminino,51,45-54,Santos,SP,Sudeste,2022-01-24
+1857,Cliente 1857,Feminino,38,35-44,Florianópolis,SC,Sul,2025-02-06
+1858,Cliente 1858,Feminino,37,35-44,Caxias do Sul,RS,Sul,2023-11-25
+1859,Cliente 1859,Feminino,45,45-54,Santos,SP,Sudeste,2021-12-13
+1860,Cliente 1860,Feminino,37,35-44,Rio de Janeiro,RJ,Sudeste,2021-08-25
+1861,Cliente 1861,Feminino,54,45-54,Brasília,DF,Centro-Oeste,2022-10-24
+1862,Cliente 1862,Feminino,45,45-54,Campo Grande,MS,Centro-Oeste,2021-12-10
+1863,Cliente 1863,Feminino,34,25-34,Cuiabá,MT,Centro-Oeste,2025-04-26
+1864,Cliente 1864,Feminino,52,45-54,Caxias do Sul,RS,Sul,2021-04-01
+1865,Cliente 1865,Masculino,40,35-44,Curitiba,PR,Sul,2021-09-13
+1866,Cliente 1866,Masculino,31,25-34,Santos,SP,Sudeste,2024-09-27
+1867,Cliente 1867,Masculino,32,25-34,Campinas,SP,Sudeste,2023-11-03
+1868,Cliente 1868,Feminino,24,18-24,Cuiabá,MT,Centro-Oeste,2024-06-08
+1869,Cliente 1869,Feminino,26,25-34,Santos,SP,Sudeste,2024-02-15
+1870,Cliente 1870,Masculino,32,25-34,Cuiabá,MT,Centro-Oeste,2023-12-10
+1871,Cliente 1871,Masculino,62,55+,Londrina,PR,Sul,2025-01-04
+1872,Cliente 1872,Feminino,22,18-24,Palmas,TO,Norte,2022-01-24
+1873,Cliente 1873,Masculino,34,25-34,Santos,SP,Sudeste,2021-04-10
+1874,Cliente 1874,Feminino,42,35-44,Campo Grande,MS,Centro-Oeste,2024-07-08
+1875,Cliente 1875,Feminino,42,35-44,Santos,SP,Sudeste,2024-02-08
+1876,Cliente 1876,Masculino,34,25-34,Natal,RN,Nordeste,2024-04-10
+1877,Cliente 1877,Masculino,27,25-34,Belo Horizonte,MG,Sudeste,2021-04-08
+1878,Cliente 1878,Feminino,23,18-24,Campinas,SP,Sudeste,2022-07-21
+1879,Cliente 1879,Masculino,30,25-34,Niterói,RJ,Sudeste,2022-11-11
+1880,Cliente 1880,Feminino,37,35-44,Campinas,SP,Sudeste,2025-05-18
+1881,Cliente 1881,Feminino,22,18-24,Florianópolis,SC,Sul,2022-07-25
+1882,Cliente 1882,Não informado,47,45-54,Fortaleza,CE,Nordeste,2023-02-28
+1883,Cliente 1883,Masculino,55,55+,Vitória,ES,Sudeste,2022-01-31
+1884,Cliente 1884,Feminino,31,25-34,Brasília,DF,Centro-Oeste,2022-01-10
+1885,Cliente 1885,Masculino,32,25-34,Londrina,PR,Sul,2023-08-04
+1886,Cliente 1886,Masculino,32,25-34,Fortaleza,CE,Nordeste,2024-06-26
+1887,Cliente 1887,Masculino,54,45-54,Porto Alegre,RS,Sul,2025-03-16
+1888,Cliente 1888,Feminino,56,55+,Recife,PE,Nordeste,2024-07-08
+1889,Cliente 1889,Feminino,51,45-54,Curitiba,PR,Sul,2021-09-22
+1890,Cliente 1890,Feminino,44,35-44,Cuiabá,MT,Centro-Oeste,2023-08-08
+1891,Cliente 1891,Feminino,33,25-34,Rio de Janeiro,RJ,Sudeste,2023-05-22
+1892,Cliente 1892,Masculino,24,18-24,Campinas,SP,Sudeste,2023-03-24
+1893,Cliente 1893,Masculino,47,45-54,Santos,SP,Sudeste,2021-04-03
+1894,Cliente 1894,Masculino,18,18-24,Campinas,SP,Sudeste,2023-11-14
+1895,Cliente 1895,Feminino,32,25-34,Recife,PE,Nordeste,2021-06-01
+1896,Cliente 1896,Masculino,30,25-34,Vitória,ES,Sudeste,2024-01-26
+1897,Cliente 1897,Feminino,40,35-44,Campinas,SP,Sudeste,2022-03-10
+1898,Cliente 1898,Masculino,42,35-44,Recife,PE,NORDESTE,2021-06-21
+1899,Cliente 1899,Feminino,36,35-44,João Pessoa,PB,Nordeste,2021-08-25
+1900,Cliente 1900,Feminino,20,18-24,Campinas,SP,Sudeste,2023-10-20
+1901,Cliente 1901,Feminino,22,18-24,Campinas,SP,Sudeste,2024-10-01
+1902,Cliente 1902,Masculino,36,35-44,Salvador,BA,Nordeste,2025-06-11
+1903,Cliente 1903,Masculino,26,25-34,Porto Velho,RO,Norte,2025-05-19
+1904,Cliente 1904,Masculino,42,35-44,Curitiba,PR,Sul,2025-06-17
+1905,Cliente 1905,Feminino,38,35-44,Brasília,DF,Centro-Oeste,2024-08-09
+1906,Cliente 1906,Masculino,26,25-34,Curitiba,PR,Sul,2023-08-29
+1907,Cliente 1907,Feminino,43,35-44,Joinville,SC,SUL,2022-12-24
+1908,Cliente 1908,Feminino,50,45-54,Cuiabá,MT,Centro-Oeste,2024-07-16
+1909,Cliente 1909,Masculino,36,35-44,Campinas,SP,Sudeste,2023-11-23
+1910,Cliente 1910,Feminino,50,45-54,Niterói,RJ,Sudeste,2021-01-22
+1911,Cliente 1911,Feminino,31,25-34,Joinville,SC,Sul,2022-12-12
+1912,Cliente 1912,Masculino,37,35-44,Caxias do Sul,RS,Sul,2025-04-30
+1913,Cliente 1913,Feminino,19,18-24,Niterói,RJ,Sudeste,2024-10-12
+1914,Cliente 1914,Masculino,46,45-54,Maceió,AL,Nordeste,2022-11-26
+1915,Cliente 1915,Feminino,43,35-44,Caxias do Sul,RS,Sul,2022-03-30
+1916,Cliente 1916,Feminino,28,25-34,Londrina,PR,Sul,2021-08-18
+1917,Cliente 1917,Masculino,22,18-24,Campinas,SP,Sudeste,2022-03-20
+1918,Cliente 1918,Feminino,55,55+,Campinas,SP,Sudeste,2024-03-03
+1919,Cliente 1919,Masculino,32,25-34,Porto Alegre,RS,Sul,2025-01-20
+1920,Cliente 1920,Feminino,37,35-44,Belo Horizonte,MG,Sudeste,2025-05-28
+1921,Cliente 1921,Feminino,43,35-44,Niterói,RJ,Sudeste,2023-07-04
+1922,Cliente 1922,Feminino,28,25-34,Londrina,PR,Sul,2022-04-26
+1923,Cliente 1923,Masculino,50,45-54,Belo Horizonte,MG,Sudeste,2023-01-04
+1924,Cliente 1924,Feminino,46,45-54,Florianópolis,SC,Sul,2024-09-16
+1925,Cliente 1925,Feminino,34,25-34,Londrina,PR,Sul,2022-05-14
+1926,Cliente 1926,Feminino,43,35-44,Campinas,SP,Sudeste,2021-03-01
+1927,Cliente 1927,Masculino,37,35-44,Joinville,SC,Sul,2024-05-04
+1928,Cliente 1928,Masculino,37,35-44,São Paulo,SP,Sudeste,2021-01-14
+1929,Cliente 1929,Masculino,44,35-44,Rio de Janeiro,RJ,Sudeste,2025-03-10
+1930,Cliente 1930,Feminino,54,45-54,Manaus,AM,Norte,2021-11-27
+1931,Cliente 1931,Masculino,38,35-44,Niterói,RJ,Sudeste,2024-12-01
+1932,Cliente 1932,Masculino,38,35-44,Belo Horizonte,MG,Sudeste,2021-11-07
+1933,Cliente 1933,Feminino,53,45-54,São Paulo,SP,Sudeste,2022-05-18
+1934,Cliente 1934,Feminino,29,25-34,Natal,RN,Nordeste,2024-03-16
+1935,Cliente 1935,Feminino,36,35-44,Niterói,RJ,Sudeste,2025-01-25
+1936,Cliente 1936,Masculino,49,45-54,Manaus,AM,Norte,2025-05-05
+1937,Cliente 1937,Masculino,27,25-34,Vitória,ES,Sudeste,2021-02-17
+1938,Cliente 1938,Masculino,49,45-54,Belo Horizonte,MG,Sudeste,2021-08-10
+1939,Cliente 1939,Feminino,38,35-44,Londrina,PR,Sul,2023-02-26
+1940,Cliente 1940,Masculino,36,35-44,Londrina,PR,Sul,2023-09-21
+1941,Cliente 1941,Feminino,56,55+,Vitória,ES,Sudeste,2024-01-21
+1942,Cliente 1942,Feminino,18,18-24,Joinville,SC,Sul,2022-02-13
+1943,Cliente 1943,Masculino,22,18-24,Belo Horizonte,MG,Sudeste,2025-05-23
+1944,Cliente 1944,Masculino,48,45-54,Vitória,ES,Sudeste,2021-03-22
+1945,Cliente 1945,Feminino,24,18-24,Caxias do Sul,RS,Sul,2023-02-20
+1946,Cliente 1946,Feminino,50,45-54,Rio de Janeiro,RJ,Sudeste,2022-06-03
+1947,Cliente 1947,Masculino,33,25-34,Santos,SP,Sudeste,2024-01-25
+1948,Cliente 1948,Masculino,44,35-44,Fortaleza,CE,Nordeste,2023-04-11
+1949,Cliente 1949,Feminino,35,35-44,Goiânia,GO,Centro-Oeste,2023-09-13
+1950,Cliente 1950,Masculino,52,45-54,Brasília,DF,Centro-Oeste,2023-02-12
+1951,Cliente 1951,Masculino,20,18-24,Joinville,SC,Sul,2025-04-11
+1952,Cliente 1952,Masculino,33,25-34,Santos,SP,sudeste ,2021-05-25
+1953,Cliente 1953,Feminino,61,55+,Campinas,SP,Sudeste,2021-03-02
+1954,Cliente 1954,Feminino,36,35-44,Vitória,ES,SUDESTE,2024-01-08
+1955,Cliente 1955,Masculino,24,18-24,Manaus,AM,Norte,2024-03-25
+1956,Cliente 1956,Masculino,19,18-24,Cuiabá,MT,CENTRO-OESTE,2024-05-22
+1957,Cliente 1957,Feminino,33,25-34,Campinas,SP,Sudeste,2024-09-13
+1958,Cliente 1958,Masculino,20,18-24,Niterói,RJ,Sudeste,2021-07-25
+1959,Cliente 1959,Feminino,54,45-54,Brasília,DF,Centro-Oeste,2023-07-30
+1960,Cliente 1960,Masculino,26,25-34,São Paulo,SP,Sudeste,2022-08-12
+1961,Cliente 1961,Masculino,50,45-54,Recife,PE,Nordeste,2022-03-16
+1962,Cliente 1962,Masculino,30,25-34,Niterói,RJ,Sudeste,2023-02-26
+1963,Cliente 1963,Masculino,60,55+,Cuiabá,MT,Centro-Oeste,2022-08-14
+1964,Cliente 1964,Masculino,41,35-44,Rio de Janeiro,RJ,Sudeste,2024-08-02
+1965,Cliente 1965,Masculino,39,35-44,Vitória,ES,Sudeste,2022-07-27
+1966,Cliente 1966,Feminino,44,35-44,Rio de Janeiro,RJ,Sudeste,2021-09-21
+1967,Cliente 1967,Feminino,23,18-24,Maceió,AL,Nordeste,2025-04-15
+1968,Cliente 1968,Feminino,50,45-54,Natal,RN,Nordeste,2023-12-21
+1969,Cliente 1969,Masculino,40,35-44,Joinville,SC,Sul,2024-07-19
+1970,Cliente 1970,Masculino,41,35-44,Vitória,ES,Sudeste,2021-04-03
+1971,Cliente 1971,Masculino,42,35-44,Santos,SP,SUDESTE,2021-07-03
+1972,Cliente 1972,Feminino,37,35-44,Florianópolis,SC,Sul,2024-09-19
+1973,Cliente 1973,Feminino,32,25-34,Santos,SP,Sudeste,2024-03-23
+1974,Cliente 1974,Masculino,22,18-24,Joinville,SC,Sul,2023-10-26
+1975,Cliente 1975,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2021-09-24
+1976,Cliente 1976,Masculino,53,45-54,Curitiba,PR,Sul,2021-05-28
+1977,Cliente 1977,Feminino,53,45-54,Cuiabá,MT,Centro-Oeste,2023-01-13
+1978,Cliente 1978,Feminino,38,35-44,Santos,SP,sudeste ,2021-11-13
+1979,Cliente 1979,Feminino,38,35-44,Vitória,ES,Sudeste,2023-10-16
+1980,Cliente 1980,Masculino,43,35-44,Londrina,PR,Sul,2024-05-29
+1981,Cliente 1981,Feminino,24,18-24,João Pessoa,PB,NORDESTE,2024-07-16
+1982,Cliente 1982,Masculino,42,35-44,Curitiba,PR,Sul,2024-10-19
+1983,Cliente 1983,Feminino,20,18-24,Campo Grande,MS,Centro-Oeste,2022-04-03
+1984,Cliente 1984,Feminino,24,18-24,João Pessoa,PB,Nordeste,2022-09-26
+1985,Cliente 1985,Feminino,26,25-34,Natal,RN,Nordeste,2023-06-10
+1986,Cliente 1986,Masculino,44,35-44,Florianópolis,SC,Sul,2022-01-25
+1987,Cliente 1987,Feminino,52,45-54,Santos,SP,Sudeste,2022-02-12
+1988,Cliente 1988,Feminino,54,45-54,Vitória,ES,Sudeste,2022-03-01
+1989,Cliente 1989,Feminino,39,35-44,Santos,SP,Sudeste,2023-05-29
+1990,Cliente 1990,Feminino,28,25-34,Rio de Janeiro,RJ,Sudeste,2023-02-16
+1991,Cliente 1991,Masculino,59,55+,Porto Velho,RO,Norte,2021-08-12
+1992,Cliente 1992,Masculino,34,25-34,Maceió,AL,Nordeste,2023-05-08
+1993,Cliente 1993,Feminino,38,35-44,Santos,SP,Sudeste,2024-09-17
+1994,Cliente 1994,Masculino,58,55+,Niterói,RJ,Sudeste,2024-01-23
+1995,Cliente 1995,Masculino,57,55+,Caxias do Sul,RS,Sul,2023-02-06
+1996,Cliente 1996,Feminino,18,18-24,Rio de Janeiro,RJ,Sudeste,2024-03-18
+1997,Cliente 1997,Masculino,18,18-24,Porto Alegre,RS,Sul,2022-05-18
+1998,Cliente 1998,Masculino,41,35-44,Fortaleza,CE,NORDESTE,2024-12-19
+1999,Cliente 1999,Masculino,53,45-54,Vitória,ES,Sudeste,2021-04-29
+2000,Cliente 2000,Feminino,32,25-34,Campinas,SP,Sudeste,2025-03-25
+2001,Cliente 2001,Feminino,48,45-54,Fortaleza,CE,Nordeste,2024-09-16
+2002,Cliente 2002,Feminino,49,45-54,Natal,RN,Nordeste,2023-12-24
+2003,Cliente 2003,Feminino,60,55+,Santos,SP,Sudeste,2025-05-18
+2004,Cliente 2004,Masculino,48,45-54,Belo Horizonte,MG,Sudeste,2021-09-10
+2005,Cliente 2005,Feminino,30,25-34,Campinas,SP,Sudeste,2024-10-12
+2006,Cliente 2006,Masculino,19,18-24,Palmas,TO,Norte,2022-07-27
+2007,Cliente 2007,Masculino,62,55+,Niterói,RJ,Sudeste,2022-04-24
+2008,Cliente 2008,Masculino,27,25-34,Campinas,SP,Sudeste,2021-08-30
+2009,Cliente 2009,Masculino,33,25-34,Belo Horizonte,MG,Sudeste,2021-02-23
+2010,Cliente 2010,Feminino,28,25-34,Florianópolis,SC,Sul,2025-01-26
+2011,Cliente 2011,Feminino,33,25-34,Joinville,SC,Sul,2021-01-17
+2012,Cliente 2012,Feminino,35,35-44,Florianópolis,SC,Sul,2021-01-10
+2013,Cliente 2013,Feminino,36,35-44,Rio de Janeiro,RJ,Sudeste,2021-09-04
+2014,Cliente 2014,Feminino,49,45-54,Campinas,SP,Sudeste,2022-09-14
+2015,Cliente 2015,Masculino,40,35-44,Campo Grande,MS,Centro-Oeste,2022-08-15
+2016,Cliente 2016,Masculino,33,25-34,Santos,SP,Sudeste,2024-01-01
+2017,Cliente 2017,Feminino,33,25-34,Niterói,RJ,sudeste ,2022-07-17
+2018,Cliente 2018,Feminino,27,25-34,Maceió,AL,Nordeste,2024-06-06
+2019,Cliente 2019,Feminino,52,45-54,Londrina,PR,Sul,2023-04-19
+2020,Cliente 2020,Masculino,44,35-44,Vitória,ES,Sudeste,2023-07-13
+2021,Cliente 2021,Masculino,53,45-54,Maceió,AL,Nordeste,2022-08-16
+2022,Cliente 2022,Feminino,25,25-34,Campinas,SP,Sudeste,2022-08-06
+2023,Cliente 2023,Feminino,33,25-34,Curitiba,PR,Sul,2021-06-30
+2024,Cliente 2024,Feminino,30,25-34,Florianópolis,SC,Sul,2021-11-29
+2025,Cliente 2025,Feminino,18,18-24,Vitória,ES,Sudeste,2024-08-11
+2026,Cliente 2026,Masculino,50,45-54,Salvador,BA,Nordeste,2024-03-02
+2027,Cliente 2027,Feminino,18,18-24,Caxias do Sul,RS,Sul,2021-02-01
+2028,Cliente 2028,Feminino,32,25-34,Goiânia,GO,Centro-Oeste,2024-05-03
+2029,Cliente 2029,Feminino,63,55+,São Paulo,SP,Sudeste,2024-08-14
+2030,Cliente 2030,Feminino,23,18-24,Porto Alegre,RS,Sul,2022-06-23
+2031,Cliente 2031,Feminino,46,45-54,Florianópolis,SC,Sul,2023-08-30
+2032,Cliente 2032,Masculino,55,55+,Goiânia,GO,Centro-Oeste,2022-04-25
+2033,Cliente 2033,Não informado,29,25-34,Campo Grande,MS,Centro-Oeste,2023-06-26
+2034,Cliente 2034,Masculino,54,45-54,Santos,SP,Sudeste,2022-01-30
+2035,Cliente 2035,Não informado,46,45-54,Belo Horizonte,MG,Sudeste,2022-05-11
+2036,Cliente 2036,Feminino,55,55+,Maceió,AL,Nordeste,2023-02-11
+2037,Cliente 2037,Feminino,67,55+,Campo Grande,MS,Centro-Oeste,2024-03-12
+2038,Cliente 2038,Feminino,48,45-54,Brasília,DF,Centro-Oeste,2024-12-31
+2039,Cliente 2039,Feminino,33,25-34,Belo Horizonte,MG,Sudeste,2022-05-17
+2040,Cliente 2040,Masculino,35,35-44,Niterói,RJ,Sudeste,2024-05-11
+2041,Cliente 2041,Feminino,44,35-44,João Pessoa,PB,Nordeste,2024-06-08
+2042,Cliente 2042,Masculino,28,25-34,Rio de Janeiro,RJ,Sudeste,2024-04-19
+2043,Cliente 2043,Feminino,24,18-24,Santos,SP,Sudeste,2024-02-07
+2044,Cliente 2044,Masculino,49,45-54,Salvador,BA,Nordeste,2022-08-02
+2045,Cliente 2045,Feminino,44,35-44,Campinas,SP,Sudeste,2023-03-17
+2046,Cliente 2046,Masculino,31,25-34,Goiânia,GO,Centro-Oeste,2024-02-27
+2047,Cliente 2047,Feminino,27,25-34,São Paulo,SP,SUDESTE,2025-03-31
+2048,Cliente 2048,Masculino,41,35-44,Santos,SP,Sudeste,2024-05-27
+2049,Cliente 2049,Feminino,37,35-44,Porto Alegre,RS,Sul,2022-01-11
+2050,Cliente 2050,Masculino,22,18-24,Santos,SP,Sudeste,2023-03-02
+2051,Cliente 2051,Masculino,36,35-44,Niterói,RJ,Sudeste,2022-11-22
+2052,Cliente 2052,Feminino,30,25-34,Santos,SP,Sudeste,2022-01-02
+2053,Cliente 2053,Masculino,30,25-34,Campinas,SP,Sudeste,2021-04-28
+2054,Cliente 2054,Masculino,47,45-54,Santos,SP,Sudeste,2021-02-09
+2055,Cliente 2055,Feminino,18,18-24,Porto Velho,RO,Norte,2024-12-07
+2056,Cliente 2056,Masculino,37,35-44,Curitiba,PR,Sul,2024-02-28
+2057,Cliente 2057,Feminino,50,45-54,Belo Horizonte,MG,Sudeste,2024-04-13
+2058,Cliente 2058,Feminino,22,18-24,Campo Grande,MS,Centro-Oeste,2024-10-13
+2059,Cliente 2059,Feminino,18,18-24,Vitória,ES,Sudeste,2024-11-18
+2060,Cliente 2060,Feminino,29,25-34,Niterói,RJ,Sudeste,2023-08-28
+2061,Cliente 2061,Masculino,32,25-34,Belém,PA,Norte,2022-03-20
+2062,Cliente 2062,Feminino,41,35-44,Porto Alegre,RS,Sul,2021-05-30
+2063,Cliente 2063,Feminino,30,25-34,Niterói,RJ,Sudeste,2025-05-25
+2064,Cliente 2064,Feminino,20,18-24,Niterói,RJ,Sudeste,2022-11-02
+2065,Cliente 2065,Masculino,30,25-34,Belo Horizonte,MG,sudeste ,2024-03-26
+2066,Cliente 2066,Feminino,44,35-44,Natal,RN,Nordeste,2021-12-27
+2067,Cliente 2067,Feminino,35,35-44,Porto Alegre,RS,Sul,2021-01-26
+2068,Cliente 2068,Masculino,21,18-24,Florianópolis,SC,Sul,2023-06-09
+2069,Cliente 2069,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2023-02-22
+2070,Cliente 2070,Masculino,43,35-44,Palmas,TO,Norte,2022-12-22
+2071,Cliente 2071,Feminino,31,25-34,Vitória,ES,Sudeste,2023-06-09
+2072,Cliente 2072,Masculino,18,18-24,Joinville,SC,Sul,2023-01-03
+2073,Cliente 2073,Feminino,34,25-34,Campinas,SP,Sudeste,2025-02-10
+2074,Cliente 2074,Feminino,27,25-34,Recife,PE,Nordeste,2021-07-19
+2075,Cliente 2075,Feminino,42,35-44,São Paulo,SP,Sudeste,2021-11-16
+2076,Cliente 2076,Masculino,56,55+,Fortaleza,CE,Nordeste,2022-03-23
+2077,Cliente 2077,Feminino,43,35-44,Niterói,RJ,Sudeste,2021-02-21
+2078,Cliente 2078,Feminino,33,25-34,Brasília,DF,Centro-Oeste,2021-05-26
+2079,Cliente 2079,Feminino,43,35-44,Porto Alegre,RS,Sul,2024-10-12
+2080,Cliente 2080,Masculino,61,55+,Cuiabá,MT,Centro-Oeste,2023-11-08
+2081,Cliente 2081,Masculino,40,35-44,Porto Velho,RO,Norte,2023-04-09
+2082,Cliente 2082,Masculino,45,45-54,Santos,SP,Sudeste,2024-09-18
+2083,Cliente 2083,Feminino,51,45-54,Santos,SP,Sudeste,2022-09-24
+2084,Cliente 2084,Masculino,21,18-24,Salvador,BA,Nordeste,2025-05-20
+2085,Cliente 2085,Feminino,18,18-24,Belo Horizonte,MG,Sudeste,2023-09-20
+2086,Cliente 2086,Masculino,43,35-44,Caxias do Sul,RS,Sul,2024-04-20
+2087,Cliente 2087,Feminino,36,35-44,Salvador,BA,Nordeste,2024-01-13
+2088,Cliente 2088,Masculino,45,45-54,Belo Horizonte,MG,Sudeste,2024-07-30
+2089,Cliente 2089,Feminino,28,25-34,Curitiba,PR,Sul,2021-06-09
+2090,Cliente 2090,Não informado,31,25-34,Santos,SP,Sudeste,2023-11-12
+2091,Cliente 2091,Feminino,41,35-44,Natal,RN,NORDESTE,2022-11-15
+2092,Cliente 2092,Feminino,35,35-44,Santos,SP,Sudeste,2023-08-09
+2093,Cliente 2093,Feminino,28,25-34,Campinas,SP,Sudeste,2022-12-17
+2094,Cliente 2094,Masculino,38,35-44,Belo Horizonte,MG,Sudeste,2021-03-09
+2095,Cliente 2095,Masculino,38,35-44,Santos,SP,Sudeste,2022-01-18
+2096,Cliente 2096,Masculino,28,25-34,Vitória,ES,Sudeste,2024-02-06
+2097,Cliente 2097,Masculino,44,35-44,Vitória,ES,Sudeste,2023-06-29
+2098,Cliente 2098,Feminino,20,18-24,Caxias do Sul,RS,Sul,2023-01-02
+2099,Cliente 2099,Feminino,25,25-34,João Pessoa,PB,Nordeste,2023-08-15
+2100,Cliente 2100,Feminino,46,45-54,Maceió,AL,Nordeste,2025-03-12
+2101,Cliente 2101,Masculino,61,55+,Vitória,ES,Sudeste,2021-08-30
+2102,Cliente 2102,Masculino,44,35-44,Niterói,RJ,Sudeste,2024-12-23
+2103,Cliente 2103,Masculino,36,35-44,Salvador,BA,Nordeste,2022-12-13
+2104,Cliente 2104,Masculino,53,45-54,Cuiabá,MT,Centro-Oeste,2022-08-25
+2105,Cliente 2105,Feminino,18,18-24,Campinas,SP,Sudeste,2025-04-29
+2106,Cliente 2106,Feminino,27,25-34,Santos,SP,Sudeste,2021-07-11
+2107,Cliente 2107,Masculino,18,18-24,Curitiba,PR,Sul,2024-06-16
+2108,Cliente 2108,Masculino,31,25-34,Rio de Janeiro,RJ,Sudeste,2022-06-09
+2109,Cliente 2109,Masculino,37,35-44,São Paulo,SP,Sudeste,2024-08-20
+2110,Cliente 2110,Feminino,41,35-44,Curitiba,PR,Sul,2024-09-03
+2111,Cliente 2111,Masculino,31,25-34,Joinville,SC,Sul,2023-11-24
+2112,Cliente 2112,Feminino,54,45-54,Campo Grande,MS,Centro-Oeste,2021-07-09
+2113,Cliente 2113,Feminino,53,45-54,Niterói,RJ,Sudeste,2023-02-02
+2114,Cliente 2114,Feminino,38,35-44,Niterói,RJ,Sudeste,2022-01-24
+2115,Cliente 2115,Masculino,32,25-34,Santos,SP,Sudeste,2023-08-15
+2116,Cliente 2116,Masculino,18,18-24,Santos,SP,Sudeste,2024-07-22
+2117,Cliente 2117,Feminino,30,25-34,Goiânia,GO,Centro-Oeste,2022-08-29
+2118,Cliente 2118,Masculino,34,25-34,Rio de Janeiro,RJ,Sudeste,2023-09-11
+2119,Cliente 2119,Masculino,37,35-44,Vitória,ES,Sudeste,2021-07-22
+2120,Cliente 2120,Feminino,41,35-44,São Paulo,SP,Sudeste,2023-10-06
+2121,Cliente 2121,Feminino,28,25-34,Belo Horizonte,MG,Sudeste,2022-01-11
+2122,Cliente 2122,Masculino,19,18-24,Santos,SP,Sudeste,2021-09-28
+2123,Cliente 2123,Masculino,24,18-24,Porto Alegre,RS,Sul,2025-01-03
+2124,Cliente 2124,Feminino,20,18-24,Curitiba,PR,Sul,2022-08-26
+2125,Cliente 2125,Masculino,31,25-34,Santos,SP,Sudeste,2021-03-30
+2126,Cliente 2126,Masculino,33,25-34,Campinas,SP,Sudeste,2021-05-02
+2127,Cliente 2127,Masculino,58,55+,João Pessoa,PB,Nordeste,2022-09-29
+2128,Cliente 2128,Não informado,54,45-54,Londrina,PR,Sul,2025-04-20
+2129,Cliente 2129,Feminino,32,25-34,Fortaleza,CE,NORDESTE,2022-02-28
+2130,Cliente 2130,Feminino,24,18-24,Curitiba,PR,Sul,2022-10-10
+2131,Cliente 2131,Masculino,47,45-54,Joinville,SC,Sul,2025-05-23
+2132,Cliente 2132,Feminino,39,35-44,Santos,SP,Sudeste,2021-09-07
+2133,Cliente 2133,Feminino,26,25-34,Niterói,RJ,Sudeste,2021-10-21
+2134,Cliente 2134,Feminino,38,35-44,Campo Grande,MS,Centro-Oeste,2024-11-23
+2135,Cliente 2135,Feminino,49,45-54,Niterói,RJ,Sudeste,2024-05-09
+2136,Cliente 2136,Feminino,68,55+,Goiânia,GO,Centro-Oeste,2021-01-29
+2137,Cliente 2137,Masculino,25,25-34,São Paulo,SP,Sudeste,2023-01-12
+2138,Cliente 2138,Masculino,46,45-54,Caxias do Sul,RS,Sul,2023-03-07
+2139,Cliente 2139,Feminino,38,35-44,Niterói,RJ,Sudeste,2024-09-14
+2140,Cliente 2140,Masculino,49,45-54,Belém,PA,Norte,2022-07-02
+2141,Cliente 2141,Feminino,63,55+,Belo Horizonte,MG,Sudeste,2024-10-09
+2142,Cliente 2142,Masculino,48,45-54,Vitória,ES,Sudeste,2022-05-30
+2143,Cliente 2143,Feminino,47,45-54,Rio de Janeiro,RJ,Sudeste,2023-07-17
+2144,Cliente 2144,Feminino,49,45-54,São Paulo,SP,Sudeste,2024-06-22
+2145,Cliente 2145,Feminino,23,18-24,Fortaleza,CE,Nordeste,2025-01-20
+2146,Cliente 2146,Feminino,39,35-44,Santos,SP,Sudeste,2024-04-18
+2147,Cliente 2147,Não informado,41,35-44,Curitiba,PR,Sul,2025-01-22
+2148,Cliente 2148,Feminino,27,25-34,Rio de Janeiro,RJ,Sudeste,2023-02-20
+2149,Cliente 2149,Feminino,49,45-54,Belo Horizonte,MG,Sudeste,2021-06-15
+2150,Cliente 2150,Feminino,28,25-34,Florianópolis,SC,Sul,2023-04-25
+2151,Cliente 2151,Feminino,59,55+,Rio de Janeiro,RJ,Sudeste,2022-03-21
+2152,Cliente 2152,Feminino,19,18-24,Maceió,AL,Nordeste,2024-04-10
+2153,Cliente 2153,Masculino,32,25-34,Maceió,AL,Nordeste,2024-11-30
+2154,Cliente 2154,Masculino,45,45-54,João Pessoa,PB,Nordeste,2022-05-26
+2155,Cliente 2155,Masculino,34,25-34,São Paulo,SP,Sudeste,2023-08-14
+2156,Cliente 2156,Não informado,31,25-34,Campo Grande,MS,Centro-Oeste,2022-04-12
+2157,Cliente 2157,Masculino,39,35-44,Goiânia,GO,Centro-Oeste,2023-01-19
+2158,Cliente 2158,Masculino,57,55+,Florianópolis,SC,Sul,2024-10-07
+2159,Cliente 2159,Masculino,35,35-44,Caxias do Sul,RS,Sul,2021-02-14
+2160,Cliente 2160,Masculino,44,35-44,Porto Velho,RO,Norte,2022-12-05
+2161,Cliente 2161,Masculino,46,45-54,São Paulo,SP,Sudeste,2023-02-14
+2162,Cliente 2162,Não informado,60,55+,Manaus,AM,Norte,2022-02-13
+2163,Cliente 2163,Feminino,26,25-34,Fortaleza,CE,Nordeste,2024-11-10
+2164,Cliente 2164,Não informado,46,45-54,Curitiba,PR,Sul,2024-10-10
+2165,Cliente 2165,Feminino,43,35-44,Fortaleza,CE,Nordeste,2021-01-22
+2166,Cliente 2166,Masculino,37,35-44,Rio de Janeiro,RJ,Sudeste,2022-07-24
+2167,Cliente 2167,Masculino,39,35-44,Manaus,AM,Norte,2024-05-05
+2168,Cliente 2168,Feminino,44,35-44,Campo Grande,MS,Centro-Oeste,2022-09-09
+2169,Cliente 2169,Masculino,54,45-54,Londrina,PR,Sul,2024-07-18
+2170,Cliente 2170,Feminino,43,35-44,Joinville,SC,Sul,2023-10-29
+2171,Cliente 2171,Feminino,39,35-44,Rio de Janeiro,RJ,Sudeste,2021-11-02
+2172,Cliente 2172,Masculino,38,35-44,Maceió,AL,Nordeste,2022-11-30
+2173,Cliente 2173,Masculino,48,45-54,Rio de Janeiro,RJ,Sudeste,2021-01-15
+2174,Cliente 2174,Masculino,34,25-34,São Paulo,SP,Sudeste,2023-08-10
+2175,Cliente 2175,Feminino,48,45-54,Londrina,PR,Sul,2023-10-09
+2176,Cliente 2176,Feminino,48,45-54,Joinville,SC,Sul,2024-03-11
+2177,Cliente 2177,Masculino,46,45-54,Salvador,BA,Nordeste,2022-07-04
+2178,Cliente 2178,Masculino,27,25-34,Joinville,SC,Sul,2022-09-30
+2179,Cliente 2179,Não informado,36,35-44,Vitória,ES,Sudeste,2023-06-12
+2180,Cliente 2180,Masculino,18,18-24,Recife,PE,Nordeste,2023-05-26
+2181,Cliente 2181,Feminino,26,25-34,Porto Velho,RO,Norte,2023-05-18
+2182,Cliente 2182,Masculino,35,35-44,Niterói,RJ,Sudeste,2021-09-06
+2183,Cliente 2183,Feminino,62,55+,Campinas,SP,Sudeste,2021-04-23
+2184,Cliente 2184,Masculino,34,25-34,Niterói,RJ,Sudeste,2023-04-19
+2185,Cliente 2185,Feminino,43,35-44,Vitória,ES,Sudeste,2022-09-24
+2186,Cliente 2186,Feminino,60,55+,Caxias do Sul,RS,Sul,2023-12-18
+2187,Cliente 2187,Feminino,18,18-24,Vitória,ES,Sudeste,2022-05-05
+2188,Cliente 2188,Masculino,54,45-54,Natal,RN,Nordeste,2024-08-28
+2189,Cliente 2189,Masculino,49,45-54,Niterói,RJ,Sudeste,2024-10-15
+2190,Cliente 2190,Feminino,58,55+,Rio de Janeiro,RJ,Sudeste,2023-02-10
+2191,Cliente 2191,Masculino,33,25-34,Campinas,SP,Sudeste,2022-08-07
+2192,Cliente 2192,Feminino,32,25-34,Niterói,RJ,Sudeste,2024-01-15
+2193,Cliente 2193,Masculino,40,35-44,Belo Horizonte,MG,Sudeste,2021-08-11
+2194,Cliente 2194,Feminino,40,35-44,Goiânia,GO,Centro-Oeste,2022-08-03
+2195,Cliente 2195,Masculino,41,35-44,Belo Horizonte,MG,Sudeste,2023-05-20
+2196,Cliente 2196,Masculino,18,18-24,Porto Velho,RO,Norte,2021-10-05
+2197,Cliente 2197,Masculino,20,18-24,João Pessoa,PB,Nordeste,2021-04-23
+2198,Cliente 2198,Masculino,27,25-34,Rio de Janeiro,RJ,Sudeste,2024-01-24
+2199,Cliente 2199,Masculino,51,45-54,Salvador,BA,Nordeste,2021-03-07
+2200,Cliente 2200,Feminino,46,45-54,Florianópolis,SC,Sul,2025-04-30
+2201,Cliente 2201,Feminino,18,18-24,Curitiba,PR,Sul,2024-07-01
+2202,Cliente 2202,Feminino,43,35-44,Niterói,RJ,Sudeste,2025-05-01
+2203,Cliente 2203,Masculino,40,35-44,Niterói,RJ,Sudeste,2021-04-01
+2204,Cliente 2204,Masculino,31,25-34,João Pessoa,PB,Nordeste,2025-02-13
+2205,Cliente 2205,Feminino,53,45-54,Londrina,PR,Sul,2022-04-18
+2206,Cliente 2206,Feminino,59,55+,Fortaleza,CE,Nordeste,2023-11-08
+2207,Cliente 2207,Masculino,36,35-44,Belém,PA,Norte,2021-11-12
+2208,Cliente 2208,Masculino,45,45-54,Cuiabá,MT,Centro-Oeste,2025-03-31
+2209,Cliente 2209,Masculino,18,18-24,São Paulo,SP,Sudeste,2025-02-28
+2210,Cliente 2210,Masculino,44,35-44,Rio de Janeiro,RJ,Sudeste,2021-12-28
+2211,Cliente 2211,Feminino,42,35-44,Niterói,RJ,Sudeste,2024-05-25
+2212,Cliente 2212,Masculino,42,35-44,Natal,RN,Nordeste,2022-02-03
+2213,Cliente 2213,Masculino,38,35-44,Curitiba,PR,Sul,2025-02-11
+2214,Cliente 2214,Feminino,18,18-24,Vitória,ES,Sudeste,2021-05-04
+2215,Cliente 2215,Masculino,46,45-54,Goiânia,GO,Centro-Oeste,2021-01-06
+2216,Cliente 2216,Feminino,34,25-34,Palmas,TO,Norte,2021-03-11
+2217,Cliente 2217,Feminino,26,25-34,Caxias do Sul,RS,Sul,2025-05-10
+2218,Cliente 2218,Masculino,37,35-44,Maceió,AL,Nordeste,2024-12-21
+2219,Cliente 2219,Feminino,33,25-34,Santos,SP,Sudeste,2023-09-23
+2220,Cliente 2220,Masculino,18,18-24,Belo Horizonte,MG,Sudeste,2023-04-21
+2221,Cliente 2221,Masculino,20,18-24,Salvador,BA,Nordeste,2021-12-27
+2222,Cliente 2222,Feminino,31,25-34,Rio de Janeiro,RJ,Sudeste,2025-02-04
+2223,Cliente 2223,Feminino,25,25-34,Joinville,SC,Sul,2023-05-27
+2224,Cliente 2224,Masculino,51,45-54,Goiânia,GO,Centro-Oeste,2023-06-05
+2225,Cliente 2225,Masculino,42,35-44,Londrina,PR,Sul,2025-06-06
+2226,Cliente 2226,Masculino,51,45-54,Niterói,RJ,Sudeste,2023-03-09
+2227,Cliente 2227,Masculino,45,45-54,Londrina,PR,Sul,2024-05-27
+2228,Cliente 2228,Feminino,32,25-34,Belo Horizonte,MG,Sudeste,2023-06-12
+2229,Cliente 2229,Não informado,58,55+,Santos,SP,Sudeste,2023-12-14
+2230,Cliente 2230,Feminino,30,25-34,São Paulo,SP,Sudeste,2022-10-08
+2231,Cliente 2231,Masculino,39,35-44,Caxias do Sul,RS,Sul,2024-03-20
+2232,Cliente 2232,Feminino,65,55+,Porto Alegre,RS,Sul,2022-03-14
+2233,Cliente 2233,Feminino,52,45-54,Campinas,SP,Sudeste,2023-08-13
+2234,Cliente 2234,Masculino,37,35-44,Salvador,BA,Nordeste,2024-07-14
+2235,Cliente 2235,Feminino,52,45-54,Belo Horizonte,MG,Sudeste,2022-07-16
+2236,Cliente 2236,Feminino,44,35-44,São Paulo,SP,Sudeste,2023-07-05
+2237,Cliente 2237,Feminino,48,45-54,Recife,PE,Nordeste,2024-09-15
+2238,Cliente 2238,Masculino,38,35-44,Brasília,DF,Centro-Oeste,2023-05-23
+2239,Cliente 2239,Masculino,41,35-44,Caxias do Sul,RS,Sul,2023-09-29
+2240,Cliente 2240,Feminino,39,35-44,São Paulo,SP,Sudeste,2022-08-25
+2241,Cliente 2241,Feminino,44,35-44,Recife,PE,Nordeste,2022-09-05
+2242,Cliente 2242,Feminino,23,18-24,Florianópolis,SC,Sul,2024-03-13
+2243,Cliente 2243,Masculino,29,25-34,Porto Alegre,RS,Sul,2023-11-08
+2244,Cliente 2244,Masculino,59,55+,Vitória,ES,Sudeste,2024-05-15
+2245,Cliente 2245,Masculino,48,45-54,Joinville,SC,Sul,2024-10-26
+2246,Cliente 2246,Masculino,32,25-34,Rio de Janeiro,RJ,Sudeste,2023-07-30
+2247,Cliente 2247,Masculino,51,45-54,Belo Horizonte,MG,Sudeste,2024-12-18
+2248,Cliente 2248,Feminino,18,18-24,Caxias do Sul,RS,Sul,2023-08-10
+2249,Cliente 2249,Masculino,18,18-24,Palmas,TO,Norte,2025-02-20
+2250,Cliente 2250,Feminino,44,35-44,São Paulo,SP,sudeste ,2024-07-29
+2251,Cliente 2251,Masculino,44,35-44,Campinas,SP,Sudeste,2023-02-10
+2252,Cliente 2252,Masculino,41,35-44,Santos,SP,Sudeste,2024-06-20
+2253,Cliente 2253,Masculino,42,35-44,Maceió,AL,Nordeste,2021-08-04
+2254,Cliente 2254,Feminino,45,45-54,Vitória,ES,Sudeste,2023-07-05
+2255,Cliente 2255,Masculino,42,35-44,Vitória,ES,Sudeste,2025-05-07
+2256,Cliente 2256,Feminino,33,25-34,Niterói,RJ,Sudeste,2021-12-29
+2257,Cliente 2257,Masculino,38,35-44,Niterói,RJ,Sudeste,2024-07-21
+2258,Cliente 2258,Feminino,31,25-34,Rio de Janeiro,RJ,Sudeste,2024-01-07
+2259,Cliente 2259,Masculino,24,18-24,Londrina,PR,sul ,2023-08-02
+2260,Cliente 2260,Masculino,45,45-54,Porto Alegre,RS,Sul,2021-09-15
+2261,Cliente 2261,Masculino,33,25-34,Rio de Janeiro,RJ,Sudeste,2023-11-09
+2262,Cliente 2262,Feminino,63,55+,Belém,PA,Norte,2023-01-19
+2263,Cliente 2263,Feminino,51,45-54,Belo Horizonte,MG,Sudeste,2023-03-22
+2264,Cliente 2264,Masculino,49,45-54,Vitória,ES,Sudeste,2023-05-10
+2265,Cliente 2265,Feminino,47,45-54,Maceió,AL,nordeste ,2022-04-25
+2266,Cliente 2266,Masculino,60,55+,Niterói,RJ,SUDESTE,2022-05-25
+2267,Cliente 2267,Masculino,44,35-44,Salvador,BA,Nordeste,2024-04-01
+2268,Cliente 2268,Masculino,49,45-54,Santos,SP,Sudeste,2021-06-02
+2269,Cliente 2269,Feminino,32,25-34,Niterói,RJ,Sudeste,2021-05-24
+2270,Cliente 2270,Feminino,37,35-44,Porto Alegre,RS,sul ,2021-06-01
+2271,Cliente 2271,Masculino,31,25-34,Campo Grande,MS,Centro-Oeste,2021-12-05
+2272,Cliente 2272,Não informado,47,45-54,Natal,RN,Nordeste,2024-07-22
+2273,Cliente 2273,Feminino,51,45-54,Vitória,ES,Sudeste,2021-11-19
+2274,Cliente 2274,Masculino,23,18-24,Caxias do Sul,RS,Sul,2022-10-18
+2275,Cliente 2275,Feminino,25,25-34,Florianópolis,SC,Sul,2021-12-11
+2276,Cliente 2276,Feminino,30,25-34,Maceió,AL,Nordeste,2024-09-24
+2277,Cliente 2277,Feminino,75,55+,São Paulo,SP,Sudeste,2022-08-08
+2278,Cliente 2278,Feminino,27,25-34,Recife,PE,Nordeste,2022-08-26
+2279,Cliente 2279,Feminino,41,35-44,Vitória,ES,Sudeste,2025-05-30
+2280,Cliente 2280,Não informado,49,45-54,São Paulo,SP,Sudeste,2024-09-04
+2281,Cliente 2281,Masculino,58,55+,Niterói,RJ,Sudeste,2024-05-29
+2282,Cliente 2282,Feminino,44,35-44,Recife,PE,Nordeste,2021-05-16
+2283,Cliente 2283,Feminino,35,35-44,Natal,RN,Nordeste,2023-12-24
+2284,Cliente 2284,Masculino,34,25-34,Vitória,ES,Sudeste,2025-04-13
+2285,Cliente 2285,Não informado,42,35-44,Florianópolis,SC,Sul,2024-02-29
+2286,Cliente 2286,Masculino,52,45-54,Palmas,TO,Norte,2021-03-10
+2287,Cliente 2287,Masculino,47,45-54,Belo Horizonte,MG,Sudeste,2022-02-18
+2288,Cliente 2288,Masculino,39,35-44,Santos,SP,Sudeste,2022-12-13
+2289,Cliente 2289,Feminino,35,35-44,Natal,RN,Nordeste,2022-07-16
+2290,Cliente 2290,Feminino,49,45-54,Cuiabá,MT,Centro-Oeste,2024-09-06
+2291,Cliente 2291,Não informado,38,35-44,Porto Alegre,RS,Sul,2021-01-23
+2292,Cliente 2292,Masculino,46,45-54,Belo Horizonte,MG,Sudeste,2024-12-20
+2293,Cliente 2293,Feminino,24,18-24,Salvador,BA,Nordeste,2021-10-20
+2294,Cliente 2294,Feminino,18,18-24,Santos,SP,Sudeste,2023-12-08
+2295,Cliente 2295,Masculino,43,35-44,Florianópolis,SC,Sul,2021-05-28
+2296,Cliente 2296,Feminino,37,35-44,Campinas,SP,Sudeste,2025-06-21
+2297,Cliente 2297,Feminino,40,35-44,Manaus,AM,Norte,2021-03-31
+2298,Cliente 2298,Masculino,35,35-44,Joinville,SC,Sul,2024-09-24
+2299,Cliente 2299,Masculino,45,45-54,Recife,PE,Nordeste,2023-10-17
+2300,Cliente 2300,Masculino,37,35-44,Santos,SP,Sudeste,2021-03-10
+2301,Cliente 2301,Feminino,57,55+,Joinville,SC,Sul,2022-05-13
+2302,Cliente 2302,Masculino,27,25-34,Fortaleza,CE,Nordeste,2022-02-20
+2303,Cliente 2303,Masculino,40,35-44,Caxias do Sul,RS,Sul,2021-07-03
+2304,Cliente 2304,Masculino,49,45-54,Campinas,SP,Sudeste,2025-02-26
+2305,Cliente 2305,Feminino,28,25-34,Natal,RN,Nordeste,2024-03-18
+2306,Cliente 2306,Feminino,20,18-24,Campinas,SP,Sudeste,2021-01-17
+2307,Cliente 2307,Feminino,38,35-44,Campinas,SP,Sudeste,2025-06-30
+2308,Cliente 2308,Feminino,32,25-34,Florianópolis,SC,Sul,2023-11-09
+2309,Cliente 2309,Masculino,55,55+,Belo Horizonte,MG,Sudeste,2023-07-23
+2310,Cliente 2310,Feminino,37,35-44,Niterói,RJ,Sudeste,2021-04-13
+2311,Cliente 2311,Masculino,43,35-44,Londrina,PR,Sul,2023-11-20
+2312,Cliente 2312,Masculino,44,35-44,Campinas,SP,Sudeste,2021-10-13
+2313,Cliente 2313,Feminino,19,18-24,Salvador,BA,Nordeste,2022-02-11
+2314,Cliente 2314,Feminino,31,25-34,Rio de Janeiro,RJ,Sudeste,2024-07-24
+2315,Cliente 2315,Masculino,41,35-44,Campinas,SP,Sudeste,2021-09-02
+2316,Cliente 2316,Feminino,36,35-44,Campinas,SP,Sudeste,2024-08-16
+2317,Cliente 2317,Feminino,40,35-44,Cuiabá,MT,Centro-Oeste,2025-01-31
+2318,Cliente 2318,Masculino,55,55+,Belém,PA,Norte,2021-08-28
+2319,Cliente 2319,Feminino,41,35-44,Goiânia,GO,Centro-Oeste,2025-04-02
+2320,Cliente 2320,Feminino,18,18-24,Santos,SP,Sudeste,2024-05-01
+2321,Cliente 2321,Masculino,57,55+,Joinville,SC,Sul,2024-10-13
+2322,Cliente 2322,Masculino,39,35-44,Cuiabá,MT,Centro-Oeste,2022-11-14
+2323,Cliente 2323,Masculino,33,25-34,Porto Alegre,RS,Sul,2022-09-08
+2324,Cliente 2324,Masculino,24,18-24,Brasília,DF,Centro-Oeste,2025-05-31
+2325,Cliente 2325,Feminino,30,25-34,Rio de Janeiro,RJ,Sudeste,2024-02-12
+2326,Cliente 2326,Masculino,33,25-34,Rio de Janeiro,RJ,Sudeste,2025-03-06
+2327,Cliente 2327,Masculino,50,45-54,Caxias do Sul,RS,Sul,2024-06-17
+2328,Cliente 2328,Feminino,68,55+,Campinas,SP,Sudeste,2022-10-22
+2329,Cliente 2329,Masculino,44,35-44,Maceió,AL,Nordeste,2021-05-20
+2330,Cliente 2330,Masculino,47,45-54,São Paulo,SP,Sudeste,2024-08-10
+2331,Cliente 2331,Feminino,56,55+,Curitiba,PR,Sul,2022-03-22
+2332,Cliente 2332,Masculino,70,55+,Goiânia,GO,Centro-Oeste,2025-02-06
+2333,Cliente 2333,Masculino,33,25-34,Recife,PE,Nordeste,2022-12-18
+2334,Cliente 2334,Masculino,18,18-24,Fortaleza,CE,Nordeste,2025-01-16
+2335,Cliente 2335,Masculino,18,18-24,Campinas,SP,Sudeste,2021-04-03
+2336,Cliente 2336,Feminino,35,35-44,Vitória,ES,Sudeste,2021-10-15
+2337,Cliente 2337,Masculino,46,45-54,Santos,SP,Sudeste,2024-08-05
+2338,Cliente 2338,Feminino,40,35-44,Niterói,RJ,Sudeste,2024-07-05
+2339,Cliente 2339,Feminino,34,25-34,Niterói,RJ,Sudeste,2022-10-17
+2340,Cliente 2340,Masculino,30,25-34,Recife,PE,Nordeste,2024-04-09
+2341,Cliente 2341,Masculino,48,45-54,Vitória,ES,Sudeste,2024-12-17
+2342,Cliente 2342,Feminino,32,25-34,Campinas,SP,Sudeste,2023-05-15
+2343,Cliente 2343,Masculino,59,55+,Rio de Janeiro,RJ,Sudeste,2025-01-11
+2344,Cliente 2344,Masculino,32,25-34,Joinville,SC,Sul,2023-08-16
+2345,Cliente 2345,Feminino,60,55+,João Pessoa,PB,Nordeste,2024-09-16
+2346,Cliente 2346,Masculino,45,45-54,Vitória,ES,Sudeste,2022-02-28
+2347,Cliente 2347,Masculino,20,18-24,São Paulo,SP,Sudeste,2021-11-05
+2348,Cliente 2348,Masculino,21,18-24,João Pessoa,PB,Nordeste,2023-06-21
+2349,Cliente 2349,Feminino,37,35-44,Cuiabá,MT,Centro-Oeste,2021-02-16
+2350,Cliente 2350,Feminino,61,55+,Natal,RN,Nordeste,2023-09-10
+2351,Cliente 2351,Feminino,32,25-34,Campinas,SP,Sudeste,2022-07-15
+2352,Cliente 2352,Feminino,26,25-34,Salvador,BA,Nordeste,2022-12-30
+2353,Cliente 2353,Masculino,45,45-54,Manaus,AM,Norte,2021-11-24
+2354,Cliente 2354,Feminino,51,45-54,Brasília,DF,Centro-Oeste,2022-12-29
+2355,Cliente 2355,Feminino,18,18-24,Florianópolis,SC,sul ,2021-09-10
+2356,Cliente 2356,Masculino,42,35-44,Vitória,ES,Sudeste,2021-06-01
+2357,Cliente 2357,Feminino,19,18-24,Vitória,ES,Sudeste,2022-04-01
+2358,Cliente 2358,Feminino,50,45-54,Palmas,TO,Norte,2024-02-25
+2359,Cliente 2359,Masculino,34,25-34,Brasília,DF,Centro-Oeste,2022-07-31
+2360,Cliente 2360,Masculino,58,55+,Londrina,PR,Sul,2024-03-02
+2361,Cliente 2361,Masculino,35,35-44,Belo Horizonte,MG,Sudeste,2023-07-11
+2362,Cliente 2362,Masculino,22,18-24,Belo Horizonte,MG,Sudeste,2023-11-25
+2363,Cliente 2363,Feminino,56,55+,São Paulo,SP,Sudeste,2025-03-23
+2364,Cliente 2364,Feminino,45,45-54,Belo Horizonte,MG,Sudeste,2024-01-03
+2365,Cliente 2365,Feminino,25,25-34,Londrina,PR,Sul,2021-08-07
+2366,Cliente 2366,Masculino,48,45-54,Campinas,SP,Sudeste,2021-07-25
+2367,Cliente 2367,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2023-03-26
+2368,Cliente 2368,Feminino,32,25-34,Niterói,RJ,Sudeste,2022-09-26
+2369,Cliente 2369,Feminino,18,18-24,Rio de Janeiro,RJ,Sudeste,2024-04-17
+2370,Cliente 2370,Feminino,27,25-34,Belo Horizonte,MG,Sudeste,2021-09-21
+2371,Cliente 2371,Feminino,20,18-24,Santos,SP,Sudeste,2022-12-22
+2372,Cliente 2372,Feminino,37,35-44,Campinas,SP,Sudeste,2022-11-21
+2373,Cliente 2373,Feminino,54,45-54,Belo Horizonte,MG,Sudeste,2023-10-17
+2374,Cliente 2374,Feminino,40,35-44,Fortaleza,CE,Nordeste,2021-11-16
+2375,Cliente 2375,Feminino,18,18-24,Londrina,PR,Sul,2024-02-26
+2376,Cliente 2376,Feminino,30,25-34,Fortaleza,CE,Nordeste,2023-04-04
+2377,Cliente 2377,Feminino,46,45-54,Curitiba,PR,Sul,2022-12-08
+2378,Cliente 2378,Feminino,36,35-44,Cuiabá,MT,Centro-Oeste,2022-09-29
+2379,Cliente 2379,Masculino,45,45-54,Manaus,AM,Norte,2023-08-17
+2380,Cliente 2380,Masculino,45,45-54,Niterói,RJ,Sudeste,2023-06-04
+2381,Cliente 2381,Feminino,43,35-44,Fortaleza,CE,Nordeste,2021-08-24
+2382,Cliente 2382,Feminino,58,55+,Brasília,DF,Centro-Oeste,2022-02-11
+2383,Cliente 2383,Masculino,41,35-44,Recife,PE,Nordeste,2022-10-15
+2384,Cliente 2384,Masculino,44,35-44,Campo Grande,MS,Centro-Oeste,2025-01-03
+2385,Cliente 2385,Feminino,58,55+,Salvador,BA,Nordeste,2021-08-21
+2386,Cliente 2386,Feminino,44,35-44,Brasília,DF,Centro-Oeste,2022-10-06
+2387,Cliente 2387,Masculino,32,25-34,Santos,SP,sudeste ,2022-09-05
+2388,Cliente 2388,Feminino,53,45-54,Santos,SP,Sudeste,2025-02-15
+2389,Cliente 2389,Feminino,18,18-24,Maceió,AL,Nordeste,2025-01-18
+2390,Cliente 2390,Masculino,40,35-44,Recife,PE,Nordeste,2022-08-28
+2391,Cliente 2391,Masculino,24,18-24,Vitória,ES,Sudeste,2022-02-15
+2392,Cliente 2392,Masculino,25,25-34,São Paulo,SP,Sudeste,2021-04-25
+2393,Cliente 2393,Feminino,31,25-34,Campo Grande,MS,Centro-Oeste,2024-10-30
+2394,Cliente 2394,Feminino,46,45-54,Florianópolis,SC,Sul,2021-06-27
+2395,Cliente 2395,Feminino,31,25-34,Salvador,BA,Nordeste,2022-03-23
+2396,Cliente 2396,Feminino,42,35-44,Brasília,DF,Centro-Oeste,2023-12-16
+2397,Cliente 2397,Masculino,50,45-54,Salvador,BA,Nordeste,2022-11-28
+2398,Cliente 2398,Masculino,18,18-24,Recife,PE,Nordeste,2021-05-31
+2399,Cliente 2399,Feminino,21,18-24,Porto Alegre,RS,Sul,2022-11-06
+2400,Cliente 2400,Feminino,30,25-34,Santos,SP,Sudeste,2021-02-06
+2401,Cliente 2401,Masculino,54,45-54,Campinas,SP,SUDESTE,2024-06-26
+2402,Cliente 2402,Feminino,18,18-24,Natal,RN,Nordeste,2024-01-08
+2403,Cliente 2403,Feminino,35,35-44,Belém,PA,Norte,2021-02-04
+2404,Cliente 2404,Feminino,62,55+,Belo Horizonte,MG,Sudeste,2021-02-06
+2405,Cliente 2405,Masculino,67,55+,Joinville,SC,Sul,2021-10-02
+2406,Cliente 2406,Masculino,57,55+,Rio de Janeiro,RJ,Sudeste,2021-12-28
+2407,Cliente 2407,Masculino,49,45-54,Fortaleza,CE,Nordeste,2023-10-15
+2408,Cliente 2408,Feminino,47,45-54,Campinas,SP,Sudeste,2023-02-10
+2409,Cliente 2409,Masculino,50,45-54,Joinville,SC,Sul,2023-06-03
+2410,Cliente 2410,Masculino,19,18-24,Campinas,SP,Sudeste,2023-01-19
+2411,Cliente 2411,Masculino,18,18-24,Vitória,ES,Sudeste,2021-10-06
+2412,Cliente 2412,Masculino,25,25-34,Santos,SP,Sudeste,2021-11-07
+2413,Cliente 2413,Masculino,34,25-34,Niterói,RJ,Sudeste,2023-02-20
+2414,Cliente 2414,Feminino,38,35-44,Salvador,BA,Nordeste,2024-10-22
+2415,Cliente 2415,Masculino,24,18-24,Belo Horizonte,MG,Sudeste,2023-05-02
+2416,Cliente 2416,Feminino,56,55+,Recife,PE,Nordeste,2024-11-21
+2417,Cliente 2417,Masculino,48,45-54,Vitória,ES,Sudeste,2024-12-13
+2418,Cliente 2418,Masculino,52,45-54,Brasília,DF,Centro-Oeste,2021-01-07
+2419,Cliente 2419,Feminino,24,18-24,Santos,SP,Sudeste,2025-01-23
+2420,Cliente 2420,Masculino,38,35-44,Belo Horizonte,MG,Sudeste,2024-11-04
+2421,Cliente 2421,Masculino,39,35-44,Florianópolis,SC,Sul,2024-10-08
+2422,Cliente 2422,Feminino,29,25-34,Santos,SP,Sudeste,2022-09-25
+2423,Cliente 2423,Feminino,26,25-34,Campo Grande,MS,Centro-Oeste,2023-05-14
+2424,Cliente 2424,Feminino,38,35-44,São Paulo,SP,Sudeste,2023-07-09
+2425,Cliente 2425,Feminino,32,25-34,Florianópolis,SC,Sul,2023-02-14
+2426,Cliente 2426,Masculino,32,25-34,Santos,SP,Sudeste,2022-04-05
+2427,Cliente 2427,Masculino,49,45-54,Natal,RN,Nordeste,2022-05-24
+2428,Cliente 2428,Masculino,34,25-34,São Paulo,SP,Sudeste,2021-11-17
+2429,Cliente 2429,Feminino,51,45-54,São Paulo,SP,Sudeste,2024-07-06
+2430,Cliente 2430,Feminino,26,25-34,Natal,RN,Nordeste,2022-06-12
+2431,Cliente 2431,Feminino,38,35-44,Caxias do Sul,RS,Sul,2024-09-16
+2432,Cliente 2432,Feminino,27,25-34,Santos,SP,Sudeste,2021-01-27
+2433,Cliente 2433,Masculino,35,35-44,Rio de Janeiro,RJ,Sudeste,2025-06-21
+2434,Cliente 2434,Masculino,23,18-24,Vitória,ES,Sudeste,2024-08-20
+2435,Cliente 2435,Masculino,28,25-34,Belo Horizonte,MG,Sudeste,2024-01-11
+2436,Cliente 2436,Feminino,40,35-44,Goiânia,GO,Centro-Oeste,2023-06-19
+2437,Cliente 2437,Não informado,49,45-54,Caxias do Sul,RS,Sul,2023-02-28
+2438,Cliente 2438,Masculino,41,35-44,Campo Grande,MS,Centro-Oeste,2023-09-28
+2439,Cliente 2439,Feminino,34,25-34,Belo Horizonte,MG,Sudeste,2024-04-22
+2440,Cliente 2440,Masculino,46,45-54,Porto Alegre,RS,Sul,2024-03-01
+2441,Cliente 2441,Masculino,38,35-44,Brasília,DF,Centro-Oeste,2022-09-26
+2442,Cliente 2442,Não informado,31,25-34,Vitória,ES,Sudeste,2021-04-08
+2443,Cliente 2443,Feminino,39,35-44,Joinville,SC,Sul,2022-01-09
+2444,Cliente 2444,Feminino,64,55+,Joinville,SC,Sul,2022-04-26
+2445,Cliente 2445,Feminino,30,25-34,Maceió,AL,Nordeste,2021-08-23
+2446,Cliente 2446,Masculino,51,45-54,Rio de Janeiro,RJ,Sudeste,2024-04-18
+2447,Cliente 2447,Feminino,34,25-34,Belo Horizonte,MG,Sudeste,2024-03-25
+2448,Cliente 2448,Feminino,18,18-24,Niterói,RJ,Sudeste,2022-08-04
+2449,Cliente 2449,Feminino,58,55+,Rio de Janeiro,RJ,Sudeste,2025-04-28
+2450,Cliente 2450,Masculino,51,45-54,Rio de Janeiro,RJ,Sudeste,2024-10-07
+2451,Cliente 2451,Masculino,33,25-34,Niterói,RJ,Sudeste,2024-01-14
+2452,Cliente 2452,Masculino,26,25-34,Rio de Janeiro,RJ,Sudeste,2024-12-28
+2453,Cliente 2453,Feminino,42,35-44,Rio de Janeiro,RJ,Sudeste,2022-08-22
+2454,Cliente 2454,Masculino,48,45-54,João Pessoa,PB,Nordeste,2025-01-16
+2455,Cliente 2455,Feminino,33,25-34,Belo Horizonte,MG,Sudeste,2021-08-02
+2456,Cliente 2456,Feminino,57,55+,Natal,RN,Nordeste,2024-10-28
+2457,Cliente 2457,Masculino,40,35-44,Campo Grande,MS,Centro-Oeste,2024-07-23
+2458,Cliente 2458,Masculino,25,25-34,Belo Horizonte,MG,Sudeste,2022-05-16
+2459,Cliente 2459,Masculino,48,45-54,Manaus,AM,Norte,2025-04-19
+2460,Cliente 2460,Masculino,49,45-54,Vitória,ES,Sudeste,2024-05-27
+2461,Cliente 2461,Feminino,32,25-34,Niterói,RJ,Sudeste,2023-02-23
+2462,Cliente 2462,Masculino,46,45-54,Cuiabá,MT,Centro-Oeste,2023-08-07
+2463,Cliente 2463,Masculino,24,18-24,Niterói,RJ,Sudeste,2021-02-14
+2464,Cliente 2464,Feminino,29,25-34,Cuiabá,MT,Centro-Oeste,2022-06-19
+2465,Cliente 2465,Não informado,34,25-34,Salvador,BA,Nordeste,2022-06-03
+2466,Cliente 2466,Masculino,40,35-44,Fortaleza,CE,Nordeste,2021-09-12
+2467,Cliente 2467,Masculino,52,45-54,Cuiabá,MT,Centro-Oeste,2023-09-10
+2468,Cliente 2468,Feminino,44,35-44,Curitiba,PR,Sul,2023-04-15
+2469,Cliente 2469,Masculino,45,45-54,Cuiabá,MT,Centro-Oeste,2023-11-11
+2470,Cliente 2470,Feminino,41,35-44,São Paulo,SP,Sudeste,2021-05-01
+2471,Cliente 2471,Masculino,41,35-44,Maceió,AL,Nordeste,2022-08-19
+2472,Cliente 2472,Feminino,40,35-44,Florianópolis,SC,Sul,2022-10-26
+2473,Cliente 2473,Masculino,40,35-44,Caxias do Sul,RS,Sul,2021-01-04
+2474,Cliente 2474,Masculino,29,25-34,São Paulo,SP,Sudeste,2021-10-06
+2475,Cliente 2475,Feminino,42,35-44,Rio de Janeiro,RJ,Sudeste,2021-06-30
+2476,Cliente 2476,Masculino,39,35-44,Rio de Janeiro,RJ,Sudeste,2021-06-15
+2477,Cliente 2477,Masculino,53,45-54,Londrina,PR,Sul,2022-11-01
+2478,Cliente 2478,Masculino,18,18-24,Santos,SP,Sudeste,2023-07-30
+2479,Cliente 2479,Masculino,33,25-34,Londrina,PR,Sul,2025-05-12
+2480,Cliente 2480,Masculino,25,25-34,Rio de Janeiro,RJ,Sudeste,2024-05-17
+2481,Cliente 2481,Masculino,39,35-44,Brasília,DF,Centro-Oeste,2021-05-20
+2482,Cliente 2482,Feminino,36,35-44,Porto Alegre,RS,Sul,2021-02-26
+2483,Cliente 2483,Feminino,53,45-54,Palmas,TO,Norte,2025-04-21
+2484,Cliente 2484,Masculino,60,55+,Fortaleza,CE,Nordeste,2021-08-01
+2485,Cliente 2485,Feminino,32,25-34,Belo Horizonte,MG,Sudeste,2023-02-01
+2486,Cliente 2486,Feminino,32,25-34,Campo Grande,MS,Centro-Oeste,2024-01-04
+2487,Cliente 2487,Feminino,25,25-34,Campinas,SP,Sudeste,2024-09-09
+2488,Cliente 2488,Feminino,49,45-54,Salvador,BA,Nordeste,2023-09-08
+2489,Cliente 2489,Feminino,45,45-54,Campinas,SP,Sudeste,2025-01-17
+2490,Cliente 2490,Feminino,40,35-44,Santos,SP,Sudeste,2022-03-19
+2491,Cliente 2491,Masculino,37,35-44,Manaus,AM,Norte,2022-02-22
+2492,Cliente 2492,Feminino,31,25-34,Maceió,AL,Nordeste,2022-12-02
+2493,Cliente 2493,Não informado,35,35-44,Goiânia,GO,Centro-Oeste,2023-08-23
+2494,Cliente 2494,Masculino,45,45-54,Niterói,RJ,Sudeste,2024-02-27
+2495,Cliente 2495,Feminino,42,35-44,Vitória,ES,sudeste ,2021-08-01
+2496,Cliente 2496,Masculino,34,25-34,João Pessoa,PB,Nordeste,2021-10-02
+2497,Cliente 2497,Feminino,23,18-24,Salvador,BA,Nordeste,2023-12-14
+2498,Cliente 2498,Masculino,47,45-54,Joinville,SC,Sul,2021-08-04
+2499,Cliente 2499,Feminino,45,45-54,Santos,SP,Sudeste,2022-09-30
+2500,Cliente 2500,Feminino,48,45-54,Curitiba,PR,Sul,2024-02-07

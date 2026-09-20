@@ -1,0 +1,37 @@
+{
+  "name": "slicer_categoria_p2",
+  "position": {
+    "height": 64,
+    "x": 520,
+    "z": 7001,
+    "width": 420,
+    "y": 160,
+    "tabOrder": 7001
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Categoria",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dProdutos"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dProdutos.Categoria",
+              "nativeQueryRef": "Categoria"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

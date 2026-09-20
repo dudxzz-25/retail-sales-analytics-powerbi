@@ -1,0 +1,37 @@
+{
+  "name": "card_receita_total_p2",
+  "position": {
+    "height": 130,
+    "x": 40,
+    "z": 1000,
+    "width": 420,
+    "y": 20,
+    "tabOrder": 1000
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Property": "Receita Total",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  }
+                }
+              },
+              "queryRef": "_Medidas.Receita Total",
+              "nativeQueryRef": "Receita Total"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "cardVisual"
+  }
+}

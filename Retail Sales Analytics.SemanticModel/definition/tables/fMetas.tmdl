@@ -1,0 +1,33 @@
+table fMetas
+	lineageTag: 1d0b1953-ffa4-407b-bdf7-52f33a742a6a
+
+	column Data
+		dataType: dateTime
+		lineageTag: 6177036b-7054-44d8-a177-c06f0fb79a37
+		sourceColumn: Data
+
+	column LojaID
+		dataType: int64
+		lineageTag: 5f0eade6-673d-417a-9ceb-eb8aec7c970d
+		sourceColumn: LojaID
+
+	column MetaReceita
+		dataType: double
+		lineageTag: d4fc2989-9b27-489e-ade1-6c08456c0a69
+		sourceColumn: MetaReceita
+
+	column MetaLucro
+		dataType: double
+		lineageTag: ace87731-4b1a-4c4f-b2d0-b7a2dba50cfa
+		sourceColumn: MetaLucro
+
+	partition fMetas = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\\Users\\samsung\\Downloads\\Retail Sales Analytics\\data\\raw\\fMetas.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    ChangedType = Table.TransformColumnTypes(PromotedHeaders, {{"Data", type date}, {"LojaID", Int64.Type}, {"MetaReceita", type number}, {"MetaLucro", type number}})
+				in
+				    ChangedType
+

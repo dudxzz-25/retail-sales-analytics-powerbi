@@ -1,0 +1,13 @@
+﻿LojaID,Loja,Cidade,Estado,Regiao
+1,Loja São Paulo Centro,São Paulo,SP,Sudeste
+2,Loja Campinas,Campinas,SP,Sudeste
+3,Loja Rio de Janeiro,Rio de Janeiro,RJ,Sudeste
+4,Loja Belo Horizonte,Belo Horizonte,MG,Sudeste
+5,Loja Curitiba,Curitiba,PR,Sul
+6,Loja Porto Alegre,Porto Alegre,RS,Sul
+7,Loja Brasília,Brasília,DF,Centro-Oeste
+8,Loja Goiânia,Goiânia,GO,Centro-Oeste
+9,Loja Salvador,Salvador,BA,Nordeste
+10,Loja Recife,Recife,PE,Nordeste
+11,Loja Fortaleza,Fortaleza,CE,Nordeste
+12,Loja Manaus,Manaus,AM,Norte

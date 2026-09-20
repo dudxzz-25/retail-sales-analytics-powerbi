@@ -1,0 +1,37 @@
+{
+  "name": "slicer_mes_p4",
+  "position": {
+    "height": 64,
+    "x": 510,
+    "z": 8001,
+    "width": 430,
+    "y": 160,
+    "tabOrder": 8001
+  },
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "visual": {
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Property": "Mes",
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "dCalendario"
+                    }
+                  }
+                }
+              },
+              "queryRef": "dCalendario.Mes",
+              "nativeQueryRef": "Mes"
+            }
+          ]
+        }
+      }
+    },
+    "visualType": "slicer"
+  }
+}

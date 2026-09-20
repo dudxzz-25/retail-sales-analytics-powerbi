@@ -1,0 +1,65 @@
+table dCalendario
+	lineageTag: 82a81c25-49f7-432d-bdeb-fa29ceb9d4e3
+	dataCategory: Time
+
+	column Date
+		dataType: dateTime
+		isUnique
+		lineageTag: 69ba3b3c-c259-48d2-82a0-4b39dc231913
+		sourceColumn: Date
+
+	column Ano
+		dataType: int64
+		lineageTag: e1ac76de-f402-465b-9ede-ee905aeb6bdc
+		sourceColumn: Ano
+
+	column MesNumero
+		dataType: int64
+		lineageTag: 41d43367-e7e7-4885-a935-5cd49ebb4234
+		sourceColumn: MesNumero
+
+	column Mes
+		dataType: string
+		lineageTag: 9d17eb1e-c1ae-4207-aa92-9513a1211469
+		sourceColumn: Mes
+		sortByColumn: MesNumero
+
+	column AnoMes
+		dataType: string
+		lineageTag: 606aba45-a105-4dc5-ac15-8669493a3608
+		sourceColumn: AnoMes
+
+	column Trimestre
+		dataType: string
+		lineageTag: 05b6dd6b-1b44-4aba-b6dd-6716e55ccbd0
+		sourceColumn: Trimestre
+
+	column DiaSemanaNumero
+		dataType: int64
+		lineageTag: f8b9c62c-1b88-4d34-852c-92a3f2243b33
+		sourceColumn: DiaSemanaNumero
+
+	column DiaSemana
+		dataType: string
+		lineageTag: 2bc06b68-4a16-499b-b019-11f296ac07f7
+		sourceColumn: DiaSemana
+
+	partition dCalendario = m
+		mode: import
+		source =
+				let
+				    MinDate = List.Min(fVendas[Data]),
+				    MaxDate = List.Max(fVendas[Data]),
+				    DateList = List.Dates(Date.StartOfDay(MinDate), Duration.Days(MaxDate - MinDate) + 1, #duration(1,0,0,0)),
+				    Source = Table.FromList(DateList, Splitter.SplitByNothing(), {"Date"}),
+				    AddedAno = Table.AddColumn(Source, "Ano", each Date.Year([Date]), Int64.Type),
+				    AddedMesNumero = Table.AddColumn(AddedAno, "MesNumero", each Date.Month([Date]), Int64.Type),
+				    AddedMes = Table.AddColumn(AddedMesNumero, "Mes", each Date.ToText([Date], "MMM", "pt-BR"), type text),
+				    AddedAnoMes = Table.AddColumn(AddedMes, "AnoMes", each Text.From(Date.Year([Date])) & "-" & Text.PadStart(Text.From(Date.Month([Date])), 2, "0"), type text),
+				    AddedTrimestre = Table.AddColumn(AddedAnoMes, "Trimestre", each "Q" & Text.From(Date.QuarterOfYear([Date])), type text),
+				    AddedDiaSemanaNumero = Table.AddColumn(AddedTrimestre, "DiaSemanaNumero", each Date.DayOfWeek([Date]) + 1, Int64.Type),
+				    AddedDiaSemana = Table.AddColumn(AddedDiaSemanaNumero, "DiaSemana", each Date.ToText([Date], "dddd", "pt-BR"), type text),
+				    ChangedType = Table.TransformColumnTypes(AddedDiaSemana, {{"Date", type date}})
+				in
+				    ChangedType
+
