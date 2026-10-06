@@ -215,6 +215,7 @@ O formato PBIP mantém o relatório e o modelo semântico em arquivos versionáv
 - [Modelo de dados](docs/MODELO_DADOS.md)
 - [Plano de tratamento no Power Query](docs/POWER_QUERY_PLAN.md)
 - [Valores de validação e insights](docs/INSIGHTS_VALIDACAO.md)
+- [Especificação do projeto](docs/PROJECT_SPEC.md)
 
 ## Tecnologias e conceitos
 
@@ -236,4 +237,4 @@ Este projeto foi desenvolvido para demonstrar, na prática, competências em:
 
 Desenvolvido por **Eduardo de Toledo Dias** como projeto de portfólio em Dados & BI.
 
-[Portfólio](https://dudxzz-25.github.io/portfolio-web/) · [GitHub](https://github.com/dudxzz-25)
+[Portfólio](https://dudxzz-25.github.io/portfolio-web/) · [GitHub](https://github.com/dudxzz-25) · [LinkedIn](https://www.linkedin.com/in/eduardo-de-toledo-dias-880b9834b/)
