@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Power BI project structure
+        run: |
+          test -f "Retail Sales Analytics.pbip"
+          test -f "Retail Sales Analytics.pbix"
+          test -f "Retail Sales Analytics.Report/definition/report.json"
+          test -f "Retail Sales Analytics.SemanticModel/definition/model.tmdl"
+          test -f "Retail Sales Analytics.SemanticModel/definition/tables/_Medidas.tmdl"
+          test -f "docs/DAX_MEASURES.md"
+          test -f "docs/PROJECT_SPEC.md"
+          test -f "screenshots/final-refinement/Visão Geral Executiva.png"
+      - name: Validate key measures documentation
+        run: |
+          grep -q "Receita Total" docs/DAX_MEASURES.md
+          grep -q "Crescimento YoY" docs/DAX_MEASURES.md
