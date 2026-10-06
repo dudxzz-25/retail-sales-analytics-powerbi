@@ -1,5 +1,13 @@
 # Retail Sales Analytics — Power BI
 
+<p align="center">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Portfolio-F2C811?logo=powerbi&logoColor=black">
+  <img alt="DAX" src="https://img.shields.io/badge/DAX-Measures-6B46C1">
+  <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-ETL-217346">
+  <a href="https://github.com/dudxzz-25/retail-sales-analytics-powerbi/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/retail-sales-analytics-powerbi/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 Projeto end-to-end de **Business Intelligence** desenvolvido para analisar desempenho comercial de uma operação de varejo com dados sintéticos.
 
 A solução cobre o fluxo completo de BI: **tratamento de dados com Power Query, modelagem dimensional em esquema estrela, criação de medidas DAX, análise de KPIs, construção de dashboards interativos e validação dos resultados**.
